@@ -1,0 +1,57 @@
+---
+layout: default
+title: "boy-and-the-heron Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# boy-and-the-heron sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | The Boy and the Heron |
+| Collection key | `boy-and-the-heron` |
+| imdb_id | [tt6587046](https://www.imdb.com/title/tt6587046/) |
+| wikipedia_url | UNAVAILABLE |
+| Sample dates | 2024-06-26-to-2025-01-08 |
+| Sample days | 197 (2024–2025) |
+| BTIH count | 237 |
+| Unique BTIH count | 192 |
+| Downloaders total | 29,063,733 |
+| Uploaders total | 2,113,998 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Cache coverage report
+
+UNAVAILABLE: no sample archive on this host.
+
+## 3. Collection size histogram
+
+![The Boy and the Heron collection size histogram](figures/boy-and-the-heron-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+![boy-and-the-heron downloads by week](figures/boy-and-the-heron-downloads-by-week-boy-and-the-heron-week.svg)
+
+### Downloads by day, Saturday and Sunday in gray
+
+![boy-and-the-heron downloads by day](figures/boy-and-the-heron-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Continental downloader slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 1.38 | 16.74 | 26.81 | 51.02 | 0.94 | 0.67 |
+
+### Cumulative network infrastructure
+
+[![The Boy and the Heron cumulative map](figures/boy-and-the-heron-carto.png)](figures/boy-and-the-heron-carto-4k.webp){:target="_blank" rel="noopener"}
+
+UNAVAILABLE — no cumulative data maps were rendered.
