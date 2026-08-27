@@ -1,0 +1,4 @@
+# Host-local build products staged by the year-2024 campaign.
+/bin/a60-cache-recache-synthesize-uniques.exe
+/bin/a60-carto-geo.exe
+/bin/year-2024-worker-loop.sh
