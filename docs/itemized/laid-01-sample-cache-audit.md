@@ -13,6 +13,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- |
 | Media object | Laid |
 | Collection key | `laid-01` |
+| imdb_id | [tt21114548](https://www.imdb.com/title/tt21114548/) |
+| wikipedia_url | UNAVAILABLE |
 | Sample dates | 2024-12-19-to-2025-04-09 |
 | Sample days | 112 (2024–2025) |
 | BTIH count | 278 |
@@ -36,7 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` — missing 1 hour(s)
 
-## 3. Visualization pass — graphs
+## 3. Collection size histogram
+
+UNAVAILABLE — no collection size histogram was rendered.
+
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -46,7 +52,13 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![laid-01 downloads by day](figures/laid-01-downloads-by-day-day.svg)
 
-## 4. Visualization pass — maps
+## 5. Visualization pass — maps
+
+### Continental downloader slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 0.95 | 14.75 | 27.49 | 53.70 | 0.71 | 0.52 |
 
 ### Cumulative network infrastructure
 
