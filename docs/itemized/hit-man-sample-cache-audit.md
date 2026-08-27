@@ -44,4 +44,10 @@ UNAVAILABLE: no sample archive on this host.
 
 ## 5. Visualization pass — maps
 
+### Continental downloader slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 3.89 | 16.29 | 25.86 | 47.19 | 1.13 | 0.62 |
+
 UNAVAILABLE — no cumulative data maps were rendered.
