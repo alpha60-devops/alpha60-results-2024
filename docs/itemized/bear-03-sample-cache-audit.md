@@ -56,6 +56,12 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
+### Continental downloader slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 1.20 | 18.33 | 24.62 | 51.65 | 1.21 | 0.60 |
+
 ### Cumulative network infrastructure
 
 [![The Bear cumulative map](figures/bear-03-carto.png)](figures/bear-03-carto-4k.webp){:target="_blank" rel="noopener"}
