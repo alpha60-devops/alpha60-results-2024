@@ -26,7 +26,18 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:47:35Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/squid-game-02.xz`
+- Hour directories: 4346
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (2 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2025-03-19 22:06`, resumed `2025-03-20 00:06` — missing 1 hour(s)
+- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` — missing 1 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Squid Game cumulative map](figures/squid-game-02-carto.png)](figures/squid-game-02-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/squid-game-02-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/squid-game-02-data-lt-1080p.webp)

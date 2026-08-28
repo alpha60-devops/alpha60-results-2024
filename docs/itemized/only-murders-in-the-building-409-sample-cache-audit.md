@@ -26,7 +26,18 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:07:58Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/only-murders-in-the-building-409.xz`
+- Hour directories: 2517
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (3 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-12-30 20:03`, resumed `2024-12-30 22:03` — missing 1 hour(s)
+- hourly gap: last `2025-01-11 22:03`, resumed `2025-01-12 01:03` — missing 2 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Only Murders In the Building cumulative map](figures/only-murders-in-the-building-409-carto.png)](figures/only-murders-in-the-building-409-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/only-murders-in-the-building-409-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/only-murders-in-the-building-409-data-lt-1080p.webp)

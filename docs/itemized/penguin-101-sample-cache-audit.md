@@ -26,7 +26,17 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:12:10Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/penguin-101.xz`
+- Hour directories: 4343
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (7 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-11-29 10:00`, resumed `2024-11-29 18:00` — missing 7 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +64,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![The Penguin cumulative map](figures/penguin-101-carto.png)](figures/penguin-101-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/penguin-101-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/penguin-101-data-lt-1080p.webp)

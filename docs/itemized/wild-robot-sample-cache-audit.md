@@ -26,7 +26,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:58:09Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/wild-robot.xz`
+- Hour directories: 4400
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 3 (136 missing hours)
+- Missing days: 5
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-12-26 08:03`, resumed `2024-12-30 00:03` — missing 87 hour(s)
+- hourly gap: last `2025-01-07 23:03`, resumed `2025-01-10 00:03` — missing 48 hour(s)
+- hourly gap: last `2025-03-30 01:03`, resumed `2025-03-30 03:03` — missing 1 hour(s)
+- missing day: `2024-12-27`
+- missing day: `2024-12-28`
+- missing day: `2024-12-29`
+- missing day: `2025-01-08`
+- missing day: `2025-01-09`
 
 ## 3. Collection size histogram
 
@@ -54,4 +71,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Wild Robot cumulative map](figures/wild-robot-carto.png)](figures/wild-robot-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/wild-robot-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/wild-robot-data-lt-1080p.webp)

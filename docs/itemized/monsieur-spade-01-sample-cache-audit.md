@@ -26,7 +26,18 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:00:58Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/monsieur-spade-01.xz`
+- Hour directories: 2509
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (11 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 06:03` — missing 10 hour(s)
+- hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` — missing 1 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Monsieur Spade cumulative map](figures/monsieur-spade-01-carto.png)](figures/monsieur-spade-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/monsieur-spade-01-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/monsieur-spade-01-data-lt-1080p.webp)

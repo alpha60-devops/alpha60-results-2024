@@ -26,7 +26,19 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T20:58:42Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-110.xz`
+- Hour directories: 3480
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 3 (41 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-03-31 01:06`, resumed `2024-03-31 03:06` — missing 1 hour(s)
+- hourly gap: last `2024-04-20 06:06`, resumed `2024-04-21 00:06` — missing 17 hour(s)
+- hourly gap: last `2024-04-21 00:06`, resumed `2024-04-22 00:06` — missing 23 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +66,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Monarch: Legacy of Monsters cumulative map](figures/monarch-legacy-of-monsters-110-carto.png)](figures/monarch-legacy-of-monsters-110-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/monarch-legacy-of-monsters-110-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/monarch-legacy-of-monsters-110-data-lt-1080p.webp)

@@ -26,7 +26,18 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:44:51Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/special-ops-lioness-201.xz`
+- Hour directories: 2492
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (25 missing hours)
+- Missing days: 1
+
+### Sample archive discontinuities
+
+- hourly gap: last `2025-01-10 22:03`, resumed `2025-01-12 00:54` — missing 25 hour(s)
+- missing day: `2025-01-11`
 
 ## 3. Collection size histogram
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Special Ops Lioness cumulative map](figures/special-ops-lioness-201-carto.png)](figures/special-ops-lioness-201-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/special-ops-lioness-201-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/special-ops-lioness-201-data-lt-1080p.webp)

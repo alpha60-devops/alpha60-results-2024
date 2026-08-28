@@ -26,7 +26,17 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T20:35:34Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/inside-out-2.xz`
+- Hour directories: 4613
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 0 (0 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+None detected.
 
 ## 3. Collection size histogram
 
@@ -54,4 +64,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Inside Out 2 cumulative map](figures/inside-out-2-carto.png)](figures/inside-out-2-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/inside-out-2-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/inside-out-2-data-lt-1080p.webp)

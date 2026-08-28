@@ -26,7 +26,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:57:35Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/what-if-2021-03.xz`
+- Hour directories: 4241
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 4 (104 missing hours)
+- Missing days: 4
+
+### Sample archive discontinuities
+
+- hourly gap: last `2025-01-10 22:06`, resumed `2025-01-12 01:06` — missing 26 hour(s)
+- hourly gap: last `2025-03-14 22:06`, resumed `2025-03-15 03:06` — missing 4 hour(s)
+- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` — missing 1 hour(s)
+- hourly gap: last `2025-06-11 22:06`, resumed `2025-06-15 00:06` — missing 73 hour(s)
+- missing day: `2025-01-11`
+- missing day: `2025-06-12`
+- missing day: `2025-06-13`
+- missing day: `2025-06-14`
 
 ## 3. Collection size histogram
 
@@ -54,4 +71,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![What if? cumulative map](figures/what-if-2021-03-carto.png)](figures/what-if-2021-03-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/what-if-2021-03-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/what-if-2021-03-data-lt-1080p.webp)

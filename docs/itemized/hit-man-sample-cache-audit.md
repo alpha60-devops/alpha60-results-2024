@@ -26,7 +26,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-- Generated: 2026-08-28T18:41:50Z
+- Generated: 2026-08-28T22:23:24Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/hit-man.xz`
 - Hour directories: 2536
 - Zero-length sample files: 0
@@ -59,6 +59,12 @@ None detected.
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.89 | 16.29 | 25.86 | 47.19 | 1.13 | 0.62 |
+
+### Cumulative network infrastructure
+
+[![Hit Man cumulative map](figures/hit-man-carto.png)](figures/hit-man-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### Cumulative data maps
 
 **Cumulative >= 1080p**
 

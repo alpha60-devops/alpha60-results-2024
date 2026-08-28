@@ -26,7 +26,23 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:05:49Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/only-murders-in-the-building-401.xz`
+- Hour directories: 4290
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 5 (61 missing hours)
+- Missing days: 2
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-12-30 20:06`, resumed `2024-12-30 22:06` — missing 1 hour(s)
+- hourly gap: last `2025-01-11 22:06`, resumed `2025-01-12 01:06` — missing 2 hour(s)
+- hourly gap: last `2025-02-08 22:06`, resumed `2025-02-10 00:06` — missing 25 hour(s)
+- hourly gap: last `2025-02-18 17:06`, resumed `2025-02-19 00:06` — missing 6 hour(s)
+- hourly gap: last `2025-02-20 22:06`, resumed `2025-02-22 02:06` — missing 27 hour(s)
+- missing day: `2025-02-09`
+- missing day: `2025-02-21`
 
 ## 3. Collection size histogram
 
@@ -54,4 +70,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Only Murders In the Building cumulative map](figures/only-murders-in-the-building-401-carto.png)](figures/only-murders-in-the-building-401-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/only-murders-in-the-building-401-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/only-murders-in-the-building-401-data-lt-1080p.webp)

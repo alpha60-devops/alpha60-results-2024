@@ -26,7 +26,18 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T21:57:24Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/we-are-lady-parts-02.xz`
+- Hour directories: 1637
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (24 missing hours)
+- Missing days: 1
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-07-18 23:03`, resumed `2024-07-20 00:03` — missing 24 hour(s)
+- missing day: `2024-07-19`
 
 ## 3. Collection size histogram
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![We Are Lady Parts cumulative map](figures/we-are-lady-parts-02-carto.png)](figures/we-are-lady-parts-02-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/we-are-lady-parts-02-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/we-are-lady-parts-02-data-lt-1080p.webp)

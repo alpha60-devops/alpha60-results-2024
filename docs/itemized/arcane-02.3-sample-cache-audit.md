@@ -26,11 +26,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:00:51Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/arcane-02.3.xz`
+- Hour directories: 4350
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (2 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` — missing 1 hour(s)
+- hourly gap: last `2025-04-18 22:06`, resumed `2025-04-19 00:06` — missing 1 hour(s)
 
 ## 3. Collection size histogram
 
-![Arcane collection size histogram](figures/arcane-02.3-cumulative-detail-btiha-itemized-by-bytes.svg)
+UNAVAILABLE — no collection size histogram was rendered.
 
 ## 4. Visualization pass — graphs
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Arcane cumulative map](figures/arcane-02.3-carto.png)](figures/arcane-02.3-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/arcane-02.3-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/arcane-02.3-data-lt-1080p.webp)
