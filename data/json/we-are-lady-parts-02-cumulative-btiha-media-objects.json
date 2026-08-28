@@ -1,0 +1,4131 @@
+{
+    "collection_name": "We Are Lady Parts",
+    "collection_id": "2",
+    "collection_key": "we-are-lady-parts-02",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "47ff2dee0129c083259bec6d35c60cf96911e7e9",
+            "duplicate_0_0": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK [Saturn5]",
+            "duplicate_0_1": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "583c0308249ef6eba2f8efb2a9db53d883373554",
+            "duplicate_1_0": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile [IPT](1)",
+            "duplicate_1_1": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile [IPT]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "621cc0f7faad74480dc5f8a8b39de46b241315e9",
+            "duplicate_2_0": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK [Saturn5]",
+            "duplicate_2_1": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "bbd485f04d638c0dd3c0c18214f5ed480f548159",
+            "duplicate_3_0": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK [Saturn5]",
+            "duplicate_3_1": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "b11da8901fdb0df191717f0c57ba975914444e23",
+            "duplicate_4_0": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta [IPT](1)",
+            "duplicate_4_1": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta [IPT]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "dfb20bcf8d4c7972e7e8be93008fdab0e33f8396",
+            "duplicate_5_0": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK [Saturn5]",
+            "duplicate_5_1": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "09adb739d5a49dd1578ba9504934e476cb6fbad1",
+            "duplicate_6_0": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK [Saturn5]",
+            "duplicate_6_1": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "72b5b5d0bab20001b6c1762b26185e6cb074fb75",
+            "duplicate_7_0": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK [Saturn5]",
+            "duplicate_7_1": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "51b271776e12cc91d7a24b2bbd74e1649c30d1e0",
+            "duplicate_8_0": "[iDope.skin]__We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE",
+            "duplicate_8_1": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "a7412aeff82142910b5e46567259ec5bb7325a49",
+            "duplicate_9_0": "[iDope.skin]__We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL",
+            "duplicate_9_1": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[iDope.skin]__We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE",
+            "size_total": 2.601338429,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.19788656,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E03 Earth Natives 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.201275205,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E03 Its Britney Bitch 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.204218211,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E05 Represent 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.206491613,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E01 Play Something 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.209110946,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E02 Potential Future Spouse 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.21246112,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E02 Malala Made Me Do It 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.214259115,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E04 Godzilla 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.215175834,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E01 Villain Era 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.216421159,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E04 Dont Let Me Be Misunderstood 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.218192551,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E06 Sparta 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.21901124,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E05 Funny Muslim Song 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.286834875,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E06 Glass Ceiling Feeling 720p WEB-DL HEVC x265 BONE.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[iDope.skin]__We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL",
+            "size_total": 9.738590471,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.023182603,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.525970527,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.510564002,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.580148035,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.575262252,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.523463052,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE",
+            "size_total": 2.601338429,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.19788656,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E03 Earth Natives 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.201275205,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E03 Its Britney Bitch 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.204218211,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E05 Represent 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.206491613,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E01 Play Something 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.209110946,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E02 Potential Future Spouse 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.21246112,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E02 Malala Made Me Do It 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.214259115,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E04 Godzilla 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.215175834,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E01 Villain Era 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.216421159,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E04 Dont Let Me Be Misunderstood 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.218192551,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S01/We Are Lady Parts 2021 S01E06 Sparta 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.21901124,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E05 Funny Muslim Song 720p WEB-DL HEVC x265 BONE.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.286834875,
+                    "path": "We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE/S02/We Are Lady Parts 2021 S02E06 Glass Ceiling Feeling 720p WEB-DL HEVC x265 BONE.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 1.781673547,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.3e-8,
+                    "path": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/PSArips.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.321314293,
+                    "path": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.285975817,
+                    "path": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.288722174,
+                    "path": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E03.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.277417218,
+                    "path": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E04.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.294364197,
+                    "path": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E05.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.313879815,
+                    "path": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E06.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.86349804,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.3e-8,
+                    "path": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/PSArips.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.152552097,
+                    "path": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.138997495,
+                    "path": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.143334733,
+                    "path": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.133083249,
+                    "path": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.145099086,
+                    "path": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.150431347,
+                    "path": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 2.036095157,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.3e-8,
+                    "path": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/PSArips.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.300246999,
+                    "path": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.327801095,
+                    "path": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.329185765,
+                    "path": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E03.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.336923446,
+                    "path": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E04.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.312027446,
+                    "path": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E05.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.429910373,
+                    "path": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E06.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL",
+            "size_total": 9.738590471,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.023182603,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.525970527,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.510564002,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.580148035,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.575262252,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.523463052,
+                    "path": "We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL/We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "size_total": 0.930134076,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.3e-8,
+                    "path": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/PSArips.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.147915366,
+                    "path": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.145930515,
+                    "path": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.151782674,
+                    "path": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.146800193,
+                    "path": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.136427637,
+                    "path": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.201277658,
+                    "path": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/We.Are.Lady.Parts.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.232438624,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006678559,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.007007302,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007562786,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.211188838,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001139,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 1.523466443,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.63e-7,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02346502,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.6e-7,
+                    "path": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e01.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK [IPT]",
+            "size_total": 0.182130207,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000400712,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000333879,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245051,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000496685,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.180652529,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK [Saturn5]",
+            "size_total": 0.182176588,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000338375,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000417202,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000414642,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000352489,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.180652529,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK",
+            "size_total": 0.182176588,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000338375,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000417202,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000414642,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000352489,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.180652529,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK/We.Are.Lady.Parts.S02E01.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK[EZTVx.to].mkv",
+            "size_total": 0.180652529,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.180652529,
+                    "path": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile [IPT](1)",
+            "size_total": 0.114181481,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000236972,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000253043,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000289668,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.113400568,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000123,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.114181481,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000236972,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000253043,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000289668,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.113400568,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000123,
+                    "path": "We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N [IPT]",
+            "size_total": 0.146684134,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000300982,
+                    "path": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000251685,
+                    "path": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000187569,
+                    "path": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000368702,
+                    "path": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.145573837,
+                    "path": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N[EZTVx.to].mkv",
+            "size_total": 0.145573837,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.145573837,
+                    "path": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "We.Are.Lady.Parts.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.294465908,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000169407,
+                    "path": "We.Are.Lady.Parts.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000270382,
+                    "path": "We.Are.Lady.Parts.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000304814,
+                    "path": "We.Are.Lady.Parts.S02E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.293720212,
+                    "path": "We.Are.Lady.Parts.S02E01.XviD-AFG/We.Are.Lady.Parts.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001093,
+                    "path": "We.Are.Lady.Parts.S02E01.XviD-AFG/We.Are.Lady.Parts.S02E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.223030633,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006950742,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00740859,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007793605,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.200876557,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001139,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 1.525973927,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.72e-7,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.025972495,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.6e-7,
+                    "path": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e02.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK [IPT]",
+            "size_total": 0.163812794,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000493806,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000347851,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000590762,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000467039,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.161911985,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK [Saturn5]",
+            "size_total": 0.163249942,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000057573,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000406756,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000390957,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00048132,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.161911985,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK",
+            "size_total": 0.163249942,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000057573,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000406756,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000390957,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00048132,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.161911985,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK/We.Are.Lady.Parts.S02E02.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK[EZTVx.to].mkv",
+            "size_total": 0.161911985,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.161911985,
+                    "path": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.101522249,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000247386,
+                    "path": "We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000282013,
+                    "path": "We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000326541,
+                    "path": "We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.100665078,
+                    "path": "We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001231,
+                    "path": "We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N [IPT]",
+            "size_total": 0.131880691,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000370852,
+                    "path": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000261689,
+                    "path": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000433818,
+                    "path": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000350426,
+                    "path": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.130462547,
+                    "path": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N[EZTVx.to].mkv",
+            "size_total": 0.130462547,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.130462547,
+                    "path": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "We.Are.Lady.Parts.S02E02.XviD-AFG [IPT]",
+            "size_total": 0.284579655,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00024264,
+                    "path": "We.Are.Lady.Parts.S02E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00029942,
+                    "path": "We.Are.Lady.Parts.S02E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000337856,
+                    "path": "We.Are.Lady.Parts.S02E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.283698644,
+                    "path": "We.Are.Lady.Parts.S02E02.XviD-AFG/We.Are.Lady.Parts.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001095,
+                    "path": "We.Are.Lady.Parts.S02E02.XviD-AFG/We.Are.Lady.Parts.S02E02.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.2355822,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006219861,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.006319424,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007289577,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.215752201,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001137,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 1.510567369,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.71e-7,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.010565938,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.6e-7,
+                    "path": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e03.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK [IPT]",
+            "size_total": 0.171085443,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000295495,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000551564,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000350665,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000410211,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.169476157,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK [Saturn5]",
+            "size_total": 0.171334668,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000445989,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00046926,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000633461,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00030845,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.169476157,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK",
+            "size_total": 0.171334668,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000445989,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00046926,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000633461,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00030845,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.169476157,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK/We.Are.Lady.Parts.S02E03.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK[EZTVx.to].mkv",
+            "size_total": 0.169476157,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.169476157,
+                    "path": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.106303406,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000204154,
+                    "path": "We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000197824,
+                    "path": "We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000260834,
+                    "path": "We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.105639364,
+                    "path": "We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000123,
+                    "path": "We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N [IPT]",
+            "size_total": 0.137410887,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000226853,
+                    "path": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000413697,
+                    "path": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000265341,
+                    "path": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000315037,
+                    "path": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1361886,
+                    "path": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N[EZTVx.to].mkv",
+            "size_total": 0.1361886,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.1361886,
+                    "path": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "We.Are.Lady.Parts.S02E03.XviD-AFG [IPT]",
+            "size_total": 0.297458744,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000226249,
+                    "path": "We.Are.Lady.Parts.S02E03.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000207253,
+                    "path": "We.Are.Lady.Parts.S02E03.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000280534,
+                    "path": "We.Are.Lady.Parts.S02E03.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.296743612,
+                    "path": "We.Are.Lady.Parts.S02E03.XviD-AFG/We.Are.Lady.Parts.S02E03.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001096,
+                    "path": "We.Are.Lady.Parts.S02E03.XviD-AFG/We.Are.Lady.Parts.S02E03.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta [IPT](1)",
+            "size_total": 0.203267617,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007569929,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004341234,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006560914,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.184794401,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001139,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.203267617,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007569929,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004341234,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006560914,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.184794401,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001139,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 1.580151444,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.81e-7,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.080150003,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.6e-7,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e04.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL.chs.eng.mp4",
+            "size_total": 0.512297429,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.512297429,
+                    "path": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL.chs.eng.mp4"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK [IPT]",
+            "size_total": 0.159719889,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000565741,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000396333,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000452405,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000476911,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.157827148,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK [Saturn5]",
+            "size_total": 0.159673161,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000352199,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000362777,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000473907,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000655779,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.157827148,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK",
+            "size_total": 0.159673161,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000352199,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000362777,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000473907,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000655779,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.157827148,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK/We.Are.Lady.Parts.S02E04.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.096883343,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000308305,
+                    "path": "We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00016222,
+                    "path": "We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000223739,
+                    "path": "We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.096187848,
+                    "path": "We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001231,
+                    "path": "We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N [IPT]",
+            "size_total": 0.128743221,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000428548,
+                    "path": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000302092,
+                    "path": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000338432,
+                    "path": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000352913,
+                    "path": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.127319877,
+                    "path": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "We.Are.Lady.Parts.S02E04.XviD-AFG [IPT]",
+            "size_total": 0.281813616,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000307676,
+                    "path": "We.Are.Lady.Parts.S02E04.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000187152,
+                    "path": "We.Are.Lady.Parts.S02E04.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000209909,
+                    "path": "We.Are.Lady.Parts.S02E04.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.281107784,
+                    "path": "We.Are.Lady.Parts.S02E04.XviD-AFG/We.Are.Lady.Parts.S02E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001095,
+                    "path": "We.Are.Lady.Parts.S02E04.XviD-AFG/We.Are.Lady.Parts.S02E04.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.194614916,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00655705,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005579663,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007399152,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.175077912,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001139,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 1.575265649,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.69e-7,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.07526422,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.6e-7,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e05.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL.chs.eng.mp4",
+            "size_total": 0.510602485,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.510602485,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL.chs.eng.mp4"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+            "size_total": 1.575262252,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.575262252,
+                    "path": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK [IPT]",
+            "size_total": 0.15326889,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000291969,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000361303,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000408928,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000418806,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.151786533,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK [Saturn5]",
+            "size_total": 0.15354748,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000607345,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000447415,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000280524,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000424312,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.151786533,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK",
+            "size_total": 0.15354748,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000607345,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000447415,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000280524,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000424312,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.151786533,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001351,
+                    "path": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK/We.Are.Lady.Parts.S02E05.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.094016806,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000233641,
+                    "path": "We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000197592,
+                    "path": "We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000265459,
+                    "path": "We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.093318885,
+                    "path": "We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001229,
+                    "path": "We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N [IPT]",
+            "size_total": 0.12398767,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000214012,
+                    "path": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000280695,
+                    "path": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000311665,
+                    "path": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00032023,
+                    "path": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.122859709,
+                    "path": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "We.Are.Lady.Parts.S02E05.XviD-AFG [IPT]",
+            "size_total": 0.263314909,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000245657,
+                    "path": "We.Are.Lady.Parts.S02E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000201858,
+                    "path": "We.Are.Lady.Parts.S02E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245772,
+                    "path": "We.Are.Lady.Parts.S02E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.262620526,
+                    "path": "We.Are.Lady.Parts.S02E05.XviD-AFG/We.Are.Lady.Parts.S02E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001096,
+                    "path": "We.Are.Lady.Parts.S02E05.XviD-AFG/We.Are.Lady.Parts.S02E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.313316905,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.005219769,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005511956,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007737896,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.294846145,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001139,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta/We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 2.023186877,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.73e-7,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.023185144,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.00000126,
+                    "path": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL/we.are.lady.parts.s02e06.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK [IPT]",
+            "size_total": 0.239765397,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000495068,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000366459,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000428082,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00034499,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.238129449,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001349,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK [Saturn5]",
+            "size_total": 0.239242825,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000385652,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000273454,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000393863,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059058,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.238129449,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001349,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK",
+            "size_total": 0.239242825,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000385652,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000273454,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000393863,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059058,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/Screens/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.238129449,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001349,
+                    "path": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK/We.Are.Lady.Parts.S02E06.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.148892818,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000161137,
+                    "path": "We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000187584,
+                    "path": "We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000301975,
+                    "path": "We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.148240892,
+                    "path": "We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000123,
+                    "path": "We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile/We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N [IPT]",
+            "size_total": 0.191648219,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00036778,
+                    "path": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000279991,
+                    "path": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000321739,
+                    "path": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000264348,
+                    "path": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N/Screens/We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.190413002,
+                    "path": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001359,
+                    "path": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N/We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "We.Are.Lady.Parts.S02E06.XviD-AFG [IPT]",
+            "size_total": 0.406963072,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000147704,
+                    "path": "We.Are.Lady.Parts.S02E06.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000186369,
+                    "path": "We.Are.Lady.Parts.S02E06.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000317596,
+                    "path": "We.Are.Lady.Parts.S02E06.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.406310308,
+                    "path": "We.Are.Lady.Parts.S02E06.XviD-AFG/We.Are.Lady.Parts.S02E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001095,
+                    "path": "We.Are.Lady.Parts.S02E06.XviD-AFG/We.Are.Lady.Parts.S02E06.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta",
+            "size_total": 0.232438709,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006678559,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.007007302,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007562786,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.211188838,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001139,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta",
+            "size_total": 0.223030718,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006950742,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00740859,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007793605,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.200876557,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001139,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG",
+            "size_total": 0.28457974,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00024264,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00029942,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000337856,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.283698644,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG/We.Are.Lady.Parts.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001095,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG/We.Are.Lady.Parts.S02E02.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta",
+            "size_total": 0.235582285,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006219861,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.006319424,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007289577,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.215752201,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001137,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG",
+            "size_total": 0.297458829,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000226249,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000207253,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000280534,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.296743612,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG/We.Are.Lady.Parts.S02E03.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001096,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG/We.Are.Lady.Parts.S02E03.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta",
+            "size_total": 0.203267702,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007569929,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004341234,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006560914,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.184794401,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001139,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG",
+            "size_total": 0.281813701,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000307676,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000187152,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000209909,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.281107784,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG/We.Are.Lady.Parts.S02E04.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001095,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG/We.Are.Lady.Parts.S02E04.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta",
+            "size_total": 0.194615001,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00655705,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005579663,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007399152,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.175077912,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001139,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG",
+            "size_total": 0.263314994,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000245657,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000201858,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245772,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.262620526,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG/We.Are.Lady.Parts.S02E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001096,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG/We.Are.Lady.Parts.S02E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta",
+            "size_total": 0.31331699,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.005219769,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005511956,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007737896,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.294846145,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001139,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta/We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG",
+            "size_total": 0.406963157,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000147704,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000186369,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000317596,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG/Torrent Downloaded From www.SceneTime.com .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.406310308,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG/We.Are.Lady.Parts.S02E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001095,
+                    "path": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG/We.Are.Lady.Parts.S02E06.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 86,
+            "name": "multi-btih-7-2-x-We.Are.Lady.Parts.S02E06.480p.x264-RUBiK [Saturn5]",
+            "btih": "72b5b5d0bab20001b6c1762b26185e6cb074fb75",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.239242825,
+            "creation": "1970-01-01T00:00:00.000000000Z,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 140778,
+            "uuploaders": 2323
+        },
+        {
+            "id": 82,
+            "name": "multi-btih-3-2-x-We.Are.Lady.Parts.S02E03.480p.x264-RUBiK [Saturn5]",
+            "btih": "bbd485f04d638c0dd3c0c18214f5ed480f548159",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.171334668,
+            "creation": "1970-01-01T00:00:00.000000000Z,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 118885,
+            "uuploaders": 1938
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-5-2-x-We.Are.Lady.Parts.S02E04.480p.x264-RUBiK [Saturn5]",
+            "btih": "dfb20bcf8d4c7972e7e8be93008fdab0e33f8396",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.159673161,
+            "creation": "1970-01-01T00:00:00.000000000Z,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 110100,
+            "uuploaders": 2393
+        },
+        {
+            "id": 85,
+            "name": "multi-btih-6-2-x-We.Are.Lady.Parts.S02E05.480p.x264-RUBiK [Saturn5]",
+            "btih": "09adb739d5a49dd1578ba9504934e476cb6fbad1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.15354748,
+            "creation": "1970-01-01T00:00:00.000000000Z,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 109610,
+            "uuploaders": 2332
+        },
+        {
+            "id": 81,
+            "name": "multi-btih-2-2-x-We.Are.Lady.Parts.S02E02.480p.x264-RUBiK [Saturn5]",
+            "btih": "621cc0f7faad74480dc5f8a8b39de46b241315e9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.163249942,
+            "creation": "2024-05-30T19:42:33.000000000Z,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 109523,
+            "uuploaders": 2086
+        },
+        {
+            "id": 79,
+            "name": "multi-btih-0-2-x-We.Are.Lady.Parts.S02E01.480p.x264-RUBiK [Saturn5]",
+            "btih": "47ff2dee0129c083259bec6d35c60cf96911e7e9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.182176588,
+            "creation": "2024-05-30T19:49:09.000000000Z,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 91672,
+            "uuploaders": 2286
+        },
+        {
+            "id": 88,
+            "name": "multi-btih-9-2-x-[iDope.skin]__We.Are.Lady.Parts.S02.1080p.WEB.h264-ETHEL",
+            "btih": "a7412aeff82142910b5e46567259ec5bb7325a49",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 9.738590471,
+            "creation": "2024-07-06T23:36:36.000000000Z,iDope - https://idope.skin,Torrent Downloaded from https://idope.skin/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 78104,
+            "uuploaders": 3479
+        },
+        {
+            "id": 6,
+            "name": "We.Are.Lady.Parts.S02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "edc3c2c76f11026ce73308f074f9fb6af0656552",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.036095157,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74018,
+            "uuploaders": 3740
+        },
+        {
+            "id": 87,
+            "name": "multi-btih-8-2-x-[iDope.skin]__We Are Lady Parts 2021 S01-S02 720p WEB-DL HEVC x265 BONE",
+            "btih": "51b271776e12cc91d7a24b2bbd74e1649c30d1e0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 2.601338429,
+            "creation": "2024-07-06T23:36:20.000000000Z,iDope - https://idope.skin,Torrent Downloaded from https://idope.skin/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68816,
+            "uuploaders": 6084
+        },
+        {
+            "id": 69,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E02 1080p HEVC x265-MeGusta",
+            "btih": "5d584f798697ee31cbd09d5f40045c22d9a95758",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.223030718,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60616,
+            "uuploaders": 3551
+        },
+        {
+            "id": 71,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E03 1080p HEVC x265-MeGusta",
+            "btih": "0ac045b03b5d841d0b63a2e76cd6129d323ee60d",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.235582285,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59240,
+            "uuploaders": 3040
+        },
+        {
+            "id": 68,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E01 1080p HEVC x265-MeGusta",
+            "btih": "c0bc56a3182c514af85b6f5dc3bc7e6f9ad33b1e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.232438709,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53918,
+            "uuploaders": 3404
+        },
+        {
+            "id": 35,
+            "name": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK[EZTVx.to].mkv",
+            "btih": "c5317509f426cb7da0b5af4c0ce5535a6de418a1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.169476157,
+            "creation": "2024-05-31T07:51:05.000000000Z,EZTV,Visit us: https://eztv.li/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53476,
+            "uuploaders": 1013
+        },
+        {
+            "id": 53,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+            "btih": "0ddfda2e299a3caeff21fbb80dd3ee2c87468d05",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.575262252,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53077,
+            "uuploaders": 2502
+        },
+        {
+            "id": 4,
+            "name": "We.Are.Lady.Parts.S01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "94aa30e07d37dcc4e5bc76cd9252a32391326059",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.781673547,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52335,
+            "uuploaders": 2699
+        },
+        {
+            "id": 75,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E05 1080p HEVC x265-MeGusta",
+            "btih": "b238e74b1a2f793cdb1d1a6153edb55ef144b9e2",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.194615001,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50525,
+            "uuploaders": 2125
+        },
+        {
+            "id": 25,
+            "name": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK[EZTVx.to].mkv",
+            "btih": "e5ed98c011c8e781bb5169958975280dd397eda7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.161911985,
+            "creation": "2024-05-31T07:33:04.000000000Z,EZTV,Visit us: https://eztv.li/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49835,
+            "uuploaders": 977
+        },
+        {
+            "id": 28,
+            "name": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N[EZTVx.to].mkv",
+            "btih": "2ec1273ef38c4519ff3bcb5df963fec13b20b479",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.130462547,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49451,
+            "uuploaders": 1595
+        },
+        {
+            "id": 78,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E06 XviD-AFG",
+            "btih": "e0c755a7010535694e1bd0bf6f288c1ac373d4a8",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.406963157,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47617,
+            "uuploaders": 920
+        },
+        {
+            "id": 70,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E02 XviD-AFG",
+            "btih": "ded01f52c71004163b9540af67d0c9c53dbca8df",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.28457974,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47225,
+            "uuploaders": 665
+        },
+        {
+            "id": 38,
+            "name": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N[EZTVx.to].mkv",
+            "btih": "bf4c72ffc4c07d09237775d224995a6a857991de",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.1361886,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46992,
+            "uuploaders": 1573
+        },
+        {
+            "id": 77,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E06 1080p HEVC x265-MeGusta",
+            "btih": "e7fa5e776ed5f73978952c0dad22568e2b12420b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.31331699,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46400,
+            "uuploaders": 2922
+        },
+        {
+            "id": 14,
+            "name": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK[EZTVx.to].mkv",
+            "btih": "27bbd4bd63e7c9a54ce123b2f6db70c2aec4a0de",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.180652529,
+            "creation": "2024-05-31T07:12:05.000000000Z,EZTV,Visit us: https://eztv.li/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45995,
+            "uuploaders": 1142
+        },
+        {
+            "id": 76,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E05 XviD-AFG",
+            "btih": "1d23c72167844aa71cf4b5ef988bf3325dfc9786",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.263314994,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44084,
+            "uuploaders": 413
+        },
+        {
+            "id": 18,
+            "name": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N[EZTVx.to].mkv",
+            "btih": "e4807423da1e126cd1b76ced16e9e6a68940ed07",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.145573837,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41974,
+            "uuploaders": 1887
+        },
+        {
+            "id": 74,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E04 XviD-AFG",
+            "btih": "b4787c0af0684d43c2f679ae5e7df26cb33efc11",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.281813701,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39179,
+            "uuploaders": 694
+        },
+        {
+            "id": 73,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E04 1080p HEVC x265-MeGusta",
+            "btih": "eb8b2c87f08158dc347f53afda3048960743a094",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.203267702,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38925,
+            "uuploaders": 3010
+        },
+        {
+            "id": 72,
+            "name": "www.SceneTime.com   -    We Are Lady Parts S02E03 XviD-AFG",
+            "btih": "f6993ed457b75477f8e22912874c8b28c1f59654",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.297458829,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38788,
+            "uuploaders": 644
+        },
+        {
+            "id": 52,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL.chs.eng.mp4",
+            "btih": "df37fa060e740ea451d6a811531868a43c40f75d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.510602485,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29755,
+            "uuploaders": 1176
+        },
+        {
+            "id": 8,
+            "name": "We.Are.Lady.Parts.S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "aaa7bb4f23f65de99893e0113c57d8229cf87f6c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.930134076,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29506,
+            "uuploaders": 628
+        },
+        {
+            "id": 5,
+            "name": "We.Are.Lady.Parts.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+            "btih": "70e88c018ed44481da9b9b4a2502ec5b1c816b4d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.86349804,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17118,
+            "uuploaders": 80
+        },
+        {
+            "id": 43,
+            "name": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL.chs.eng.mp4",
+            "btih": "dec10db600738e94d9e52de1eae548417b17ac56",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.512297429,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13579,
+            "uuploaders": 106
+        },
+        {
+            "id": 21,
+            "name": "We.Are.Lady.Parts.S02E02.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "69cfd48574f7299af77e8a474b7471bf6bbf3eb0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.525973927,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 705,
+            "uuploaders": 396
+        },
+        {
+            "id": 10,
+            "name": "We.Are.Lady.Parts.S02E01.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "7f2a702842d43576edd3eb2b7dfb18733c6ce412",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.523466443,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 674,
+            "uuploaders": 390
+        },
+        {
+            "id": 61,
+            "name": "We.Are.Lady.Parts.S02E06.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "6e63ea9c5d130645aa24bceb5ac7cf2a9e1003c0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.023186877,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 644,
+            "uuploaders": 368
+        },
+        {
+            "id": 50,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "81560eebfafea6ac480da3e3455d4ee3833d7a12",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.194614916,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 641,
+            "uuploaders": 274
+        },
+        {
+            "id": 31,
+            "name": "We.Are.Lady.Parts.S02E03.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "fa510e6abe3ba169d33cd9be6e21a90e297c1ff6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.510567369,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 630,
+            "uuploaders": 378
+        },
+        {
+            "id": 51,
+            "name": "We.Are.Lady.Parts.S02E05.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "0b69f13fffb422599e2d1f811ea7485ec1bd8f43",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.575265649,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 619,
+            "uuploaders": 368
+        },
+        {
+            "id": 42,
+            "name": "We.Are.Lady.Parts.S02E04.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "5b4abc699b0897578a97aaa4c3b6c1b05163b46c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.580151444,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 614,
+            "uuploaders": 361
+        },
+        {
+            "id": 9,
+            "name": "We.Are.Lady.Parts.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "950798fcb62f3bba379b863e5141b84f643aac25",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.232438624,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 592,
+            "uuploaders": 225
+        },
+        {
+            "id": 83,
+            "name": "multi-btih-4-2-x-We.Are.Lady.Parts.S02E04.1080p.HEVC.x265-MeGusta [IPT](1)",
+            "btih": "b11da8901fdb0df191717f0c57ba975914444e23",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.203267617,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 583,
+            "uuploaders": 252
+        },
+        {
+            "id": 60,
+            "name": "We.Are.Lady.Parts.S02E06.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "20a6385096ebf16d4fbd4e47366cc7243b934c03",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.313316905,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 558,
+            "uuploaders": 269
+        },
+        {
+            "id": 20,
+            "name": "We.Are.Lady.Parts.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "776c6e1432baff6d74dd43d71f635a6c78a94e7a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.223030633,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 548,
+            "uuploaders": 229
+        },
+        {
+            "id": 30,
+            "name": "We.Are.Lady.Parts.S02E03.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "3c09575b90354bf792c3359f8b8410ad76610a1d",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.2355822,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 525,
+            "uuploaders": 234
+        },
+        {
+            "id": 58,
+            "name": "We.Are.Lady.Parts.S02E05.WEBRip.x264-XEN0N [IPT]",
+            "btih": "e487af55135a9796d1895fa47d19c6ac93ff8fb5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.12398767,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 219,
+            "uuploaders": 40
+        },
+        {
+            "id": 37,
+            "name": "We.Are.Lady.Parts.S02E03.WEBRip.x264-XEN0N [IPT]",
+            "btih": "02667926ff5e181217fbba3e4b520f31de7542a0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.137410887,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 209,
+            "uuploaders": 35
+        },
+        {
+            "id": 66,
+            "name": "We.Are.Lady.Parts.S02E06.WEBRip.x264-XEN0N [IPT]",
+            "btih": "b88d986cfee8e8fe3a3adc3e4ebd8d6598821311",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.191648219,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 207,
+            "uuploaders": 39
+        },
+        {
+            "id": 17,
+            "name": "We.Are.Lady.Parts.S02E01.WEBRip.x264-XEN0N [IPT]",
+            "btih": "31a97de39103fddf5950345b897f14501cd1b6ac",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.146684134,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 205,
+            "uuploaders": 41
+        },
+        {
+            "id": 27,
+            "name": "We.Are.Lady.Parts.S02E02.WEBRip.x264-XEN0N [IPT]",
+            "btih": "76c3866f8ba143db6b7eaf383c7ef4aa41fe1777",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.131880691,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 200,
+            "uuploaders": 37
+        },
+        {
+            "id": 48,
+            "name": "We.Are.Lady.Parts.S02E04.WEBRip.x264-XEN0N [IPT]",
+            "btih": "ba9184e7e06558047cf405bd6081f575c82b71f8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.128743221,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 199,
+            "uuploaders": 39
+        },
+        {
+            "id": 80,
+            "name": "multi-btih-1-2-x-We.Are.Lady.Parts.S02E01.AAC.MP4-Mobile [IPT](1)",
+            "btih": "583c0308249ef6eba2f8efb2a9db53d883373554",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.114181481,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 111,
+            "uuploaders": 90
+        },
+        {
+            "id": 39,
+            "name": "We.Are.Lady.Parts.S02E03.XviD-AFG [IPT]",
+            "btih": "93579c2e635c3048d0c7fd4d4676736c6a7515f5",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.297458744,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 13
+        },
+        {
+            "id": 62,
+            "name": "We.Are.Lady.Parts.S02E06.480p.x264-RUBiK [IPT]",
+            "btih": "b2355ec7e3849856305c4735b0eeefede27c9be2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.239765397,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 9
+        },
+        {
+            "id": 54,
+            "name": "We.Are.Lady.Parts.S02E05.480p.x264-RUBiK [IPT]",
+            "btih": "45d25961f1383682b611f5189c81490970528854",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.15326889,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 9
+        },
+        {
+            "id": 44,
+            "name": "We.Are.Lady.Parts.S02E04.480p.x264-RUBiK [IPT]",
+            "btih": "4c919ddb6512aa7d8221bbb0afdc08b7d8312d22",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.159719889,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 11
+        },
+        {
+            "id": 49,
+            "name": "We.Are.Lady.Parts.S02E04.XviD-AFG [IPT]",
+            "btih": "ee3eca1823eab040080a56b117b7a0feaa9ade78",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.281813616,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 13
+        },
+        {
+            "id": 32,
+            "name": "We.Are.Lady.Parts.S02E03.480p.x264-RUBiK [IPT]",
+            "btih": "4d60b305dbb5649bdb47d376a11900582f72bbf3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.171085443,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15,
+            "uuploaders": 8
+        },
+        {
+            "id": 67,
+            "name": "We.Are.Lady.Parts.S02E06.XviD-AFG [IPT]",
+            "btih": "c44939ecc38cd8f9468136dc491f075fa14943a5",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.406963072,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15,
+            "uuploaders": 12
+        },
+        {
+            "id": 29,
+            "name": "We.Are.Lady.Parts.S02E02.XviD-AFG [IPT]",
+            "btih": "3fe459edffc3a05181daf4e51ca254e1d53f7c02",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.284579655,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15,
+            "uuploaders": 13
+        },
+        {
+            "id": 19,
+            "name": "We.Are.Lady.Parts.S02E01.XviD-AFG [IPT]",
+            "btih": "400a46d0e496d534c99d0444a17ddea2d08005d7",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.294465908,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15,
+            "uuploaders": 13
+        },
+        {
+            "id": 22,
+            "name": "We.Are.Lady.Parts.S02E02.480p.x264-RUBiK [IPT]",
+            "btih": "694ec3596caacc3df12271d76224cac77040c2df",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.163812794,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 9
+        },
+        {
+            "id": 59,
+            "name": "We.Are.Lady.Parts.S02E05.XviD-AFG [IPT]",
+            "btih": "3c9b68c226cc96159077e568b947c9a5b1f7eddb",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.263314909,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 12
+        },
+        {
+            "id": 11,
+            "name": "We.Are.Lady.Parts.S02E01.480p.x264-RUBiK [IPT]",
+            "btih": "8493707e1b927420d4d2699305dc0bb8c4588916",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.182130207,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 7
+        },
+        {
+            "id": 57,
+            "name": "We.Are.Lady.Parts.S02E05.AAC.MP4-Mobile [IPT]",
+            "btih": "63b84332df986334f38d6ae6b2fce5feb5473b16",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.094016806,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8,
+            "uuploaders": 7
+        },
+        {
+            "id": 26,
+            "name": "We.Are.Lady.Parts.S02E02.AAC.MP4-Mobile [IPT]",
+            "btih": "dc0d70cc453a030c0079fb00db4d522443fa4a15",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.101522249,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6,
+            "uuploaders": 4
+        },
+        {
+            "id": 36,
+            "name": "We.Are.Lady.Parts.S02E03.AAC.MP4-Mobile [IPT]",
+            "btih": "2d4de92006a3d5c05c8caee8d3284dd6e94b6ef3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.106303406,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5,
+            "uuploaders": 4
+        },
+        {
+            "id": 65,
+            "name": "We.Are.Lady.Parts.S02E06.AAC.MP4-Mobile [IPT]",
+            "btih": "413b8a028209d1aa0c08a4248e3273b95358f7e7",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.148892818,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5,
+            "uuploaders": 4
+        },
+        {
+            "id": 47,
+            "name": "We.Are.Lady.Parts.S02E04.AAC.MP4-Mobile [IPT]",
+            "btih": "87b5f785a2cadf6fd97bbfe82bda2292140c51da",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.096883343,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4,
+            "uuploaders": 3
+        }
+    ]
+}
