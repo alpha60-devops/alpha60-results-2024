@@ -26,7 +26,17 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T18:41:50Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/hit-man.xz`
+- Hour directories: 2536
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 0 (0 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+None detected.
 
 ## 3. Collection size histogram
 
@@ -50,4 +60,10 @@ UNAVAILABLE: no sample archive on this host.
 | --- | --- | --- | --- | --- | --- |
 | 3.89 | 16.29 | 25.86 | 47.19 | 1.13 | 0.62 |
 
-UNAVAILABLE — no cumulative data maps were rendered.
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/hit-man-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/hit-man-data-lt-1080p.webp)

@@ -26,7 +26,17 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:53:50Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/godzilla-minus-one.xz`
+- Hour directories: 4348
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (18 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-07-10 05:03`, resumed `2024-07-11 00:03` — missing 18 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +64,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Gojira -1.0 cumulative map](figures/godzilla-minus-one-carto.png)](figures/godzilla-minus-one-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/godzilla-minus-one-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/godzilla-minus-one-data-lt-1080p.webp)

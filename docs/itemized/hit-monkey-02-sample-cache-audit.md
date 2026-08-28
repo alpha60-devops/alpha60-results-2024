@@ -26,7 +26,17 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T18:42:09Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/hit-monkey-02.xz`
+- Hour directories: 2516
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 0 (0 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+None detected.
 
 ## 3. Collection size histogram
 
@@ -54,4 +64,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Hit Monkey cumulative map](figures/hit-monkey-02-carto.png)](figures/hit-monkey-02-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/hit-monkey-02-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/hit-monkey-02-data-lt-1080p.webp)

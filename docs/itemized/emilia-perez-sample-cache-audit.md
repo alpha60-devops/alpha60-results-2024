@@ -26,7 +26,21 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:32:13Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/emilia-perez.xz`
+- Hour directories: 4278
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (73 missing hours)
+- Missing days: 3
+
+### Sample archive discontinuities
+
+- hourly gap: last `2025-01-28 23:06`, resumed `2025-02-01 00:06` — missing 72 hour(s)
+- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` — missing 1 hour(s)
+- missing day: `2025-01-29`
+- missing day: `2025-01-30`
+- missing day: `2025-01-31`
 
 ## 3. Collection size histogram
 
@@ -54,4 +68,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Emilia Perez cumulative map](figures/emilia-perez-carto.png)](figures/emilia-perez-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/emilia-perez-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/emilia-perez-data-lt-1080p.webp)

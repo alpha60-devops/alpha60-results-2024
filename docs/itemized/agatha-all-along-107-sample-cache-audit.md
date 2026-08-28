@@ -26,7 +26,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T16:35:04Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/agatha-all-along-107.xz`
+- Hour directories: 4232
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 10 (133 missing hours)
+- Missing days: 3
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-12-30 20:06`, resumed `2024-12-30 22:06` — missing 1 hour(s)
+- hourly gap: last `2025-01-11 22:06`, resumed `2025-01-12 01:06` — missing 2 hour(s)
+- hourly gap: last `2025-02-08 22:06`, resumed `2025-02-10 00:06` — missing 25 hour(s)
+- hourly gap: last `2025-02-18 17:06`, resumed `2025-02-19 00:06` — missing 6 hour(s)
+- hourly gap: last `2025-02-20 22:06`, resumed `2025-02-22 02:06` — missing 27 hour(s)
+- hourly gap: last `2025-03-06 22:06`, resumed `2025-03-08 22:06` — missing 47 hour(s)
+- hourly gap: last `2025-03-09 22:06`, resumed `2025-03-10 20:06` — missing 21 hour(s)
+- hourly gap: last `2025-03-23 22:06`, resumed `2025-03-24 00:06` — missing 1 hour(s)
+- hourly gap: last `2025-03-25 23:06`, resumed `2025-03-26 02:43` — missing 2 hour(s)
+- hourly gap: last `2025-03-30 01:00`, resumed `2025-03-30 03:00` — missing 1 hour(s)
+- missing day: `2025-02-09`
+- missing day: `2025-02-21`
+- missing day: `2025-03-07`
 
 ## 3. Collection size histogram
 
@@ -54,4 +76,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Agatha All Along cumulative map](figures/agatha-all-along-107-carto.png)](figures/agatha-all-along-107-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/agatha-all-along-107-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/agatha-all-along-107-data-lt-1080p.webp)

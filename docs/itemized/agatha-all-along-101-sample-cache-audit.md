@@ -26,7 +26,26 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T16:35:04Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/agatha-all-along-101.xz`
+- Hour directories: 4234
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 7 (129 missing hours)
+- Missing days: 3
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-12-30 20:00`, resumed `2024-12-30 22:00` — missing 1 hour(s)
+- hourly gap: last `2025-01-11 22:00`, resumed `2025-01-12 01:00` — missing 2 hour(s)
+- hourly gap: last `2025-02-08 22:00`, resumed `2025-02-10 00:00` — missing 25 hour(s)
+- hourly gap: last `2025-02-18 17:00`, resumed `2025-02-19 00:00` — missing 6 hour(s)
+- hourly gap: last `2025-02-20 22:00`, resumed `2025-02-22 02:00` — missing 27 hour(s)
+- hourly gap: last `2025-03-06 22:00`, resumed `2025-03-08 22:00` — missing 47 hour(s)
+- hourly gap: last `2025-03-09 22:00`, resumed `2025-03-10 20:00` — missing 21 hour(s)
+- missing day: `2025-02-09`
+- missing day: `2025-02-21`
+- missing day: `2025-03-07`
 
 ## 3. Collection size histogram
 
@@ -54,4 +73,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Agatha All Along cumulative map](figures/agatha-all-along-101-carto.png)](figures/agatha-all-along-101-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/agatha-all-along-101-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/agatha-all-along-101-data-lt-1080p.webp)

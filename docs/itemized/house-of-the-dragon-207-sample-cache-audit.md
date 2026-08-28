@@ -26,7 +26,19 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T18:47:30Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-207.xz`
+- Hour directories: 4334
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (31 missing hours)
+- Missing days: 1
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-10-19 23:03`, resumed `2024-10-21 00:03` — missing 24 hour(s)
+- hourly gap: last `2024-11-29 10:03`, resumed `2024-11-29 18:03` — missing 7 hour(s)
+- missing day: `2024-10-20`
 
 ## 3. Collection size histogram
 
@@ -54,4 +66,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![House of the Dragon cumulative map](figures/house-of-the-dragon-207-carto.png)](figures/house-of-the-dragon-207-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/house-of-the-dragon-207-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/house-of-the-dragon-207-data-lt-1080p.webp)

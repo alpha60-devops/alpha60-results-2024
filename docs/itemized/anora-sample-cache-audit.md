@@ -26,7 +26,19 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T16:50:34Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/anora.xz`
+- Hour directories: 4334
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 3 (33 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` — missing 1 hour(s)
+- hourly gap: last `2025-04-25 04:06`, resumed `2025-04-26 09:06` — missing 28 hour(s)
+- hourly gap: last `2025-06-17 15:06`, resumed `2025-06-17 20:50` — missing 4 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +66,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Anora cumulative map](figures/anora-carto.png)](figures/anora-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/anora-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/anora-data-lt-1080p.webp)

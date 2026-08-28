@@ -26,7 +26,18 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:12:15Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/beverly-hills-cop-axel-f.xz`
+- Hour directories: 2491
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (18 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-07-15 12:06`, resumed `2024-07-16 00:06` — missing 11 hour(s)
+- hourly gap: last `2024-08-14 23:06`, resumed `2024-08-15 07:06` — missing 7 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Beverly Hills Cop: Axel F cumulative map](figures/beverly-hills-cop-axel-f-carto.png)](figures/beverly-hills-cop-axel-f-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/beverly-hills-cop-axel-f-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/beverly-hills-cop-axel-f-data-lt-1080p.webp)

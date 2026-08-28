@@ -26,7 +26,19 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:04:04Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/avatar-the-last-airbender-2024-01.xz`
+- Hour directories: 4357
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 3 (7 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` — missing 1 hour(s)
+- hourly gap: last `2024-07-06 19:00`, resumed `2024-07-06 21:00` — missing 1 hour(s)
+- hourly gap: last `2024-07-16 23:00`, resumed `2024-07-17 05:00` — missing 5 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +66,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Avatar: The Last Airbender cumulative map](figures/avatar-the-last-airbender-2024-01-carto.png)](figures/avatar-the-last-airbender-2024-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/avatar-the-last-airbender-2024-01-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/avatar-the-last-airbender-2024-01-data-lt-1080p.webp)

@@ -26,7 +26,23 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:21:19Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/boys-401.xz`
+- Hour directories: 4270
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 6 (94 missing hours)
+- Missing days: 1
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-07-21 22:06`, resumed `2024-07-22 19:06` — missing 20 hour(s)
+- hourly gap: last `2024-08-11 22:06`, resumed `2024-08-12 15:06` — missing 16 hour(s)
+- hourly gap: last `2024-08-12 22:06`, resumed `2024-08-13 00:06` — missing 1 hour(s)
+- hourly gap: last `2024-08-14 22:06`, resumed `2024-08-16 21:22` — missing 46 hour(s)
+- hourly gap: last `2024-08-17 22:06`, resumed `2024-08-18 09:06` — missing 10 hour(s)
+- hourly gap: last `2024-08-18 22:06`, resumed `2024-08-19 00:06` — missing 1 hour(s)
+- missing day: `2024-08-15`
 
 ## 3. Collection size histogram
 
@@ -54,4 +70,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![The Boys cumulative map](figures/boys-401-carto.png)](figures/boys-401-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/boys-401-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/boys-401-data-lt-1080p.webp)

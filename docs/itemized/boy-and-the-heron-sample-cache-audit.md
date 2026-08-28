@@ -26,7 +26,17 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:19:20Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/boy-and-the-heron.xz`
+- Hour directories: 4709
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (7 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-12-07 22:06`, resumed `2024-12-08 06:06` — missing 7 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +64,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![The Boy and the Heron cumulative map](figures/boy-and-the-heron-carto.png)](figures/boy-and-the-heron-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/boy-and-the-heron-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/boy-and-the-heron-data-lt-1080p.webp)

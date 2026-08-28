@@ -26,7 +26,18 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T16:15:53Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/acolyte-107.xz/2024`
+- Hour directories: 4315
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (47 missing hours)
+- Missing days: 1
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-12-28 22:03`, resumed `2024-12-30 22:03` — missing 47 hour(s)
+- missing day: `2024-12-29`
 
 ## 3. Collection size histogram
 
@@ -54,4 +65,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![The Acolyte cumulative map](figures/acolyte-107-carto.png)](figures/acolyte-107-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/acolyte-107-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/acolyte-107-data-lt-1080p.webp)

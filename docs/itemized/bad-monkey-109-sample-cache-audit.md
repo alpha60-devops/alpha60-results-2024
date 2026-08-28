@@ -26,7 +26,17 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:08:24Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/bad-monkey-109.xz`
+- Hour directories: 2502
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 0 (0 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+None detected.
 
 ## 3. Collection size histogram
 
@@ -54,4 +64,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Bad Monkey 109 cumulative map](figures/bad-monkey-109-carto.png)](figures/bad-monkey-109-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/bad-monkey-109-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/bad-monkey-109-data-lt-1080p.webp)

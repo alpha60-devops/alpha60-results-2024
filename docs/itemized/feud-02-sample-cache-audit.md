@@ -26,7 +26,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-UNAVAILABLE: no sample archive on this host.
+- Generated: 2026-08-28T17:43:20Z
+- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/feud-02.xz`
+- Hour directories: 2631
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 4 (40 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2024-02-16 05:06`, resumed `2024-02-16 07:06` — missing 1 hour(s)
+- hourly gap: last `2024-02-16 19:06`, resumed `2024-02-17 17:54` — missing 21 hour(s)
+- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` — missing 1 hour(s)
+- hourly gap: last `2024-05-15 23:00`, resumed `2024-05-16 17:05` — missing 17 hour(s)
 
 ## 3. Collection size histogram
 
@@ -54,4 +67,12 @@ UNAVAILABLE: no sample archive on this host.
 
 [![Feud cumulative map](figures/feud-02-carto.png)](figures/feud-02-carto-4k.webp){:target="_blank" rel="noopener"}
 
-UNAVAILABLE — no cumulative data maps were rendered.
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+![Cumulative >= 1080p](figures/feud-02-data-ge-1080p.webp)
+
+**Cumulative < 1080p**
+
+![Cumulative < 1080p](figures/feud-02-data-lt-1080p.webp)
