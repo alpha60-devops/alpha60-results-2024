@@ -1,0 +1,926 @@
+{
+    "collection_name": "Mr. & Mrs. Smith",
+    "collection_id": "1",
+    "collection_key": "mr-and-mrs-smith-2024-01",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "swarm_analysis": [
+        {
+            "analysis_pass": "anomalies_and_tor_exit_nodes",
+            "udownloaders_total": 18179890,
+            "udownloaders_anomaly_ip_only": 0,
+            "udownloaders_anomaly_null_island": 0,
+            "udownloaders_anomaly_null_country": 0,
+            "udownloaders_tor_exit_nodes_used": 0,
+            "udownloaders_tor_exit_nodes_used_percentage": "0.00",
+            "uuploaders_total": 1050324,
+            "uuploaders_anomaly_ip_only": 0,
+            "uuploaders_anomaly_null_island": 0,
+            "uuploaders_anomaly_null_country": 0,
+            "uuploaders_tor_exit_nodes_used": 0,
+            "uuploaders_tor_exit_nodes_used_percentage": "0.00",
+            "tor_exit_nodes_size": 2418
+        },
+        {
+            "analysis_pass": "privacy",
+            "global": [
+                {
+                    "udownloaders_total": 18179890,
+                    "udownloaders_privacy": 0,
+                    "udownloaders_privacy_percentage": "0.00",
+                    "udownloaders_hosting": 2082087,
+                    "udownloaders_hosting_percentage": "11.45",
+                    "udownloaders_proxy": 9748,
+                    "udownloaders_proxy_percentage": "0.05",
+                    "udownloaders_relay": 12850,
+                    "udownloaders_relay_percentage": "0.07",
+                    "udownloaders_service": 668354,
+                    "udownloaders_service_percentage": "3.68",
+                    "udownloaders_tor": 2399,
+                    "udownloaders_tor_percentage": "0.01",
+                    "udownloaders_vpn": 922570,
+                    "udownloaders_vpn_percentage": "5.07"
+                },
+                {
+                    "uuploaders_total": 1050324,
+                    "uuploaders_privacy": 0,
+                    "uuploaders_privacy_percentage": "0.00",
+                    "uuploaders_hosting": 242090,
+                    "uuploaders_hosting_percentage": "23.05",
+                    "uuploaders_proxy": 1263,
+                    "uuploaders_proxy_percentage": "0.12",
+                    "uuploaders_relay": 3899,
+                    "uuploaders_relay_percentage": "0.37",
+                    "uuploaders_service": 147348,
+                    "uuploaders_service_percentage": "14.03",
+                    "uuploaders_tor": 209,
+                    "uuploaders_tor_percentage": "0.02",
+                    "uuploaders_vpn": 155018,
+                    "uuploaders_vpn_percentage": "14.76"
+                }
+            ],
+            "by_country": [
+                {
+                    "bra_udownloaders_total": 942178,
+                    "bra_udownloaders_privacy": 0,
+                    "bra_udownloaders_privacy_percentage": "0.00",
+                    "bra_udownloaders_hosting": 9193,
+                    "bra_udownloaders_hosting_percentage": "0.98",
+                    "bra_udownloaders_proxy": 29,
+                    "bra_udownloaders_proxy_percentage": "0.00",
+                    "bra_udownloaders_relay": 366,
+                    "bra_udownloaders_relay_percentage": "0.04",
+                    "bra_udownloaders_service": 3211,
+                    "bra_udownloaders_service_percentage": "0.34",
+                    "bra_udownloaders_tor": 1,
+                    "bra_udownloaders_tor_percentage": "0.00",
+                    "bra_udownloaders_vpn": 4956,
+                    "bra_udownloaders_vpn_percentage": "0.53"
+                },
+                {
+                    "can_udownloaders_total": 391946,
+                    "can_udownloaders_privacy": 0,
+                    "can_udownloaders_privacy_percentage": "0.00",
+                    "can_udownloaders_hosting": 102624,
+                    "can_udownloaders_hosting_percentage": "26.18",
+                    "can_udownloaders_proxy": 1426,
+                    "can_udownloaders_proxy_percentage": "0.36",
+                    "can_udownloaders_relay": 910,
+                    "can_udownloaders_relay_percentage": "0.23",
+                    "can_udownloaders_service": 61119,
+                    "can_udownloaders_service_percentage": "15.59",
+                    "can_udownloaders_tor": 127,
+                    "can_udownloaders_tor_percentage": "0.03",
+                    "can_udownloaders_vpn": 64254,
+                    "can_udownloaders_vpn_percentage": "16.39"
+                },
+                {
+                    "chn_udownloaders_total": 791817,
+                    "chn_udownloaders_privacy": 0,
+                    "chn_udownloaders_privacy_percentage": "0.00",
+                    "chn_udownloaders_hosting": 40490,
+                    "chn_udownloaders_hosting_percentage": "5.11",
+                    "chn_udownloaders_proxy": 278,
+                    "chn_udownloaders_proxy_percentage": "0.04",
+                    "chn_udownloaders_relay": 55,
+                    "chn_udownloaders_relay_percentage": "0.01",
+                    "chn_udownloaders_service": 158,
+                    "chn_udownloaders_service_percentage": "0.02",
+                    "chn_udownloaders_tor": 0,
+                    "chn_udownloaders_tor_percentage": "0.00",
+                    "chn_udownloaders_vpn": 11392,
+                    "chn_udownloaders_vpn_percentage": "1.44"
+                },
+                {
+                    "deu_udownloaders_total": 339237,
+                    "deu_udownloaders_privacy": 0,
+                    "deu_udownloaders_privacy_percentage": "0.00",
+                    "deu_udownloaders_hosting": 118791,
+                    "deu_udownloaders_hosting_percentage": "35.02",
+                    "deu_udownloaders_proxy": 106,
+                    "deu_udownloaders_proxy_percentage": "0.03",
+                    "deu_udownloaders_relay": 660,
+                    "deu_udownloaders_relay_percentage": "0.19",
+                    "deu_udownloaders_service": 20231,
+                    "deu_udownloaders_service_percentage": "5.96",
+                    "deu_udownloaders_tor": 728,
+                    "deu_udownloaders_tor_percentage": "0.21",
+                    "deu_udownloaders_vpn": 23568,
+                    "deu_udownloaders_vpn_percentage": "6.95"
+                },
+                {
+                    "esp_udownloaders_total": 351068,
+                    "esp_udownloaders_privacy": 0,
+                    "esp_udownloaders_privacy_percentage": "0.00",
+                    "esp_udownloaders_hosting": 11362,
+                    "esp_udownloaders_hosting_percentage": "3.24",
+                    "esp_udownloaders_proxy": 38,
+                    "esp_udownloaders_proxy_percentage": "0.01",
+                    "esp_udownloaders_relay": 416,
+                    "esp_udownloaders_relay_percentage": "0.12",
+                    "esp_udownloaders_service": 9335,
+                    "esp_udownloaders_service_percentage": "2.66",
+                    "esp_udownloaders_tor": 1,
+                    "esp_udownloaders_tor_percentage": "0.00",
+                    "esp_udownloaders_vpn": 9991,
+                    "esp_udownloaders_vpn_percentage": "2.85"
+                },
+                {
+                    "fra_udownloaders_total": 745217,
+                    "fra_udownloaders_privacy": 0,
+                    "fra_udownloaders_privacy_percentage": "0.00",
+                    "fra_udownloaders_hosting": 185098,
+                    "fra_udownloaders_hosting_percentage": "24.84",
+                    "fra_udownloaders_proxy": 208,
+                    "fra_udownloaders_proxy_percentage": "0.03",
+                    "fra_udownloaders_relay": 527,
+                    "fra_udownloaders_relay_percentage": "0.07",
+                    "fra_udownloaders_service": 30490,
+                    "fra_udownloaders_service_percentage": "4.09",
+                    "fra_udownloaders_tor": 251,
+                    "fra_udownloaders_tor_percentage": "0.03",
+                    "fra_udownloaders_vpn": 37183,
+                    "fra_udownloaders_vpn_percentage": "4.99"
+                },
+                {
+                    "hkg_udownloaders_total": 87682,
+                    "hkg_udownloaders_privacy": 0,
+                    "hkg_udownloaders_privacy_percentage": "0.00",
+                    "hkg_udownloaders_hosting": 13313,
+                    "hkg_udownloaders_hosting_percentage": "15.18",
+                    "hkg_udownloaders_proxy": 16,
+                    "hkg_udownloaders_proxy_percentage": "0.02",
+                    "hkg_udownloaders_relay": 223,
+                    "hkg_udownloaders_relay_percentage": "0.25",
+                    "hkg_udownloaders_service": 3001,
+                    "hkg_udownloaders_service_percentage": "3.42",
+                    "hkg_udownloaders_tor": 0,
+                    "hkg_udownloaders_tor_percentage": "0.00",
+                    "hkg_udownloaders_vpn": 4617,
+                    "hkg_udownloaders_vpn_percentage": "5.27"
+                },
+                {
+                    "jpn_udownloaders_total": 252469,
+                    "jpn_udownloaders_privacy": 0,
+                    "jpn_udownloaders_privacy_percentage": "0.00",
+                    "jpn_udownloaders_hosting": 23566,
+                    "jpn_udownloaders_hosting_percentage": "9.33",
+                    "jpn_udownloaders_proxy": 249,
+                    "jpn_udownloaders_proxy_percentage": "0.10",
+                    "jpn_udownloaders_relay": 178,
+                    "jpn_udownloaders_relay_percentage": "0.07",
+                    "jpn_udownloaders_service": 12190,
+                    "jpn_udownloaders_service_percentage": "4.83",
+                    "jpn_udownloaders_tor": 8,
+                    "jpn_udownloaders_tor_percentage": "0.00",
+                    "jpn_udownloaders_vpn": 14588,
+                    "jpn_udownloaders_vpn_percentage": "5.78"
+                },
+                {
+                    "kor_udownloaders_total": 1518233,
+                    "kor_udownloaders_privacy": 0,
+                    "kor_udownloaders_privacy_percentage": "0.00",
+                    "kor_udownloaders_hosting": 41985,
+                    "kor_udownloaders_hosting_percentage": "2.77",
+                    "kor_udownloaders_proxy": 367,
+                    "kor_udownloaders_proxy_percentage": "0.02",
+                    "kor_udownloaders_relay": 133,
+                    "kor_udownloaders_relay_percentage": "0.01",
+                    "kor_udownloaders_service": 4272,
+                    "kor_udownloaders_service_percentage": "0.28",
+                    "kor_udownloaders_tor": 47,
+                    "kor_udownloaders_tor_percentage": "0.00",
+                    "kor_udownloaders_vpn": 18070,
+                    "kor_udownloaders_vpn_percentage": "1.19"
+                },
+                {
+                    "mex_udownloaders_total": 500876,
+                    "mex_udownloaders_privacy": 0,
+                    "mex_udownloaders_privacy_percentage": "0.00",
+                    "mex_udownloaders_hosting": 1594,
+                    "mex_udownloaders_hosting_percentage": "0.32",
+                    "mex_udownloaders_proxy": 18,
+                    "mex_udownloaders_proxy_percentage": "0.00",
+                    "mex_udownloaders_relay": 90,
+                    "mex_udownloaders_relay_percentage": "0.02",
+                    "mex_udownloaders_service": 1404,
+                    "mex_udownloaders_service_percentage": "0.28",
+                    "mex_udownloaders_tor": 1,
+                    "mex_udownloaders_tor_percentage": "0.00",
+                    "mex_udownloaders_vpn": 1775,
+                    "mex_udownloaders_vpn_percentage": "0.35"
+                },
+                {
+                    "nld_udownloaders_total": 541097,
+                    "nld_udownloaders_privacy": 0,
+                    "nld_udownloaders_privacy_percentage": "0.00",
+                    "nld_udownloaders_hosting": 405388,
+                    "nld_udownloaders_hosting_percentage": "74.92",
+                    "nld_udownloaders_proxy": 2884,
+                    "nld_udownloaders_proxy_percentage": "0.53",
+                    "nld_udownloaders_relay": 280,
+                    "nld_udownloaders_relay_percentage": "0.05",
+                    "nld_udownloaders_service": 60348,
+                    "nld_udownloaders_service_percentage": "11.15",
+                    "nld_udownloaders_tor": 347,
+                    "nld_udownloaders_tor_percentage": "0.06",
+                    "nld_udownloaders_vpn": 116358,
+                    "nld_udownloaders_vpn_percentage": "21.50"
+                },
+                {
+                    "rus_udownloaders_total": 4084410,
+                    "rus_udownloaders_privacy": 0,
+                    "rus_udownloaders_privacy_percentage": "0.00",
+                    "rus_udownloaders_hosting": 139354,
+                    "rus_udownloaders_hosting_percentage": "3.41",
+                    "rus_udownloaders_proxy": 1211,
+                    "rus_udownloaders_proxy_percentage": "0.03",
+                    "rus_udownloaders_relay": 436,
+                    "rus_udownloaders_relay_percentage": "0.01",
+                    "rus_udownloaders_service": 21944,
+                    "rus_udownloaders_service_percentage": "0.54",
+                    "rus_udownloaders_tor": 1,
+                    "rus_udownloaders_tor_percentage": "0.00",
+                    "rus_udownloaders_vpn": 112715,
+                    "rus_udownloaders_vpn_percentage": "2.76"
+                },
+                {
+                    "swe_udownloaders_total": 147895,
+                    "swe_udownloaders_privacy": 0,
+                    "swe_udownloaders_privacy_percentage": "0.00",
+                    "swe_udownloaders_hosting": 34364,
+                    "swe_udownloaders_hosting_percentage": "23.24",
+                    "swe_udownloaders_proxy": 338,
+                    "swe_udownloaders_proxy_percentage": "0.23",
+                    "swe_udownloaders_relay": 132,
+                    "swe_udownloaders_relay_percentage": "0.09",
+                    "swe_udownloaders_service": 26029,
+                    "swe_udownloaders_service_percentage": "17.60",
+                    "swe_udownloaders_tor": 54,
+                    "swe_udownloaders_tor_percentage": "0.04",
+                    "swe_udownloaders_vpn": 27840,
+                    "swe_udownloaders_vpn_percentage": "18.82"
+                },
+                {
+                    "tur_udownloaders_total": 751269,
+                    "tur_udownloaders_privacy": 0,
+                    "tur_udownloaders_privacy_percentage": "0.00",
+                    "tur_udownloaders_hosting": 2925,
+                    "tur_udownloaders_hosting_percentage": "0.39",
+                    "tur_udownloaders_proxy": 1,
+                    "tur_udownloaders_proxy_percentage": "0.00",
+                    "tur_udownloaders_relay": 78,
+                    "tur_udownloaders_relay_percentage": "0.01",
+                    "tur_udownloaders_service": 419,
+                    "tur_udownloaders_service_percentage": "0.06",
+                    "tur_udownloaders_tor": 0,
+                    "tur_udownloaders_tor_percentage": "0.00",
+                    "tur_udownloaders_vpn": 704,
+                    "tur_udownloaders_vpn_percentage": "0.09"
+                },
+                {
+                    "ukr_udownloaders_total": 312137,
+                    "ukr_udownloaders_privacy": 0,
+                    "ukr_udownloaders_privacy_percentage": "0.00",
+                    "ukr_udownloaders_hosting": 22343,
+                    "ukr_udownloaders_hosting_percentage": "7.16",
+                    "ukr_udownloaders_proxy": 94,
+                    "ukr_udownloaders_proxy_percentage": "0.03",
+                    "ukr_udownloaders_relay": 508,
+                    "ukr_udownloaders_relay_percentage": "0.16",
+                    "ukr_udownloaders_service": 2474,
+                    "ukr_udownloaders_service_percentage": "0.79",
+                    "ukr_udownloaders_tor": 32,
+                    "ukr_udownloaders_tor_percentage": "0.01",
+                    "ukr_udownloaders_vpn": 8036,
+                    "ukr_udownloaders_vpn_percentage": "2.57"
+                },
+                {
+                    "usa_udownloaders_total": 1256949,
+                    "usa_udownloaders_privacy": 0,
+                    "usa_udownloaders_privacy_percentage": "0.00",
+                    "usa_udownloaders_hosting": 500489,
+                    "usa_udownloaders_hosting_percentage": "39.82",
+                    "usa_udownloaders_proxy": 921,
+                    "usa_udownloaders_proxy_percentage": "0.07",
+                    "usa_udownloaders_relay": 1992,
+                    "usa_udownloaders_relay_percentage": "0.16",
+                    "usa_udownloaders_service": 212134,
+                    "usa_udownloaders_service_percentage": "16.88",
+                    "usa_udownloaders_tor": 213,
+                    "usa_udownloaders_tor_percentage": "0.02",
+                    "usa_udownloaders_vpn": 223527,
+                    "usa_udownloaders_vpn_percentage": "17.78"
+                }
+            ]
+        },
+        {
+            "analysis_pass": "carrier_mobile_wireless",
+            "global": [
+                {
+                    "udownloaders_total": 18179890,
+                    "udownloaders_carrier": 1012678,
+                    "udownloaders_carrier_percentage": "5.57",
+                    "udownloaders_mobile_networks": []
+                },
+                {
+                    "uuploaders_total": 1050324,
+                    "uuploaders_carrier": 151824,
+                    "uuploaders_carrier_percentage": "14.45",
+                    "uuploaders_mobile_networks": []
+                }
+            ],
+            "by_country": [
+                {
+                    "bra_udownloaders_total": 942178,
+                    "bra_udownloaders_carrier": 8714,
+                    "bra_udownloaders_carrier_percentage": "0.92",
+                    "bra_udownloaders_mobile_networks": [
+                        {
+                            "bra_udownloaders_total": 3131,
+                            "network_id": "724_02_TIM"
+                        },
+                        {
+                            "bra_udownloaders_total": 2096,
+                            "network_id": "724_06_Vivo"
+                        },
+                        {
+                            "bra_udownloaders_total": 2062,
+                            "network_id": "724_05_Claro"
+                        },
+                        {
+                            "bra_udownloaders_total": 780,
+                            "network_id": "724_03_TIM"
+                        },
+                        {
+                            "bra_udownloaders_total": 312,
+                            "network_id": "724_34_Algar Telecom"
+                        },
+                        {
+                            "bra_udownloaders_total": 182,
+                            "network_id": "724_77_Brisanet"
+                        },
+                        {
+                            "bra_udownloaders_total": 119,
+                            "network_id": "724_15_Sercomtel"
+                        },
+                        {
+                            "bra_udownloaders_total": 18,
+                            "network_id": "724_11_Vivo"
+                        },
+                        {
+                            "bra_udownloaders_total": 11,
+                            "network_id": "724_04_TIM"
+                        }
+                    ]
+                },
+                {
+                    "can_udownloaders_total": 391946,
+                    "can_udownloaders_carrier": 51232,
+                    "can_udownloaders_carrier_percentage": "13.07",
+                    "can_udownloaders_mobile_networks": [
+                        {
+                            "can_udownloaders_total": 42579,
+                            "network_id": "302_610_Bell Mobility"
+                        },
+                        {
+                            "can_udownloaders_total": 2930,
+                            "network_id": "302_500_Videotron"
+                        },
+                        {
+                            "can_udownloaders_total": 2510,
+                            "network_id": "302_720_Rogers Wireless"
+                        },
+                        {
+                            "can_udownloaders_total": 1570,
+                            "network_id": "302_780_SaskTel"
+                        },
+                        {
+                            "can_udownloaders_total": 686,
+                            "network_id": "302_270_EastLink"
+                        },
+                        {
+                            "can_udownloaders_total": 281,
+                            "network_id": "302_940_Wightman Mobility"
+                        },
+                        {
+                            "can_udownloaders_total": 233,
+                            "network_id": "302_650_TBaytel"
+                        },
+                        {
+                            "can_udownloaders_total": 167,
+                            "network_id": "302_490_Freedom Mobile"
+                        },
+                        {
+                            "can_udownloaders_total": 144,
+                            "network_id": "302_131_Xplore"
+                        },
+                        {
+                            "can_udownloaders_total": 70,
+                            "network_id": "302_670_CityTel Mobility"
+                        },
+                        {
+                            "can_udownloaders_total": 49,
+                            "network_id": "302_370_Fido"
+                        },
+                        {
+                            "can_udownloaders_total": 8,
+                            "network_id": "302_380_Keewaytinook Mobile"
+                        }
+                    ]
+                },
+                {
+                    "chn_udownloaders_total": 791817,
+                    "chn_udownloaders_carrier": 12878,
+                    "chn_udownloaders_carrier_percentage": "1.63",
+                    "chn_udownloaders_mobile_networks": [
+                        {
+                            "chn_udownloaders_total": 8158,
+                            "network_id": "460_01_China Unicom"
+                        },
+                        {
+                            "chn_udownloaders_total": 2442,
+                            "network_id": "460_00_China Mobile"
+                        },
+                        {
+                            "chn_udownloaders_total": 1882,
+                            "network_id": "460_11_China Telecom"
+                        },
+                        {
+                            "chn_udownloaders_total": 387,
+                            "network_id": "460_04_China Mobile"
+                        },
+                        {
+                            "chn_udownloaders_total": 9,
+                            "network_id": "460_02_China Mobile"
+                        }
+                    ]
+                },
+                {
+                    "deu_udownloaders_total": 339237,
+                    "deu_udownloaders_carrier": 16162,
+                    "deu_udownloaders_carrier_percentage": "4.76",
+                    "deu_udownloaders_mobile_networks": [
+                        {
+                            "deu_udownloaders_total": 10796,
+                            "network_id": "262_02_Vodafone"
+                        },
+                        {
+                            "deu_udownloaders_total": 2981,
+                            "network_id": "262_01_Telekom"
+                        },
+                        {
+                            "deu_udownloaders_total": 2385,
+                            "network_id": "262_03_O2"
+                        }
+                    ]
+                },
+                {
+                    "esp_udownloaders_total": 351068,
+                    "esp_udownloaders_carrier": 16448,
+                    "esp_udownloaders_carrier_percentage": "4.69",
+                    "esp_udownloaders_mobile_networks": [
+                        {
+                            "esp_udownloaders_total": 12178,
+                            "network_id": "214_03_Orange"
+                        },
+                        {
+                            "esp_udownloaders_total": 2533,
+                            "network_id": "214_22_DIGI mobil"
+                        },
+                        {
+                            "esp_udownloaders_total": 1405,
+                            "network_id": "214_07_Movistar"
+                        },
+                        {
+                            "esp_udownloaders_total": 332,
+                            "network_id": "214_01_Vodafone"
+                        }
+                    ]
+                },
+                {
+                    "fra_udownloaders_total": 745217,
+                    "fra_udownloaders_carrier": 219348,
+                    "fra_udownloaders_carrier_percentage": "29.43",
+                    "fra_udownloaders_mobile_networks": [
+                        {
+                            "fra_udownloaders_total": 83060,
+                            "network_id": "208_20_Bouygues"
+                        },
+                        {
+                            "fra_udownloaders_total": 63548,
+                            "network_id": "208_15_Free"
+                        },
+                        {
+                            "fra_udownloaders_total": 59283,
+                            "network_id": "208_01_Orange"
+                        },
+                        {
+                            "fra_udownloaders_total": 13418,
+                            "network_id": "208_10_SFR"
+                        },
+                        {
+                            "fra_udownloaders_total": 14,
+                            "network_id": "208_09_SFR"
+                        },
+                        {
+                            "fra_udownloaders_total": 13,
+                            "network_id": "208_08_SFR"
+                        },
+                        {
+                            "fra_udownloaders_total": 12,
+                            "network_id": "208_16_Free"
+                        }
+                    ]
+                },
+                {
+                    "hkg_udownloaders_total": 87682,
+                    "hkg_udownloaders_carrier": 792,
+                    "hkg_udownloaders_carrier_percentage": "0.90",
+                    "hkg_udownloaders_mobile_networks": [
+                        {
+                            "hkg_udownloaders_total": 326,
+                            "network_id": "454_03_3"
+                        },
+                        {
+                            "hkg_udownloaders_total": 235,
+                            "network_id": "454_12_CMCC HK"
+                        },
+                        {
+                            "hkg_udownloaders_total": 182,
+                            "network_id": "454_00_1O1O / One2Free / New World Mobility / SUNMobile"
+                        },
+                        {
+                            "hkg_udownloaders_total": 49,
+                            "network_id": "454_06_SmarTone"
+                        }
+                    ]
+                },
+                {
+                    "jpn_udownloaders_total": 252469,
+                    "jpn_udownloaders_carrier": 67124,
+                    "jpn_udownloaders_carrier_percentage": "26.59",
+                    "jpn_udownloaders_mobile_networks": [
+                        {
+                            "jpn_udownloaders_total": 37629,
+                            "network_id": "440_50_au"
+                        },
+                        {
+                            "jpn_udownloaders_total": 27616,
+                            "network_id": "440_10_NTT docomo"
+                        },
+                        {
+                            "jpn_udownloaders_total": 1346,
+                            "network_id": "440_20_SoftBank"
+                        },
+                        {
+                            "jpn_udownloaders_total": 533,
+                            "network_id": "440_11_Rakuten Mobile"
+                        }
+                    ]
+                },
+                {
+                    "kor_udownloaders_total": 1518233,
+                    "kor_udownloaders_carrier": 24801,
+                    "kor_udownloaders_carrier_percentage": "1.63",
+                    "kor_udownloaders_mobile_networks": [
+                        {
+                            "kor_udownloaders_total": 21372,
+                            "network_id": "450_06_LG U+"
+                        },
+                        {
+                            "kor_udownloaders_total": 3063,
+                            "network_id": "450_08_olleh"
+                        },
+                        {
+                            "kor_udownloaders_total": 366,
+                            "network_id": "450_05_SKTelecom"
+                        }
+                    ]
+                },
+                {
+                    "mex_udownloaders_total": 500876,
+                    "mex_udownloaders_carrier": 1503,
+                    "mex_udownloaders_carrier_percentage": "0.30",
+                    "mex_udownloaders_mobile_networks": [
+                        {
+                            "mex_udownloaders_total": 624,
+                            "network_id": "334_140_Red Compartida"
+                        },
+                        {
+                            "mex_udownloaders_total": 607,
+                            "network_id": "334_020_Telcel"
+                        },
+                        {
+                            "mex_udownloaders_total": 272,
+                            "network_id": "334_050_AT&T / Unefon"
+                        }
+                    ]
+                },
+                {
+                    "nld_udownloaders_total": 541097,
+                    "nld_udownloaders_carrier": 2597,
+                    "nld_udownloaders_carrier_percentage": "0.48",
+                    "nld_udownloaders_mobile_networks": [
+                        {
+                            "nld_udownloaders_total": 1180,
+                            "network_id": "204_16_Odido"
+                        },
+                        {
+                            "nld_udownloaders_total": 626,
+                            "network_id": "204_04_Vodafone"
+                        },
+                        {
+                            "nld_udownloaders_total": 607,
+                            "network_id": "204_08_KPN"
+                        },
+                        {
+                            "nld_udownloaders_total": 184,
+                            "network_id": "204_02_Odido"
+                        }
+                    ]
+                },
+                {
+                    "rus_udownloaders_total": 4084410,
+                    "rus_udownloaders_carrier": 33321,
+                    "rus_udownloaders_carrier_percentage": "0.82",
+                    "rus_udownloaders_mobile_networks": [
+                        {
+                            "rus_udownloaders_total": 13691,
+                            "network_id": "250_01_MTS"
+                        },
+                        {
+                            "rus_udownloaders_total": 9380,
+                            "network_id": "250_02_MegaFon"
+                        },
+                        {
+                            "rus_udownloaders_total": 5763,
+                            "network_id": "250_99_Beeline"
+                        },
+                        {
+                            "rus_udownloaders_total": 4125,
+                            "network_id": "250_20_t2"
+                        },
+                        {
+                            "rus_udownloaders_total": 304,
+                            "network_id": "250_35_MOTIV"
+                        },
+                        {
+                            "rus_udownloaders_total": 58,
+                            "network_id": "250_96_+7Telecom"
+                        }
+                    ]
+                },
+                {
+                    "swe_udownloaders_total": 147895,
+                    "swe_udownloaders_carrier": 2566,
+                    "swe_udownloaders_carrier_percentage": "1.74",
+                    "swe_udownloaders_mobile_networks": [
+                        {
+                            "swe_udownloaders_total": 868,
+                            "network_id": "240_01_Telia"
+                        },
+                        {
+                            "swe_udownloaders_total": 794,
+                            "network_id": "240_02_3"
+                        },
+                        {
+                            "swe_udownloaders_total": 533,
+                            "network_id": "240_07_Tele2"
+                        },
+                        {
+                            "swe_udownloaders_total": 369,
+                            "network_id": "240_08_Telenor"
+                        }
+                    ]
+                },
+                {
+                    "tur_udownloaders_total": 751269,
+                    "tur_udownloaders_carrier": 19970,
+                    "tur_udownloaders_carrier_percentage": "2.66",
+                    "tur_udownloaders_mobile_networks": [
+                        {
+                            "tur_udownloaders_total": 11155,
+                            "network_id": "286_03_Türk Telekom"
+                        },
+                        {
+                            "tur_udownloaders_total": 7332,
+                            "network_id": "286_01_Turkcell"
+                        },
+                        {
+                            "tur_udownloaders_total": 1483,
+                            "network_id": "286_02_Vodafone"
+                        }
+                    ]
+                },
+                {
+                    "ukr_udownloaders_total": 312137,
+                    "ukr_udownloaders_carrier": 1581,
+                    "ukr_udownloaders_carrier_percentage": "0.51",
+                    "ukr_udownloaders_mobile_networks": [
+                        {
+                            "ukr_udownloaders_total": 920,
+                            "network_id": "255_03_Kyivstar"
+                        },
+                        {
+                            "ukr_udownloaders_total": 335,
+                            "network_id": "255_01_Vodafone"
+                        },
+                        {
+                            "ukr_udownloaders_total": 323,
+                            "network_id": "255_06_lifecell"
+                        }
+                    ]
+                },
+                {
+                    "usa_udownloaders_total": 1256949,
+                    "usa_udownloaders_carrier": 39932,
+                    "usa_udownloaders_carrier_percentage": "3.18",
+                    "usa_udownloaders_mobile_networks": [
+                        {
+                            "usa_udownloaders_total": 14460,
+                            "network_id": "310_410_AT&T"
+                        },
+                        {
+                            "usa_udownloaders_total": 5222,
+                            "network_id": "311_480_Verizon"
+                        },
+                        {
+                            "usa_udownloaders_total": 174,
+                            "network_id": "311_370_GCI Wireless"
+                        },
+                        {
+                            "usa_udownloaders_total": 136,
+                            "network_id": "310_020_Union Wireless"
+                        },
+                        {
+                            "usa_udownloaders_total": 131,
+                            "network_id": "311_580_UScellular"
+                        },
+                        {
+                            "usa_udownloaders_total": 73,
+                            "network_id": "311_080_Pine Cellular"
+                        },
+                        {
+                            "usa_udownloaders_total": 28,
+                            "network_id": "310_320_Cellular One"
+                        },
+                        {
+                            "usa_udownloaders_total": 24,
+                            "network_id": "311_450_PTCI"
+                        },
+                        {
+                            "usa_udownloaders_total": 11,
+                            "network_id": "310_450_Viaero"
+                        },
+                        {
+                            "usa_udownloaders_total": 10,
+                            "network_id": "313_750_ZipLink"
+                        },
+                        {
+                            "usa_udownloaders_total": 9,
+                            "network_id": "312_330_Nemont"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "analysis_pass": "satellite",
+            "global": [
+                {
+                    "analysis_pass": "satellite",
+                    "udownloaders_total": 18179890,
+                    "udownloaders_satellite": 9931,
+                    "udownloaders_satellite_percentage": "0.05"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "uuploaders_total": 1050324,
+                    "uuploaders_satellite": 3314,
+                    "uuploaders_satellite_percentage": "0.32"
+                }
+            ],
+            "by_country": [
+                {
+                    "analysis_pass": "satellite",
+                    "bra_udownloaders_total": 942178,
+                    "bra_udownloaders_satellite": 220,
+                    "bra_udownloaders_satellite_percentage": "0.02"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "can_udownloaders_total": 391946,
+                    "can_udownloaders_satellite": 541,
+                    "can_udownloaders_satellite_percentage": "0.14"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "chn_udownloaders_total": 791817,
+                    "chn_udownloaders_satellite": 0,
+                    "chn_udownloaders_satellite_percentage": "0.00"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "deu_udownloaders_total": 339237,
+                    "deu_udownloaders_satellite": 409,
+                    "deu_udownloaders_satellite_percentage": "0.12"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "esp_udownloaders_total": 351068,
+                    "esp_udownloaders_satellite": 218,
+                    "esp_udownloaders_satellite_percentage": "0.06"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "fra_udownloaders_total": 745217,
+                    "fra_udownloaders_satellite": 352,
+                    "fra_udownloaders_satellite_percentage": "0.05"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "hkg_udownloaders_total": 87682,
+                    "hkg_udownloaders_satellite": 2,
+                    "hkg_udownloaders_satellite_percentage": "0.00"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "jpn_udownloaders_total": 252469,
+                    "jpn_udownloaders_satellite": 40,
+                    "jpn_udownloaders_satellite_percentage": "0.02"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "kor_udownloaders_total": 1518233,
+                    "kor_udownloaders_satellite": 0,
+                    "kor_udownloaders_satellite_percentage": "0.00"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "mex_udownloaders_total": 500876,
+                    "mex_udownloaders_satellite": 467,
+                    "mex_udownloaders_satellite_percentage": "0.09"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "nld_udownloaders_total": 541097,
+                    "nld_udownloaders_satellite": 10,
+                    "nld_udownloaders_satellite_percentage": "0.00"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "rus_udownloaders_total": 4084410,
+                    "rus_udownloaders_satellite": 43,
+                    "rus_udownloaders_satellite_percentage": "0.00"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "swe_udownloaders_total": 147895,
+                    "swe_udownloaders_satellite": 0,
+                    "swe_udownloaders_satellite_percentage": "0.00"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "tur_udownloaders_total": 751269,
+                    "tur_udownloaders_satellite": 5,
+                    "tur_udownloaders_satellite_percentage": "0.00"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "ukr_udownloaders_total": 312137,
+                    "ukr_udownloaders_satellite": 229,
+                    "ukr_udownloaders_satellite_percentage": "0.07"
+                },
+                {
+                    "analysis_pass": "satellite",
+                    "usa_udownloaders_total": 1256949,
+                    "usa_udownloaders_satellite": 1797,
+                    "usa_udownloaders_satellite_percentage": "0.14"
+                }
+            ]
+        }
+    ]
+}
