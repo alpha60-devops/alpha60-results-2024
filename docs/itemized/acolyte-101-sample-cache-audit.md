@@ -1,0 +1,57 @@
+---
+layout: default
+title: "acolyte-101 Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# acolyte-101 sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | The Acolyte |
+| Collection key | `acolyte-101` |
+| imdb_id | [tt12262202](https://www.imdb.com/title/tt12262202/) |
+| wikipedia_url | [Star Wars: The Acolyte](https://en.wikipedia.org/wiki/Star_Wars%3A_The_Acolyte) |
+| Sample dates | 2024-06-05-to-2024-12-03 |
+| Sample days | 182 (2024–2024) |
+| BTIH count | 325 |
+| Unique BTIH count | 286 |
+| Downloaders total | 36,728,263 |
+| Uploaders total | 2,572,283 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Cache coverage report
+
+UNAVAILABLE: no sample archive on this host.
+
+## 3. Collection size histogram
+
+![The Acolyte collection size histogram](figures/acolyte-101-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+![acolyte-101 downloads by week](figures/acolyte-101-downloads-by-week-acolyte-101-week.svg)
+
+### Downloads by day, Saturday and Sunday in gray
+
+![acolyte-101 downloads by day](figures/acolyte-101-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Continental downloader slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 1.88 | 18.10 | 24.37 | 52.43 | 1.27 | 0.63 |
+
+### Cumulative network infrastructure
+
+[![The Acolyte cumulative map](figures/acolyte-101-carto.png)](figures/acolyte-101-carto-4k.webp){:target="_blank" rel="noopener"}
+
+UNAVAILABLE — no cumulative data maps were rendered.
