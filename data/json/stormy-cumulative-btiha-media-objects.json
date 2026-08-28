@@ -1,0 +1,1243 @@
+{
+    "collection_name": "Stormy",
+    "collection_id": "",
+    "collection_key": "stormy",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "abe06a0bc528190aafe5fa8e4d57b5300c4ce0dc",
+            "duplicate_0_0": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG",
+            "duplicate_0_1": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Ch5.Stormy.1080p.HDTV.x265.AAC.MVGroup.org.mkv",
+            "size_total": 1.456726113,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.456726113,
+                    "path": "Ch5.Stormy.1080p.HDTV.x265.AAC.MVGroup.org.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Stormy (2024) 1080p WEBRip 5.1-LAMA [IPT]",
+            "size_total": 2.183530198,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.182981563,
+                    "path": "Stormy (2024) 1080p WEBRip 5.1-LAMA/Stormy.2024.1080p.WEBRip.x264.AAC5.1-LAMA.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000006142,
+                    "path": "Stormy (2024) 1080p WEBRip 5.1-LAMA/Stormy.2024.1080p.WEBRip.x264.AAC5.1-LAMA.mp4.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000169101,
+                    "path": "Stormy (2024) 1080p WEBRip 5.1-LAMA/Stormy.2024.1080p.WEBRip.x264.AAC5.1-LAMA.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000169101,
+                    "path": "Stormy (2024) 1080p WEBRip 5.1-LAMA/Subs/English.eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000204291,
+                    "path": "Stormy (2024) 1080p WEBRip 5.1-LAMA/Subs/Spanish.spa.srt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Stormy (2024) 720p WEBRip-LAMA [IPT]",
+            "size_total": 1.062919647,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.06237103,
+                    "path": "Stormy (2024) 720p WEBRip-LAMA/Stormy.2024.720p.WEBRip.x264.AAC-LAMA.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000006124,
+                    "path": "Stormy (2024) 720p WEBRip-LAMA/Stormy.2024.720p.WEBRip.x264.AAC-LAMA.mp4.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000169101,
+                    "path": "Stormy (2024) 720p WEBRip-LAMA/Stormy.2024.720p.WEBRip.x264.AAC-LAMA.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000169101,
+                    "path": "Stormy (2024) 720p WEBRip-LAMA/Subs/English.eng.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000204291,
+                    "path": "Stormy (2024) 720p WEBRip-LAMA/Subs/Spanish.spa.srt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]",
+            "size_total": 2.183544735,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.182981563,
+                    "path": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]/Stormy.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000158709,
+                    "path": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]/Stormy.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.83e-7,
+                    "path": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]/YTSYifyUP... (TOR).txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000053226,
+                    "path": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]/www.YTS.MX.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000158709,
+                    "path": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]/Subs/English.eng.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000191945,
+                    "path": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]/Subs/Spanish.spa.srt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Stormy (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+            "size_total": 5.28489698,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.284843171,
+                    "path": "Stormy (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]/Stormy.2024.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.83e-7,
+                    "path": "Stormy (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]/YTSYifyUP... (TOR).txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000053226,
+                    "path": "Stormy (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]/www.YTS.MX.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Stormy (2024) [720p] [WEBRip] [YTS.MX]",
+            "size_total": 1.062934203,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.06237103,
+                    "path": "Stormy (2024) [720p] [WEBRip] [YTS.MX]/Stormy.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000158709,
+                    "path": "Stormy (2024) [720p] [WEBRip] [YTS.MX]/Stormy.2024.720p.WEBRip.x264.AAC-[YTS.MX].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.84e-7,
+                    "path": "Stormy (2024) [720p] [WEBRip] [YTS.MX]/YTSProxies.com.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000053226,
+                    "path": "Stormy (2024) [720p] [WEBRip] [YTS.MX]/www.YTS.MX.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000158709,
+                    "path": "Stormy (2024) [720p] [WEBRip] [YTS.MX]/Subs/English.eng.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000191945,
+                    "path": "Stormy (2024) [720p] [WEBRip] [YTS.MX]/Subs/Spanish.spa.srt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Stormy 2024 1080p PCOK WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "size_total": 6.587650246,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.587644735,
+                    "path": "Stormy 2024 1080p PCOK WEB-DL DDP5 1 H 264-FLUX/Stormy 2024 1080p PCOK WEB-DL DDP5 1 H 264-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005511,
+                    "path": "Stormy 2024 1080p PCOK WEB-DL DDP5 1 H 264-FLUX/Stormy 2024 1080p PCOK WEB-DL DDP5 1 H 264-FLUX.mkv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Stormy.2024.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 6.599687203,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.69e-7,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.299685841,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.35,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 21,
+                    "size": 8.93e-7,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL/stormy.2024.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Stormy.2024.1080p.WEB.h264-ETHEL[TGx]",
+            "size_total": 6.599685511,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.599683599,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL[TGx]/Stormy.2024.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.79e-7,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.69e-7,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL[TGx]/stormy.2024.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 5,
+                    "size": 8.93e-7,
+                    "path": "Stormy.2024.1080p.WEB.h264-ETHEL[TGx]/stormy.2024.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Stormy.2024.1080p.WEB.x265.10bit-Protozoan",
+            "size_total": 2.27646076,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.276447943,
+                    "path": "Stormy.2024.1080p.WEB.x265.10bit-Protozoan/Stormy.2024.1080p.WEB.x265.10bit-Protozoan.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.15e-7,
+                    "path": "Stormy.2024.1080p.WEB.x265.10bit-Protozoan/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000012102,
+                    "path": "Stormy.2024.1080p.WEB.x265.10bit-Protozoan/z.INFO.txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Stormy.2024.2160p.WEB.h265-ETHEL [IPT]",
+            "size_total": 12.498306889,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.76e-7,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.498305238,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.5,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.rar"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000001175,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL/stormy.2024.2160p.web.h265-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Stormy.2024.2160p.WEB.h265-ETHEL[TGx]",
+            "size_total": 12.59418966,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.095886346,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL[TGx]/Sample/stormy.2024.2160p.web.h265-ethel.sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 12.498302288,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL[TGx]/Stormy.2024.2160p.WEB.h265-ETHEL.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.79e-7,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 5,
+                    "size": 4.76e-7,
+                    "path": "Stormy.2024.2160p.WEB.h265-ETHEL[TGx]/stormy.2024.2160p.web.h265-ethel.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Stormy.2024.720p.WEB.h264-EDITH [IPT]",
+            "size_total": 4.125951585,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.69e-7,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.12595015,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.2,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 9.66e-7,
+                    "path": "Stormy.2024.720p.WEB.h264-EDITH/stormy.2024.720p.web.h264-edith.sfv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG",
+            "size_total": 0.836643094,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.836642544,
+                    "path": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.79e-7,
+                    "path": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+            "size_total": 0.836643094,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.836642544,
+                    "path": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.79e-7,
+                    "path": "Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Stormy.2024.720p.WEBRip.x264-LAMA [IPT]",
+            "size_total": 0.836646934,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.836642544,
+                    "path": "Stormy.2024.720p.WEBRip.x264-LAMA/Stormy.2024.720p.WEBRip.x264-LAMA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000439,
+                    "path": "Stormy.2024.720p.WEBRip.x264-LAMA/Stormy.2024.720p.WEBRip.x264-LAMA.mkv.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "www.Torrenting.com   -    Stormy.2024.720p.WEBRip.x264-LAMA",
+            "size_total": 0.836647018,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.836642544,
+                    "path": "www.Torrenting.com   -    Stormy.2024.720p.WEBRip.x264-LAMA/Stormy.2024.720p.WEBRip.x264-LAMA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000439,
+                    "path": "www.Torrenting.com   -    Stormy.2024.720p.WEBRip.x264-LAMA/Stormy.2024.720p.WEBRip.x264-LAMA.mkv.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 8.4e-8,
+                    "path": "www.Torrenting.com   -    Stormy.2024.720p.WEBRip.x264-LAMA/Torrent Downloaded From Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "到处日@Stormy Daniels全集",
+            "size_total": 4.438622435,
+            "files_total": 45,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000140199,
+                    "path": "到处日@Stormy Daniels全集/Slave To Love - Stormy Daniels - ReSeed/Covers/Cover.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000908377,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_0_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000272375,
+                    "path": "到处日@Stormy Daniels全集/Slave To Love - Stormy Daniels - ReSeed/Covers/Sc.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000776201,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_1_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000558556,
+                    "path": "到处日@Stormy Daniels全集/Slave To Love - Stormy Daniels - ReSeed/Covers/b.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00049002,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_2_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000409684,
+                    "path": "到处日@Stormy Daniels全集/Slave To Love - Stormy Daniels - ReSeed/Covers/f.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000638892,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_3_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 9,
+                    "size": 0.7331328,
+                    "path": "到处日@Stormy Daniels全集/Slave To Love - Stormy Daniels - ReSeed/Stormy - Slave To Love.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.0008704,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_4_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 11,
+                    "size": 0.0067584,
+                    "path": "到处日@Stormy Daniels全集/到处日2Wicked.Pictures.Bound.2008/Sample/bound.sample.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000581632,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_5_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000042428,
+                    "path": "到处日@Stormy Daniels全集/到处日2Wicked.Pictures.Bound.2008/220f353df35ef9c17097c3994f113b22_full.jpg"
+                },
+                {
+                    "number": 14,
+                    "size": 0.001006148,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_6_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 15,
+                    "size": 0.733708288,
+                    "path": "到处日@Stormy Daniels全集/到处日2Wicked.Pictures.Bound.2008/Wicked.Pictures.Bound.2008.avi"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000294912,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_7_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000162439,
+                    "path": "到处日@Stormy Daniels全集/到处日2Wicked.Pictures.Bound.2008/b04274c76ff4.jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000886137,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_8_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000159634,
+                    "path": "到处日@Stormy Daniels全集/到处日@Predator III The Final Chapter/back.jpg"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000888942,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_9_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000147417,
+                    "path": "到处日@Stormy Daniels全集/到处日@Predator III The Final Chapter/front.jpg"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000901159,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_10_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 23,
+                    "size": 0.7325184,
+                    "path": "到处日@Stormy Daniels全集/到处日@Predator III The Final Chapter/到处日@Predator III The Final Chapter.avi"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000436224,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_11_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000062484,
+                    "path": "到处日@Stormy Daniels全集/到处日@The.One.XXX.DVDRip.XviD-FLESHLiGHT - Stormy Daniels - ReSeed/Covers/Cover.jpg"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000986092,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_12_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 27,
+                    "size": 0.013064192,
+                    "path": "到处日@Stormy Daniels全集/到处日@The.One.XXX.DVDRip.XviD-FLESHLiGHT - Stormy Daniels - ReSeed/Sample/到处日@fle-theone.sample.avi"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000567296,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_13_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 29,
+                    "size": 0.732350464,
+                    "path": "到处日@Stormy Daniels全集/到处日@The.One.XXX.DVDRip.XviD-FLESHLiGHT - Stormy Daniels - ReSeed/到处日@fle-theone.avi"
+                },
+                {
+                    "number": 30,
+                    "size": 0.00060416,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_14_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000072917,
+                    "path": "到处日@Stormy Daniels全集/到处日@last night (2007)/dac61ade8dfcaf4353c3f889850413577c07294e.jpg"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000975659,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_15_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 33,
+                    "size": 0.734191616,
+                    "path": "到处日@Stormy Daniels全集/到处日@last night (2007)/到处日@last night (2007) [stormy daniels, aurora snow, jada fire, katie morgan, brooke haven, gianna lynn, randy spears](5).avi"
+                },
+                {
+                    "number": 34,
+                    "size": 0.00086016,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_16_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000228068,
+                    "path": "到处日@Stormy Daniels全集/到处日@the muse 2007/到处日@muse_cvr350px.jpg"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000820508,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_17_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 37,
+                    "size": 0.733192192,
+                    "path": "到处日@Stormy Daniels全集/到处日@the muse 2007/到处日@the muse 2007 - (stormy daniels, audrey bitoni, gianna lynn, jade starr, kayla paige, marlie moore)(1)(4).avi"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000811008,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_18_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 39,
+                    "size": 1.63e-7,
+                    "path": "到处日@Stormy Daniels全集/SexInSex 防屏蔽程序.txt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.001048413,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_19_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 41,
+                    "size": 4.4e-8,
+                    "path": "到处日@Stormy Daniels全集/色中色开放.txt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.001048532,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_20_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 43,
+                    "size": 2.31e-7,
+                    "path": "到处日@Stormy Daniels全集/色中色论坛地址.txt"
+                },
+                {
+                    "number": 44,
+                    "size": 0.001048345,
+                    "path": "到处日@Stormy Daniels全集/_____padding_file_21_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____"
+                },
+                {
+                    "number": 45,
+                    "size": 2.27e-7,
+                    "path": "到处日@Stormy Daniels全集/色中色宣传.txt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 19,
+            "name": "multi-btih-0-2-x-Stormy.2024.720p.WEBRip.800MB.x264-GalaxyRG",
+            "btih": "abe06a0bc528190aafe5fa8e4d57b5300c4ce0dc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.836643094,
+            "creation": "2024-03-18T11:28:41.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 263022,
+            "uuploaders": 8343
+        },
+        {
+            "id": 4,
+            "name": "Stormy (2024) [1080p] [WEBRip] [5.1] [YTS.MX]",
+            "btih": "45b1a04261c58a03bdfeb0e272cb26782dd4db9e",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.183544735,
+            "creation": "2024-03-18T14:39:08.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from https://yts.mx ( former yts.Lt/yts.am/yts.ag )",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 197312,
+            "uuploaders": 7545
+        },
+        {
+            "id": 9,
+            "name": "Stormy.2024.1080p.WEB.h264-ETHEL[TGx]",
+            "btih": "d9837c4ecec76c11118f53237767feb980b1633d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.599685511,
+            "creation": "2024-03-18T10:16:16.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 181831,
+            "uuploaders": 3281
+        },
+        {
+            "id": 10,
+            "name": "Stormy.2024.1080p.WEB.x265.10bit-Protozoan",
+            "btih": "b75d1e6ce49f70311397a068a361ee168c3dc9b2",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.27646076,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 169544,
+            "uuploaders": 1944
+        },
+        {
+            "id": 18,
+            "name": "到处日@Stormy Daniels全集",
+            "btih": "09057f4bcc3fb9c5668c512ca372081f1136d1a2",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.438622435,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 163816,
+            "uuploaders": 535
+        },
+        {
+            "id": 6,
+            "name": "Stormy (2024) [720p] [WEBRip] [YTS.MX]",
+            "btih": "aa206435d3a2fb983881ac46b1b797ef94806f8e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.062934203,
+            "creation": "2024-03-18T13:14:07.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from https://yts.mx ( former yts.Lt/yts.am/yts.ag )",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 152399,
+            "uuploaders": 7080
+        },
+        {
+            "id": 5,
+            "name": "Stormy (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+            "btih": "f7a99fcf3d35392716832a2aa07ab379f0677d34",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 5.28489698,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 120454,
+            "uuploaders": 3200
+        },
+        {
+            "id": 12,
+            "name": "Stormy.2024.2160p.WEB.h265-ETHEL[TGx]",
+            "btih": "dff6a3babc428fde4d59b3f3eaa9739d0e5e06ae",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 12.59418966,
+            "creation": "2024-03-18T10:29:39.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 111454,
+            "uuploaders": 3789
+        },
+        {
+            "id": 17,
+            "name": "www.Torrenting.com   -    Stormy.2024.720p.WEBRip.x264-LAMA",
+            "btih": "5e21a5126f27ed94a5d35ec8c38555d4bb071bca",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.836647018,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 104522,
+            "uuploaders": 955
+        },
+        {
+            "id": 1,
+            "name": "Ch5.Stormy.1080p.HDTV.x265.AAC.MVGroup.org.mkv",
+            "btih": "3ec0bcbd812d46ea28aad24e833dfc0ba62b9af1",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.456726113,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 94920,
+            "uuploaders": 735
+        },
+        {
+            "id": 2,
+            "name": "Stormy (2024) 1080p WEBRip 5.1-LAMA [IPT]",
+            "btih": "fd9660b0fc48fa5228f1501906a1637538c6084f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.183530198,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1460,
+            "uuploaders": 283
+        },
+        {
+            "id": 11,
+            "name": "Stormy.2024.2160p.WEB.h265-ETHEL [IPT]",
+            "btih": "8e12654d19147dc627cd258a9c8a50bcb884ef25",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 12.498306889,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 595,
+            "uuploaders": 393
+        },
+        {
+            "id": 16,
+            "name": "Stormy.2024.720p.WEBRip.x264-LAMA [IPT]",
+            "btih": "31d91deb00606d4dd663ccd5d0a68016c13e674b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.836646934,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 508,
+            "uuploaders": 249
+        },
+        {
+            "id": 3,
+            "name": "Stormy (2024) 720p WEBRip-LAMA [IPT]",
+            "btih": "310dd523e6eb0993212439b775a60c8a00ce03ec",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.062919647,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 484,
+            "uuploaders": 159
+        },
+        {
+            "id": 8,
+            "name": "Stormy.2024.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "dd405d2fd4828881b133db2d7bd0349f82fdc014",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.599687203,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 357,
+            "uuploaders": 253
+        },
+        {
+            "id": 7,
+            "name": "Stormy 2024 1080p PCOK WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "btih": "a03db8977744a163a872a3cd9fd53de5a802914e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.587650246,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 274,
+            "uuploaders": 81
+        },
+        {
+            "id": 13,
+            "name": "Stormy.2024.720p.WEB.h264-EDITH [IPT]",
+            "btih": "bf08c45b992435a1902dcf39d4ee4c1a870ac7a3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 4.125951585,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 54,
+            "uuploaders": 34
+        }
+    ]
+}
