@@ -1,0 +1,463 @@
+<svg xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:html="http://www.w3.org/1999/xhtml"
+id="dune-2024-downloads-by-week-dune-2024-week" x="0px" y="0px"
+width="1920.000000px" height="1080.000000px"
+viewBox="0 0 1920.000000 1080.000000" enable-background="new 0 0 1920.000000 1080.000000" role="img">
+<title>
+dune-2024-downloads-by-week-dune-2024-week
+</title>
+<desc>
+Week series for dune-2024: udownloaders_total solid, uuploaders_total dashed.
+</desc>
+<title>
+dune-2024-downloads-by-week-dune-2024-week
+</title>
+ <g id="annotations">
+<text x="960.000000" y="126.000000" font-family="Atkinson Hyperlegible" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> dune-2024 downloads by week</text>
+ <g id="axes-lines">
+<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> WEEK</text>
+<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> DOWNLOADERS</text>
+ </g>
+ <g id="tic-y-label-lines">
+<line x1="218.000000" y1="802.993638" x2="1702.000000" y2="802.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="734.993638" x2="1702.000000" y2="734.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="666.993638" x2="1702.000000" y2="666.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="598.993638" x2="1702.000000" y2="598.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="530.993638" x2="1702.000000" y2="530.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="462.993638" x2="1702.000000" y2="462.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="394.993638" x2="1702.000000" y2="394.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="326.993638" x2="1702.000000" y2="326.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="258.993638" x2="1702.000000" y2="258.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="190.993638" x2="1702.000000" y2="190.993638" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="tic-x-labels">
+<text x="200.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="260.800000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="321.600000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="382.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="443.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="504.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="564.800000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="625.600000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="686.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="747.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="808.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="868.800000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="929.600000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="990.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1051.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="1112.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 16</text>
+<text x="1172.800000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 17</text>
+<text x="1233.600000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 18</text>
+<text x="1294.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 19</text>
+<text x="1355.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 20</text>
+<text x="1416.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 21</text>
+<text x="1476.800000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 22</text>
+<text x="1537.600000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 23</text>
+<text x="1598.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 24</text>
+<text x="1659.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 25</text>
+<text x="1720.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 26</text>
+ </g>
+ <g id="tic-y-labels">
+<text x="164.000000" y="872.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1756.000000" y="872.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="164.000000" y="804.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10M</text>
+<text x="1756.000000" y="804.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10M</text>
+<text x="164.000000" y="736.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 19M</text>
+<text x="1756.000000" y="736.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 19M</text>
+<text x="164.000000" y="668.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 28M</text>
+<text x="1756.000000" y="668.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 28M</text>
+<text x="164.000000" y="600.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 36M</text>
+<text x="1756.000000" y="600.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 36M</text>
+<text x="164.000000" y="532.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 45M</text>
+<text x="1756.000000" y="532.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 45M</text>
+<text x="164.000000" y="464.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 54M</text>
+<text x="1756.000000" y="464.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 54M</text>
+<text x="164.000000" y="396.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 63M</text>
+<text x="1756.000000" y="396.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 63M</text>
+<text x="164.000000" y="328.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 72M</text>
+<text x="1756.000000" y="328.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 72M</text>
+<text x="164.000000" y="260.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 81M</text>
+<text x="1756.000000" y="260.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 81M</text>
+<text x="164.000000" y="192.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 90M</text>
+<text x="1756.000000" y="192.993638" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 90M</text>
+ </g>
+ </g>
+ <g id="polyline-dune-2024 downloads by week">
+<polyline points="200,867.373 260.8,840.058 321.6,812.727 382.4,785.185 443.2,756.982 504,726.872 564.8,693.351 625.6,659.098 686.4,626.778 747.2,599.461 808,573.218 868.8,547.855 929.6,523.643 990.4,498.024 1051.2,473.182 1112,445.573 1172.8,416.537 1233.6,388.073 1294.4,361.512 1355.2,336.226 1416,311.31 1476.8,290.15 1537.6,268.2 1598.4,245.624 1659.2,223.03 1720,200 "  style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(0,0,255); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="markers-dune-2024 downloads by week">
+ <circle cx="200.000000" cy="867.373401" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 1
+2,561,162
+</title>
+ </circle>
+<circle cx="260.800000" cy="840.057507" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 2
+6,124,579
+</title>
+ </circle>
+<circle cx="321.600000" cy="812.727393" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 3
+9,689,851
+</title>
+ </circle>
+<circle cx="382.400000" cy="785.184872" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 4
+13,282,832
+</title>
+ </circle>
+<circle cx="443.200000" cy="756.981718" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 5
+16,961,994
+</title>
+ </circle>
+<circle cx="504.000000" cy="726.872149" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 6
+20,889,852
+</title>
+ </circle>
+<circle cx="564.800000" cy="693.350883" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 7
+25,262,773
+</title>
+ </circle>
+<circle cx="625.600000" cy="659.097511" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 8
+29,731,199
+</title>
+ </circle>
+<circle cx="686.400000" cy="626.778403" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 9
+33,947,296
+</title>
+ </circle>
+<circle cx="747.200000" cy="599.461313" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 10
+37,510,869
+</title>
+ </circle>
+<circle cx="808.000000" cy="573.217836" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 11
+40,934,387
+</title>
+ </circle>
+<circle cx="868.800000" cy="547.854980" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 12
+44,243,026
+</title>
+ </circle>
+<circle cx="929.600000" cy="523.643083" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 13
+47,401,520
+</title>
+ </circle>
+<circle cx="990.400000" cy="498.023750" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 14
+50,743,617
+</title>
+ </circle>
+<circle cx="1051.200000" cy="473.182480" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 15
+53,984,214
+</title>
+ </circle>
+<circle cx="1112.000000" cy="445.572624" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 16
+57,585,979
+</title>
+ </circle>
+<circle cx="1172.800000" cy="416.536536" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 17
+61,373,799
+</title>
+ </circle>
+<circle cx="1233.600000" cy="388.072619" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 18
+65,086,978
+</title>
+ </circle>
+<circle cx="1294.400000" cy="361.512328" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 19
+68,551,825
+</title>
+ </circle>
+<circle cx="1355.200000" cy="336.225692" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 20
+71,850,521
+</title>
+ </circle>
+<circle cx="1416.000000" cy="311.309705" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 21
+75,100,865
+</title>
+ </circle>
+<circle cx="1476.800000" cy="290.150107" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 22
+77,861,180
+</title>
+ </circle>
+<circle cx="1537.600000" cy="268.199882" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 23
+80,724,634
+</title>
+ </circle>
+<circle cx="1598.400000" cy="245.623826" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 24
+83,669,729
+</title>
+ </circle>
+<circle cx="1659.200000" cy="223.029962" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 25
+86,617,147
+</title>
+ </circle>
+<circle cx="1720.000000" cy="200.000000" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week
+week: 26
+89,621,455
+</title>
+ </circle>
+ </g>
+ <g id="polyline-dune-2024 downloads by week uploaders">
+<polyline points="200,880 260.8,872.015 321.6,865.621 382.4,860.167 443.2,855.594 504,851.705 564.8,848.235 625.6,845.083 686.4,842.305 747.2,839.844 808,837.669 868.8,835.664 929.6,833.734 990.4,831.898 1051.2,830.185 1112,828.571 1172.8,827.038 1233.6,825.588 1294.4,824.193 1355.2,822.776 1416,821.481 1476.8,820.23 1537.6,819.074 1598.4,817.903 1659.2,816.284 1720,814.438 " stroke-dasharray="5 15"  style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(0,0,255); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="markers-dune-2024 downloads by week uploaders">
+ <circle cx="200.000000" cy="880.000000" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 1
+913,995
+</title>
+ </circle>
+<circle cx="260.800000" cy="872.015202" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 2
+1,955,629
+</title>
+ </circle>
+<circle cx="321.600000" cy="865.620865" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 3
+2,789,784
+</title>
+ </circle>
+<circle cx="382.400000" cy="860.167479" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 4
+3,501,190
+</title>
+ </circle>
+<circle cx="443.200000" cy="855.594039" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 5
+4,097,805
+</title>
+ </circle>
+<circle cx="504.000000" cy="851.704805" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 6
+4,605,164
+</title>
+ </circle>
+<circle cx="564.800000" cy="848.234551" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 7
+5,057,866
+</title>
+ </circle>
+<circle cx="625.600000" cy="845.083219" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 8
+5,468,964
+</title>
+ </circle>
+<circle cx="686.400000" cy="842.304530" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 9
+5,831,450
+</title>
+ </circle>
+<circle cx="747.200000" cy="839.844264" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 10
+6,152,397
+</title>
+ </circle>
+<circle cx="808.000000" cy="837.668646" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 11
+6,436,211
+</title>
+ </circle>
+<circle cx="868.800000" cy="835.664126" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 12
+6,697,705
+</title>
+ </circle>
+<circle cx="929.600000" cy="833.734361" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 13
+6,949,447
+</title>
+ </circle>
+<circle cx="990.400000" cy="831.898201" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 14
+7,188,978
+</title>
+ </circle>
+<circle cx="1051.200000" cy="830.184791" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 15
+7,412,496
+</title>
+ </circle>
+<circle cx="1112.000000" cy="828.571073" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 16
+7,623,009
+</title>
+ </circle>
+<circle cx="1172.800000" cy="827.037767" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 17
+7,823,032
+</title>
+ </circle>
+<circle cx="1233.600000" cy="825.587703" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 18
+8,012,196
+</title>
+ </circle>
+<circle cx="1294.400000" cy="824.193199" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 19
+8,194,112
+</title>
+ </circle>
+<circle cx="1355.200000" cy="822.776358" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 20
+8,378,942
+</title>
+ </circle>
+<circle cx="1416.000000" cy="821.480618" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 21
+8,547,974
+</title>
+ </circle>
+<circle cx="1476.800000" cy="820.230213" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 22
+8,711,092
+</title>
+ </circle>
+<circle cx="1537.600000" cy="819.074433" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 23
+8,861,866
+</title>
+ </circle>
+<circle cx="1598.400000" cy="817.902670" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 24
+9,014,725
+</title>
+ </circle>
+<circle cx="1659.200000" cy="816.284437" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 25
+9,225,827
+</title>
+ </circle>
+<circle cx="1720.000000" cy="814.438112" r="5.000000" style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:4"  >
+<title>
+dune-2024 downloads by week uploaders
+week: 26
+9,466,684
+</title>
+ </circle>
+ </g>
+</svg>
+
