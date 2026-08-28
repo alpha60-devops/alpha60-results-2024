@@ -23,7 +23,7 @@ These are results from sampling peer swarms associated with *media objects* bein
 
 
 ## Results, Commentary
-- Media Collections
+- Media Objects
   - [acolyte-107](docs/itemized/acolyte-107-sample-cache-audit.md)
   - [agatha-all-along-107](docs/itemized/acolyte-107-sample-cache-audit.md)
 
