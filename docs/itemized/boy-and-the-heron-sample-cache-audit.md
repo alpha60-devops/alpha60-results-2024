@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2024-12-07 22:06`, resumed `2024-12-08 06:06` — missing 7 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![The Boy and the Heron collection size histogram](figures/boy-and-the-heron-cumulative-detail-btiha-itemized-by-bytes.svg)
 
