@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Blink Twice |
 | Collection key | `blink-twice` |
 | imdb_id | [tt14858658](https://www.imdb.com/title/tt14858658/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Blink Twice](https://en.wikipedia.org/wiki/Blink_Twice) |
 | Sample dates | 2024-09-18-to-2025-01-08 |
-| Sample days | 113 (2024–2025) |
+| Sample days | 113 |
 | BTIH count | 184 |
 | Unique BTIH count | 168 |
 | Downloaders total | 17,512,731 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:17:09Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/blink-twice.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Blink Twice collection size histogram](figures/blink-twice-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ None detected.
 
 ### Downloads by week cumulative (normalized start)
 
-![blink-twice downloads by week](figures/blink-twice-downloads-by-week-blink-twice-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/blink-twice-downloads-by-week-blink-twice-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ None detected.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ None detected.
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/blink-twice-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/blink-twice-data-ge-1080p.webp)](figures/blink-twice-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/blink-twice-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/blink-twice-data-lt-1080p.webp)](figures/blink-twice-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

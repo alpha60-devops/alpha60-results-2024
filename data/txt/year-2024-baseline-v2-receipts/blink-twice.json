@@ -1,0 +1,238 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "blink-twice",
+  "status": "passed",
+  "generated_at": "2026-08-29T23:59:12.573902+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt14858658",
+    "external_imdb": "tt14858658",
+    "wikidata_id": "Q113012523",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blink_Twice"
+  },
+  "source_revisions": {
+    "alpha60": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "161637db736cf706128fc3ec4baab3036e258402"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/blink-twice-cumulative.json",
+      "size": 15705,
+      "sha256": "ad703bc66f2b84ad264a051006fdf3ccac714b895dfae5dadaf1987df73c384a"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/blink-twice-week.json",
+      "size": 1267476,
+      "sha256": "a1ee911b58fe41747386df17f516342befe1cd077c57e557e1b42bbd6f9dd603"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/blink-twice-cumulative-ip-swarm.json",
+      "size": 42802,
+      "sha256": "85b44378fbde8512993f6a17cbd08a6a7d5c3c4ee9d5695c4149d0f101e3b437"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/blink-twice-cumulative-btiha-media-objects.json",
+      "size": 317407,
+      "sha256": "a9029b3adc48f0191d7ea1b215a65e9926c58d03c57210d8528ce75621b844df"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/blink-twice-cumulative-aggregate.geojson.gz",
+      "size": 1060282,
+      "sha256": "091dfce6bb60283bb2c4a5366b121e0a8dd1e021f261067a9acecb94844c3045"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/blink-twice-cumulative-btiha.geojson.gz",
+      "size": 17439012,
+      "sha256": "0b63c25c513233f815344d3acfc0da048cee2957f1b48c76f05861e556582662"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/blink-twice-downloads-by-week-blink-twice-week.svg",
+      "size": 24969,
+      "sha256": "7197c759a949f9a1de6d3c51ef7497015f893ad7b4dd3e60e50aa7b54ae31573"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/blink-twice-downloads-by-day-day.svg",
+      "size": 24866,
+      "sha256": "d3d0e819078ebcc23f43735917f6129c3c6a2f7031f5fa9b642ab7a7ba94e355"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/blink-twice.json",
+      "size": 9918,
+      "sha256": "74ae7b6b5df3ada1c7e0edd3166596b5759cfb559749c905408d2ed8395cfcff"
+    }
+  },
+  "coverage_sha256": "4fa821a91800433a7f1418915e94d0ca329045a7ad9b62747d59323a5f81e4b1",
+  "published_files": {
+    "docs/itemized/blink-twice-sample-cache-audit.md": "6758fea16dbac80afb359c51c50fb488be3a58e4a47a394243dc67dcfc85a3dd",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/blink-twice-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "d2b6244eaad244030c38a873694e10e403caf02b648e1300f18397981b319ecc",
+    "docs/itemized/figures/blink-twice-cumulative-detail-btiha-itemized-by-bytes.svg": "1a5ab20df8437894852880a00f8377be4c5e4d1d90d5cd53fc58c1db368be466",
+    "docs/itemized/figures/blink-twice-downloads-by-week-blink-twice-week.svg": "7197c759a949f9a1de6d3c51ef7497015f893ad7b4dd3e60e50aa7b54ae31573",
+    "docs/itemized/figures/blink-twice-downloads-by-day-day.svg": "d3d0e819078ebcc23f43735917f6129c3c6a2f7031f5fa9b642ab7a7ba94e355",
+    "docs/itemized/figures/blink-twice-carto.png": "594fdd93d31431dace7ebc18e21c7375a40ac28af1cae6bc9b0aaad14006c1d5",
+    "docs/itemized/figures/blink-twice-carto-4k.webp": "ce08854a9c243cf4609d98022c518ed260134b49e5e404ed5182036e34efe971",
+    "docs/itemized/figures/blink-twice-data-ge-1080p.webp": "1defd72ca822648a4435b42205062bcddfa65109e7bd1e494f3df111a41b42c8",
+    "docs/itemized/figures/blink-twice-data-ge-1080p-4k.webp": "7645facc237afcb1b36d56460132c0f6f46c2abd35968775161fc3c59a0a9169",
+    "docs/itemized/figures/blink-twice-data-lt-1080p.webp": "5c19e67ea0b1535daee0e66b0d705c11427364a701a269b135f755d8f083a4e2",
+    "docs/itemized/figures/blink-twice-data-lt-1080p-4k.webp": "e76bfc980df889edbf5462ee101c6f3458fbd3ef73ffaa6288b0307183c92968"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "blink-twice",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "fe9513149f64a1c6f798c611f47c780870561c5b9f254c31e9c08ca0ac9892b0",
+      "size": 36848072
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/blink-twice-downloads-by-week-blink-twice-week.svg",
+        "sha256": "7197c759a949f9a1de6d3c51ef7497015f893ad7b4dd3e60e50aa7b54ae31573",
+        "size": 24969
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/blink-twice-downloads-by-day-day.svg",
+        "sha256": "d3d0e819078ebcc23f43735917f6129c3c6a2f7031f5fa9b642ab7a7ba94e355",
+        "size": 24866
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/blink-twice-cumulative-btiha.geojson.gz",
+        "sha256": "0b63c25c513233f815344d3acfc0da048cee2957f1b48c76f05861e556582662",
+        "size": 17439012
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/blink-twice-cumulative-btiha-media-objects.json",
+        "sha256": "a9029b3adc48f0191d7ea1b215a65e9926c58d03c57210d8528ce75621b844df",
+        "size": 317407
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 49,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 17,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Ankara"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          62.0,
+          56.0,
+          49.0,
+          41.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Yekaterinburg",
+          "Ankara"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          56.0,
+          51.0,
+          48.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
