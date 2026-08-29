@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | The Acolyte |
 | Collection key | `acolyte-107` |
 | imdb_id | [tt12262202](https://www.imdb.com/title/tt12262202/) |
-| wikipedia_url | [Star Wars: The Acolyte](https://en.wikipedia.org/wiki/Star_Wars%3A_The_Acolyte) |
+| wikipedia_url | [Star Wars: The Acolyte](https://en.wikipedia.org/wiki/Star_Wars:_The_Acolyte) |
 | Sample dates | 2026-05-04-to-2026-07-26 |
-| Sample days | 84 (2026–2026) |
+| Sample days | 84 |
 | BTIH count | 376 |
 | Unique BTIH count | 346 |
 | Downloaders total | 31,714,901 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T16:15:53Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/acolyte-107.xz/2024`
@@ -39,7 +39,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-12-28 22:03`, resumed `2024-12-30 22:03` — missing 47 hour(s)
 - missing day: `2024-12-29`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![The Acolyte collection size histogram](figures/acolyte-107-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -47,7 +47,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![acolyte-107 downloads by week](figures/acolyte-107-downloads-by-week-acolyte-107-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/acolyte-107-downloads-by-week-acolyte-107-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -55,7 +68,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -69,8 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/acolyte-107-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/acolyte-107-data-ge-1080p.webp)](figures/acolyte-107-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/acolyte-107-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/acolyte-107-data-lt-1080p.webp)](figures/acolyte-107-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
