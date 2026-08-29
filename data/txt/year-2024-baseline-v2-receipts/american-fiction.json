@@ -1,0 +1,238 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "american-fiction",
+  "status": "passed",
+  "generated_at": "2026-08-29T23:43:53.683836+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt23561236",
+    "external_imdb": "tt23561236",
+    "wikidata_id": "Q116413183",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Fiction_(film)"
+  },
+  "source_revisions": {
+    "alpha60": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "161637db736cf706128fc3ec4baab3036e258402"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/american-fiction-cumulative.json",
+      "size": 15681,
+      "sha256": "1cd5f3c704d1d0b9a7c7d31ad727e6b4434163aa1c52387c4c3363e75a1fbb4a"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/american-fiction-week.json",
+      "size": 845139,
+      "sha256": "1c8ace4cc665c7834b4ff121111e2e89e75c62cf5d7ffb5dd16cea0e2248d08e"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/american-fiction-cumulative-ip-swarm.json",
+      "size": 41703,
+      "sha256": "f42b719c1f0e3f1325917d0e0685c7776475d81ff024500047a837244d43e9ad"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/american-fiction-cumulative-btiha-media-objects.json",
+      "size": 235662,
+      "sha256": "af2f893aa9b9e23b977f0c3d0b43fa19798b4cd163a03ae54231d6756ef86af6"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/american-fiction-cumulative-aggregate.geojson.gz",
+      "size": 948218,
+      "sha256": "ed969d9d22673f4f8d211a648e99e4082cca2bb1f90cd8be6e55dcb4c1fd455c"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/american-fiction-cumulative-btiha.geojson.gz",
+      "size": 13682222,
+      "sha256": "f6b8432824d0cc3b5011e6a86d627ef8b4ceabed0a1b9fa8e1673be37f645b51"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/american-fiction-downloads-by-week-american-fiction-week.svg",
+      "size": 22765,
+      "sha256": "288b919e5c45046c01a57e37f666b183c9cf0b8f454c881f65ee9fdbd9f7377f"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/american-fiction-downloads-by-day-day.svg",
+      "size": 23878,
+      "sha256": "41c5b4da3aeb80317ac018612cd422622ff94883a21b7526a51aa8d1221e525d"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/american-fiction.json",
+      "size": 10071,
+      "sha256": "a8a74e6d283270d9ed24d517bf31d261f70e58ed4767ceb3fb9d1c21c97be69e"
+    }
+  },
+  "coverage_sha256": "b5491298202bcb182783d1072d110e7ff8c523b281b373f48cc3136031c2f918",
+  "published_files": {
+    "docs/itemized/american-fiction-sample-cache-audit.md": "825f9fee53cc9a2927a30607d14578a4bffa0f02aa4ab8b639b000780040f2d0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/american-fiction-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "aab69923dadc346b230c7b3f5b053f279a8339c8f3c865963ee4fb809ac685c3",
+    "docs/itemized/figures/american-fiction-cumulative-detail-btiha-itemized-by-bytes.svg": "853749c0ea6316e39b0ce3ee8db6e8cd6c30712f352351abb508cb6871e72d3d",
+    "docs/itemized/figures/american-fiction-downloads-by-week-american-fiction-week.svg": "288b919e5c45046c01a57e37f666b183c9cf0b8f454c881f65ee9fdbd9f7377f",
+    "docs/itemized/figures/american-fiction-downloads-by-day-day.svg": "41c5b4da3aeb80317ac018612cd422622ff94883a21b7526a51aa8d1221e525d",
+    "docs/itemized/figures/american-fiction-carto.png": "6811b9f36714da0de91d42a58da9ce403ecf24a0f5add673868bf395c146126b",
+    "docs/itemized/figures/american-fiction-carto-4k.webp": "2216dc2ec8c1c2b2c301034e1bf673d208b82be5652e71718dae11c50a9a8e2f",
+    "docs/itemized/figures/american-fiction-data-ge-1080p.webp": "94a903c8a9e34151f80367c505a311837392480cef24526bfabdfbee0896707d",
+    "docs/itemized/figures/american-fiction-data-ge-1080p-4k.webp": "fbd1e49e663278fe9729390d0b51ca383b1d9915c220d13506df91b34c296682",
+    "docs/itemized/figures/american-fiction-data-lt-1080p.webp": "ff6345828bfba58407c9ef07aa0e4a6af804a3c71560fb2b423d8b7d333eaeca",
+    "docs/itemized/figures/american-fiction-data-lt-1080p-4k.webp": "24cd7e37f877efd495fa35e44f893b37d49733977e328a6d6860ae17c55b2294"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "american-fiction",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "fe9513149f64a1c6f798c611f47c780870561c5b9f254c31e9c08ca0ac9892b0",
+      "size": 36848072
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/american-fiction-downloads-by-week-american-fiction-week.svg",
+        "sha256": "288b919e5c45046c01a57e37f666b183c9cf0b8f454c881f65ee9fdbd9f7377f",
+        "size": 22765
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/american-fiction-downloads-by-day-day.svg",
+        "sha256": "41c5b4da3aeb80317ac018612cd422622ff94883a21b7526a51aa8d1221e525d",
+        "size": 23878
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/american-fiction-cumulative-btiha.geojson.gz",
+        "sha256": "f6b8432824d0cc3b5011e6a86d627ef8b4ceabed0a1b9fa8e1673be37f645b51",
+        "size": 13682222
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/american-fiction-cumulative-btiha-media-objects.json",
+        "sha256": "af2f893aa9b9e23b977f0c3d0b43fa19798b4cd163a03ae54231d6756ef86af6",
+        "size": 235662
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 37,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Ashburn",
+          "Mexico City",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          73.0,
+          48.0,
+          47.0,
+          38.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam",
+          "Ashburn",
+          "Mexico City"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          64.0,
+          48.0,
+          35.0,
+          35.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
