@@ -1,0 +1,93 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "boy-and-the-heron",
+  "status": "passed",
+  "generated_at": "2026-08-29T23:03:31.343596+00:00",
+  "validation_source": "human-reviewed-oracle",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt6587046",
+    "external_imdb": "tt6587046",
+    "wikidata_id": "Q47482560",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boy_and_the_Heron"
+  },
+  "source_revisions": {
+    "alpha60": "3073f40e17ae109c8a9b62c5d33b9d48372a74f2",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "ab6dd43348b3419f221511abf878cf42a71b8f33"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boy-and-the-heron-cumulative.json",
+      "size": 15755,
+      "sha256": "3040432380313029900a849ea9ace1c816505cbd26d5a3ea38303ad53cbd9c62"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boy-and-the-heron-week.json",
+      "size": 2461841,
+      "sha256": "0fe2d48b6e4ac3c2cc3206b04d770fe56560518707612d1b294ffba2a25f95db"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boy-and-the-heron-cumulative-ip-swarm.json",
+      "size": 42882,
+      "sha256": "9d592e90de66a812eaa11b203c676c65863b283a9a5482b9c5c33687ba32e69c"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boy-and-the-heron-cumulative-btiha-media-objects.json",
+      "size": 631893,
+      "sha256": "60f52ebb1aaf268e67db6931f4e61992c14aa8b56b49886f27adb392eae16661"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/boy-and-the-heron-cumulative-aggregate.geojson.gz",
+      "size": 1163864,
+      "sha256": "445cf7ff3b3dad321918a3ffbfcac5b09ff1bf0758c22cc1c86b69fc202b39a5"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/boy-and-the-heron-cumulative-btiha.geojson.gz",
+      "size": 25408381,
+      "sha256": "31c9990f6ecb6ab80d903ab338946bccf0ca2481e1406b32d54a3e5d5de9782d"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/boy-and-the-heron-downloads-by-week-boy-and-the-heron-week.svg",
+      "size": 32801,
+      "sha256": "230a1a391bd089e9bf7cb811ebea7bcfe3cf2cf380d281a12e1cf62779dd6cf7"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/boy-and-the-heron-downloads-by-day-day.svg",
+      "size": 28786,
+      "sha256": "93cd201bc9c33ae758b157e2526ce1e9c61d0333d34af2bb9e037f60345f1d63"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/boy-and-the-heron.json",
+      "size": 8823,
+      "sha256": "88a92b86526b311afe8701d3a916a136fe1aba484c3f4aabfed524da88cd670a"
+    }
+  },
+  "coverage_sha256": "2f7bb571c2fd54791adcb7aa2dcef1156f1df940c66a05570862e2c6cf1311f9",
+  "published_files": {
+    "docs/itemized/boy-and-the-heron-sample-cache-audit.md": "fb092edaa449b6aa5297d803efaa30531457684928c4bcf1f01837b35a29a450",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/boy-and-the-heron-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "265f39bbb283237b6963090c0ea9f72074bfb0f0d74f0186d4de7f334a7ed717",
+    "docs/itemized/figures/boy-and-the-heron-cumulative-detail-btiha-itemized-by-bytes.svg": "3d448a5098d8af58cbb753b9cdec1ebf9dc72380afda646cd80d5f98b0c69ad2",
+    "docs/itemized/figures/boy-and-the-heron-downloads-by-week-boy-and-the-heron-week.svg": "230a1a391bd089e9bf7cb811ebea7bcfe3cf2cf380d281a12e1cf62779dd6cf7",
+    "docs/itemized/figures/boy-and-the-heron-downloads-by-day-day.svg": "93cd201bc9c33ae758b157e2526ce1e9c61d0333d34af2bb9e037f60345f1d63",
+    "docs/itemized/figures/boy-and-the-heron-carto.png": "dc022973c311c36c78b53e0ffe16a4f1783dd0c85eb9a96891c86a7f0de5028f",
+    "docs/itemized/figures/boy-and-the-heron-carto-4k.webp": "85e48a647c93e9023768b17311b93866eb02b5a989df9187c9febaf726e9e91f",
+    "docs/itemized/figures/boy-and-the-heron-data-ge-1080p.webp": "716919974a35f54f1c5d568aaffec2bf6bf59f56cdce95c8b20aaf509d1db00c",
+    "docs/itemized/figures/boy-and-the-heron-data-ge-1080p-4k.webp": "03b66301920cb7f169533035af1d482d7237b4edbf9d816243118d8f5eb64f50",
+    "docs/itemized/figures/boy-and-the-heron-data-lt-1080p.webp": "399d4db8acec24f2f6a34eeb16b154fd75dd322a51ecb7080ccb051b79aa93fb",
+    "docs/itemized/figures/boy-and-the-heron-data-lt-1080p-4k.webp": "58b7d261ff5c0eac39d23ddf4930a0649b370fc7e4a1fa9a64692ef2eb57f98e"
+  },
+  "render_receipt": null,
+  "human_review": {
+    "status": "passed",
+    "decision": "BASELINE V2 PASS",
+    "evidence": [
+      "docs/development/20260829_media_object_cache_audit_v4_stage_4.md",
+      "docs/development/20260829_year_media_object_cache_audit_v5_stage_2.md"
+    ]
+  }
+}
