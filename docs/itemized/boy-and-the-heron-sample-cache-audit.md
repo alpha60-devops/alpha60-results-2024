@@ -46,7 +46,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![boy-and-the-heron downloads by week](figures/boy-and-the-heron-downloads-by-week-boy-and-the-heron-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{::nomarkdown}
+{% include_relative figures/boy-and-the-heron-downloads-by-week-boy-and-the-heron-week.svg %}
+{:/}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
