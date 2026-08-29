@@ -51,9 +51,7 @@ description: "Cache coverage and visualization audit for one media object."
 </script>
 
 <div class="media-object-audit-week-graph" style="max-width: 100%;">
-{::nomarkdown}
 {% include_relative figures/boy-and-the-heron-downloads-by-week-boy-and-the-heron-week.svg %}
-{:/}
 </div>
 <style>
 .media-object-audit-week-graph svg {
