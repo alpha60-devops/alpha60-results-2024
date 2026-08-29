@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | The Boy and the Heron |
 | Collection key | `boy-and-the-heron` |
 | imdb_id | [tt6587046](https://www.imdb.com/title/tt6587046/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [The Boy and the Heron](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) |
 | Sample dates | 2024-06-26-to-2025-01-08 |
-| Sample days | 197 (2024–2025) |
+| Sample days | 197 |
 | BTIH count | 237 |
 | Unique BTIH count | 192 |
 | Downloaders total | 29,063,733 |
@@ -26,7 +26,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 2. Cache coverage report
 
-- Generated: 2026-08-28T17:19:20Z
+- Generated: 2026-08-29T15:43:07Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/boy-and-the-heron.xz`
 - Hour directories: 4709
 - Zero-length sample files: 0
@@ -68,8 +68,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/boy-and-the-heron-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/boy-and-the-heron-data-ge-1080p.webp)](figures/boy-and-the-heron-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/boy-and-the-heron-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/boy-and-the-heron-data-lt-1080p.webp)](figures/boy-and-the-heron-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
