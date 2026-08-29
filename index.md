@@ -24,6 +24,7 @@ These are results from sampling peer swarms associated with *media objects* bein
 
 ## Results, Commentary
 - Media Objects
+  - [3-body-problem-01](docs/itemized/3-body-problem-01-sample-cache-audit.md)
   - [acolyte-101](docs/itemized/acolyte-101-sample-cache-audit.md)
   - [acolyte-107](docs/itemized/acolyte-107-sample-cache-audit.md)
   - [agatha-all-along-101](docs/itemized/agatha-all-along-101-sample-cache-audit.md)
