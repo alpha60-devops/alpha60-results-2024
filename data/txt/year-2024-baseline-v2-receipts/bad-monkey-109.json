@@ -1,0 +1,238 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "bad-monkey-109",
+  "status": "passed",
+  "generated_at": "2026-08-29T23:57:17.900303+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt15203646",
+    "external_imdb": "tt15203646",
+    "wikidata_id": "Q110864087",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bad_Monkey_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "161637db736cf706128fc3ec4baab3036e258402"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/bad-monkey-109-cumulative.json",
+      "size": 15717,
+      "sha256": "1d9039fe4f76dde42ad99901b951d2fee084bd400c20b77301ba677d8667ee27"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/bad-monkey-109-week.json",
+      "size": 1288089,
+      "sha256": "870c99e398e7ae3f5e9b971ab02682786606fdd7d47da857e504092608f17450"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/bad-monkey-109-cumulative-ip-swarm.json",
+      "size": 41683,
+      "sha256": "ac6ac6393a7d3b3561775c9e9c60a91a853495aab59bd86de7d72ed240dce146"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/bad-monkey-109-cumulative-btiha-media-objects.json",
+      "size": 399684,
+      "sha256": "9165e63c3b9239430868f814b4a786b21bb320a449a6587fdba3a0f75cbe4a23"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/bad-monkey-109-cumulative-aggregate.geojson.gz",
+      "size": 931146,
+      "sha256": "32d3402ac3aa8aac67584bffdee7af0d8f8e4511d8790713436b8a65e244bfeb"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/bad-monkey-109-cumulative-btiha.geojson.gz",
+      "size": 15527611,
+      "sha256": "970e0b3aff04aea34b31657f6c3a1e12c6f0e6f662a3aa949fbfc4eaeb5d2339"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/bad-monkey-109-downloads-by-week-bad-monkey-109-week.svg",
+      "size": 23505,
+      "sha256": "2f3bc9bf4a66b5c951ad4c23ffbbcf55b36ccb64728dda09e50b2eee71cd1135"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/bad-monkey-109-downloads-by-day-day.svg",
+      "size": 23863,
+      "sha256": "c537955b8a4c72fbd5c97f300db03e2324db91cd86bb43009cbd57f1090fbf1b"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/bad-monkey-109.json",
+      "size": 11972,
+      "sha256": "3c9cc36a50c24c095345b1586606348b3d63a48fa5f609027f2bbae5dd2afb95"
+    }
+  },
+  "coverage_sha256": "000ea0b3ffdcee92dad0d72b21e15116021881d4552ce3652ff44bc11c361061",
+  "published_files": {
+    "docs/itemized/bad-monkey-109-sample-cache-audit.md": "151208cd00da8808aecf8f6b1708e57b6fa56a5679a64d8935f95b2d7f4bd00f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/bad-monkey-109-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "198a1e6ce86e188e62f4f58a8ccf58094f81509f0c4b5c98c085bdff978cd933",
+    "docs/itemized/figures/bad-monkey-109-cumulative-detail-btiha-itemized-by-bytes.svg": "b485abfaec6162012ff8b2c97a3df039a752d121c234050974649595bf9cdca5",
+    "docs/itemized/figures/bad-monkey-109-downloads-by-week-bad-monkey-109-week.svg": "2f3bc9bf4a66b5c951ad4c23ffbbcf55b36ccb64728dda09e50b2eee71cd1135",
+    "docs/itemized/figures/bad-monkey-109-downloads-by-day-day.svg": "c537955b8a4c72fbd5c97f300db03e2324db91cd86bb43009cbd57f1090fbf1b",
+    "docs/itemized/figures/bad-monkey-109-carto.png": "bb01222e6ac224c3dde971bc75f6ba00d48eeb4215766dadc90fd948b7856c7d",
+    "docs/itemized/figures/bad-monkey-109-carto-4k.webp": "705812161922b99d106def725f0c59579393971d067dbabf5441a6f857f5bf2d",
+    "docs/itemized/figures/bad-monkey-109-data-ge-1080p.webp": "99ed8a4b896bfa321745072fe13dcac13687b487520453c42b8bf4855411888f",
+    "docs/itemized/figures/bad-monkey-109-data-ge-1080p-4k.webp": "3950d40e72b19d434c6babde36cb43769e2069c90df9b39339926bf96de35a6d",
+    "docs/itemized/figures/bad-monkey-109-data-lt-1080p.webp": "68eafb159d1e0f59ecf73b3befba663e49575562b2b2c0f4c6db3d412b446bb5",
+    "docs/itemized/figures/bad-monkey-109-data-lt-1080p-4k.webp": "e268be5cef81b62a22ee015a7540d0443952410efa8bc43b611ab23635b15dd5"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "bad-monkey-109",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "fe9513149f64a1c6f798c611f47c780870561c5b9f254c31e9c08ca0ac9892b0",
+      "size": 36848072
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/bad-monkey-109-downloads-by-week-bad-monkey-109-week.svg",
+        "sha256": "2f3bc9bf4a66b5c951ad4c23ffbbcf55b36ccb64728dda09e50b2eee71cd1135",
+        "size": 23505
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/bad-monkey-109-downloads-by-day-day.svg",
+        "sha256": "c537955b8a4c72fbd5c97f300db03e2324db91cd86bb43009cbd57f1090fbf1b",
+        "size": 23863
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/bad-monkey-109-cumulative-btiha.geojson.gz",
+        "sha256": "970e0b3aff04aea34b31657f6c3a1e12c6f0e6f662a3aa949fbfc4eaeb5d2339",
+        "size": 15527611
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/bad-monkey-109-cumulative-btiha-media-objects.json",
+        "sha256": "9165e63c3b9239430868f814b4a786b21bb320a449a6587fdba3a0f75cbe4a23",
+        "size": 399684
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 25,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Frankfurt am Main",
+          "Amsterdam",
+          "Lelystad",
+          "Ankara"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          70.0,
+          65.0,
+          49.0,
+          38.0,
+          37.0,
+          35.0,
+          31.0,
+          30.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "Frankfurt am Main",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Ashburn",
+          "Ankara"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          74.0,
+          69.0,
+          49.0,
+          36.0,
+          35.0,
+          29.0,
+          29.0,
+          27.0,
+          27.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}

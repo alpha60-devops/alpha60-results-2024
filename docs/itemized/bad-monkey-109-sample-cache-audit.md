@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Bad Monkey 109 |
 | Collection key | `bad-monkey-109` |
 | imdb_id | [tt15203646](https://www.imdb.com/title/tt15203646/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Bad Monkey (TV series)](https://en.wikipedia.org/wiki/Bad_Monkey_(TV_series)) |
 | Sample dates | 2024-10-05-to-2025-01-17 |
-| Sample days | 105 (2024–2025) |
+| Sample days | 105 |
 | BTIH count | 205 |
 | Unique BTIH count | 185 |
 | Downloaders total | 12,433,783 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:08:24Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/bad-monkey-109.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Bad Monkey 109 collection size histogram](figures/bad-monkey-109-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ None detected.
 
 ### Downloads by week cumulative (normalized start)
 
-![bad-monkey-109 downloads by week](figures/bad-monkey-109-downloads-by-week-bad-monkey-109-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/bad-monkey-109-downloads-by-week-bad-monkey-109-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ None detected.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ None detected.
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/bad-monkey-109-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/bad-monkey-109-data-ge-1080p.webp)](figures/bad-monkey-109-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/bad-monkey-109-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/bad-monkey-109-data-lt-1080p.webp)](figures/bad-monkey-109-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
