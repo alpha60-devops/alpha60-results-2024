@@ -1,0 +1,238 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "3-body-problem-01",
+  "status": "passed",
+  "generated_at": "2026-08-29T23:09:49.527389+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt13016388",
+    "external_imdb": "tt13016388",
+    "wikidata_id": "Q110652727",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "ca863464b491db9900a64de296aea10834f134df"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/3-body-problem-01-cumulative.json",
+      "size": 15761,
+      "sha256": "1ff75e75f24643fc993f687c4b4374ecdb2de76528c2a51863a61dbd36d61f2f"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/3-body-problem-01-week.json",
+      "size": 4569979,
+      "sha256": "7b06e7d242f2d69c8812d7b70a705656e93b561aca5642c94e4371d1b55b33d8"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/3-body-problem-01-cumulative-ip-swarm.json",
+      "size": 43650,
+      "sha256": "d3e73cb6d80740314b2898c43ed0548b8f7cfc480b46360efd660bce826eb60a"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/3-body-problem-01-cumulative-btiha-media-objects.json",
+      "size": 1114238,
+      "sha256": "a5176e215182319b6bfb95857ed4dc25ecbabfc2b1af64bdc97699466d1242b4"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/3-body-problem-01-cumulative-aggregate.geojson.gz",
+      "size": 1286619,
+      "sha256": "4128b860a9eb49d0ee6647e003af081cbbd81bff9165b15f44165fd496a2f63d"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/3-body-problem-01-cumulative-btiha.geojson.gz",
+      "size": 46912739,
+      "sha256": "e584c9fab638e07cbe492f74b8d7d30002ece3b503587c38f100ad8900922242"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/3-body-problem-01-downloads-by-week-3-body-problem-01-week.svg",
+      "size": 33741,
+      "sha256": "0a34ec5ebb92f7c8662e809441fed1899b604cd57576341d1bf1ebbfaad7d0d5"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/3-body-problem-01-downloads-by-day-day.svg",
+      "size": 28758,
+      "sha256": "8480c324aa1615794f058a367403a733dc8ac3aad7e468e90d05a2b573a60a16"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/3-body-problem-01.json",
+      "size": 12907,
+      "sha256": "9346d21b0ac39f6fbe323d440b8fe0153b0f7fdbd8b0af5b699304179f97f4ac"
+    }
+  },
+  "coverage_sha256": "694964b941d97cb341d763b3d78584df9391cdc9d831f112c4efa1f0a55ee199",
+  "published_files": {
+    "docs/itemized/3-body-problem-01-sample-cache-audit.md": "c453b7a2ab447f6b6d92e1f57f606bb6d7575bd238b81f30ba9cdaf523fbf9c5",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/3-body-problem-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "f82a8755e942e8737f4ec5239314a50fc2bace5a8f5a29b82c396104e46286cb",
+    "docs/itemized/figures/3-body-problem-01-cumulative-detail-btiha-itemized-by-bytes.svg": "53f97e6dd691bb090c4a7145b554340621dcfc6f7b9ca8ceb246213451cd4f9d",
+    "docs/itemized/figures/3-body-problem-01-downloads-by-week-3-body-problem-01-week.svg": "0a34ec5ebb92f7c8662e809441fed1899b604cd57576341d1bf1ebbfaad7d0d5",
+    "docs/itemized/figures/3-body-problem-01-downloads-by-day-day.svg": "8480c324aa1615794f058a367403a733dc8ac3aad7e468e90d05a2b573a60a16",
+    "docs/itemized/figures/3-body-problem-01-carto.png": "f1f7da088bd516d1f3427123ccb10ec71fbad2a92400f24539850822fb795a2f",
+    "docs/itemized/figures/3-body-problem-01-carto-4k.webp": "ecd2b21a525d36b7cf8e5221ccf44769b67ebc3798cc62e35c81a1dd7c974d79",
+    "docs/itemized/figures/3-body-problem-01-data-ge-1080p.webp": "c7f86a21032658a30efbe531ad704a540429b686348c43cb3912c705c8482b0d",
+    "docs/itemized/figures/3-body-problem-01-data-ge-1080p-4k.webp": "0ea4cdfcfca794fce8005c2ee15f5a36193a48d7f7ef5eecc91d40d50c0458e8",
+    "docs/itemized/figures/3-body-problem-01-data-lt-1080p.webp": "3b1fcb4ba03d74f083105f830f159c41d1499fbbbb8cefca365d87dddf360612",
+    "docs/itemized/figures/3-body-problem-01-data-lt-1080p-4k.webp": "3c8917e483075446a24f975b79d33b9b404dbbab340a51a0c7f65dc0b0662395"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "3-body-problem-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "3073f40e17ae109c8a9b62c5d33b9d48372a74f2",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "fe9513149f64a1c6f798c611f47c780870561c5b9f254c31e9c08ca0ac9892b0",
+      "size": 36848072
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/3-body-problem-01-downloads-by-week-3-body-problem-01-week.svg",
+        "sha256": "0a34ec5ebb92f7c8662e809441fed1899b604cd57576341d1bf1ebbfaad7d0d5",
+        "size": 33741
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/3-body-problem-01-downloads-by-day-day.svg",
+        "sha256": "8480c324aa1615794f058a367403a733dc8ac3aad7e468e90d05a2b573a60a16",
+        "size": 28758
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/3-body-problem-01-cumulative-btiha.geojson.gz",
+        "sha256": "e584c9fab638e07cbe492f74b8d7d30002ece3b503587c38f100ad8900922242",
+        "size": 46912739
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/3-body-problem-01-cumulative-btiha-media-objects.json",
+        "sha256": "a5176e215182319b6bfb95857ed4dc25ecbabfc2b1af64bdc97699466d1242b4",
+        "size": 1114238
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 44,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 27,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Shanghai",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          77.0,
+          50.0,
+          36.0,
+          32.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Budapest",
+          "Lelystad",
+          "Amsterdam",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          72.0,
+          49.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
