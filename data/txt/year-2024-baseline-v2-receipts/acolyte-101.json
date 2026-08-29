@@ -1,0 +1,238 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "acolyte-101",
+  "status": "passed",
+  "generated_at": "2026-08-29T23:41:57.172078+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt12262202",
+    "external_imdb": "tt12262202",
+    "wikidata_id": "Q104161310",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Acolyte"
+  },
+  "source_revisions": {
+    "alpha60": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "161637db736cf706128fc3ec4baab3036e258402"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/acolyte-101-cumulative.json",
+      "size": 15748,
+      "sha256": "47a50660bdbc742413a8de0f8f0d00db0de1e445ca99f261cc006830d406413d"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/acolyte-101-week.json",
+      "size": 3421102,
+      "sha256": "f8a847176aa91e9b7e6feb3c990e414779b0a6178e505f4d3ba1324821674ce4"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/acolyte-101-cumulative-ip-swarm.json",
+      "size": 43606,
+      "sha256": "e1779c0c2da4ed8fdf64712e3be5b7dc7c7131fa18dbeb5c8462a4b623b03a0e"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/acolyte-101-cumulative-btiha-media-objects.json",
+      "size": 475441,
+      "sha256": "8eef5ef3aa09d80508ddb2a36d4a07580b11e115893f97c5818c65bfda1859c5"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/acolyte-101-cumulative-aggregate.geojson.gz",
+      "size": 1236386,
+      "sha256": "b63948c414e319dc1fc4b7907d7d7f7a8f47c64498ee8ee3fa515b23ba26a427"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/acolyte-101-cumulative-btiha.geojson.gz",
+      "size": 37177862,
+      "sha256": "5fcac37dca1d7af02ae960237b52acc166ec0d653ac01ae51355a410402f2742"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/acolyte-101-downloads-by-week-acolyte-101-week.svg",
+      "size": 32424,
+      "sha256": "6bdc14f9f2ed4a50f2f04a3e7acaffdb205bf3900a1640e3cfa781bbb92d42b1"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/acolyte-101-downloads-by-day-day.svg",
+      "size": 27543,
+      "sha256": "3291b2ddbabe3a8d067f1dfeb0e364f80f80d8bcee1b596db910a79db0d99703"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/acolyte-101.json",
+      "size": 13034,
+      "sha256": "15ad1d459322f9e851e221d3202ac00736272a9b12001c097e5ebc318e9219fa"
+    }
+  },
+  "coverage_sha256": "c7f59fb6f7e9c40be7d8cc3a39eee4bb3f7929d5ebcb82679828f58d5f318206",
+  "published_files": {
+    "docs/itemized/acolyte-101-sample-cache-audit.md": "7e7ff9cd2b4b67f738f382b1dab0253ecde265b7719c40e16f107bda52c03ded",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/acolyte-101-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "97a7933627f16468bfc9038fca438c1b93d5efb15f293b0fb1f51b128059ee18",
+    "docs/itemized/figures/acolyte-101-cumulative-detail-btiha-itemized-by-bytes.svg": "eb5a52ffd5e354b5a4e0fc962e50ac946ee30de168b2f7c970e49bac7d39c3a1",
+    "docs/itemized/figures/acolyte-101-downloads-by-week-acolyte-101-week.svg": "6bdc14f9f2ed4a50f2f04a3e7acaffdb205bf3900a1640e3cfa781bbb92d42b1",
+    "docs/itemized/figures/acolyte-101-downloads-by-day-day.svg": "3291b2ddbabe3a8d067f1dfeb0e364f80f80d8bcee1b596db910a79db0d99703",
+    "docs/itemized/figures/acolyte-101-carto.png": "ab40a01f946aeae60c739190af6f0e5ed765f51e0f3716f1ddb8bb5ba2e02aac",
+    "docs/itemized/figures/acolyte-101-carto-4k.webp": "5e649dd3722ed60ae3afe5e51b90a42f1a949951c964afc4cc1a72e5ec755637",
+    "docs/itemized/figures/acolyte-101-data-ge-1080p.webp": "cd49e3969bb614ee1cdf55a73060e1c31c12177982f254f61f5e6947427ca427",
+    "docs/itemized/figures/acolyte-101-data-ge-1080p-4k.webp": "e8cd8e2645bbaece66002567d04af37dc2ed4e809d3600335d0ca127883a53bd",
+    "docs/itemized/figures/acolyte-101-data-lt-1080p.webp": "7e9fdcb1a76308073596f1ba87ac4fa1d842c56ec50789007c9af67f9cae1ce0",
+    "docs/itemized/figures/acolyte-101-data-lt-1080p-4k.webp": "9b19a00bd0fbb25698fdf58a19a058fb87b5e965fc92a421e4873dca19b76e66"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "acolyte-101",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "fe9513149f64a1c6f798c611f47c780870561c5b9f254c31e9c08ca0ac9892b0",
+      "size": 36848072
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/acolyte-101-downloads-by-week-acolyte-101-week.svg",
+        "sha256": "6bdc14f9f2ed4a50f2f04a3e7acaffdb205bf3900a1640e3cfa781bbb92d42b1",
+        "size": 32424
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/acolyte-101-downloads-by-day-day.svg",
+        "sha256": "3291b2ddbabe3a8d067f1dfeb0e364f80f80d8bcee1b596db910a79db0d99703",
+        "size": 27543
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/acolyte-101-cumulative-btiha.geojson.gz",
+        "sha256": "5fcac37dca1d7af02ae960237b52acc166ec0d653ac01ae51355a410402f2742",
+        "size": 37177862
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/acolyte-101-cumulative-btiha-media-objects.json",
+        "sha256": "8eef5ef3aa09d80508ddb2a36d4a07580b11e115893f97c5818c65bfda1859c5",
+        "size": 475441
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 36,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          81.0,
+          50.0,
+          39.0,
+          35.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Ashburn",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          82.0,
+          50.0,
+          36.0,
+          34.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
