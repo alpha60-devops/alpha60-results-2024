@@ -1,0 +1,238 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "agatha-all-along-101",
+  "status": "passed",
+  "generated_at": "2026-08-29T23:46:12.578695+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt15571732",
+    "external_imdb": "tt15571732",
+    "wikidata_id": "Q108837156",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Agatha_All_Along"
+  },
+  "source_revisions": {
+    "alpha60": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "161637db736cf706128fc3ec4baab3036e258402"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/agatha-all-along-101-cumulative.json",
+      "size": 15721,
+      "sha256": "831177c263d4822f6303da0e412a597930838693b47ece279429231280355af5"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/agatha-all-along-101-week.json",
+      "size": 3853446,
+      "sha256": "da57cba22f279e17f34f4ebd6e02f82f20628e1319a7e709937231c4aad78a58"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/agatha-all-along-101-cumulative-ip-swarm.json",
+      "size": 43081,
+      "sha256": "515cd51d8007e686c3b5f3318a4d7a28d354a35b215cdb2a89fae9102280c98a"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/agatha-all-along-101-cumulative-btiha-media-objects.json",
+      "size": 572897,
+      "sha256": "113d5e213b567060395dd9a66485def997910e0ab3ea07f6a46f901c552c4093"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/agatha-all-along-101-cumulative-aggregate.geojson.gz",
+      "size": 1263349,
+      "sha256": "6e6d1d5d23b16b490465b4d6b698615ac4b591b9ae0cb77041c488fb42f61d73"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/agatha-all-along-101-cumulative-btiha.geojson.gz",
+      "size": 44423548,
+      "sha256": "43a23928a92eb7b53baf873de4c37d072bc5c46a7954cc048ef272dada71f7f5"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/agatha-all-along-101-downloads-by-week-agatha-all-along-101-week.svg",
+      "size": 33000,
+      "sha256": "4a3e72c1ef63925a75d83c2a805d7e87a8b6f359358c2ec07422d4d8e9cb0c11"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/agatha-all-along-101-downloads-by-day-day.svg",
+      "size": 28158,
+      "sha256": "feb4d5d0f1c4ce8c32498f9f9c203b97d1401f69d20189297b9507f60a4b0553"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/agatha-all-along-101.json",
+      "size": 11858,
+      "sha256": "310783e160bdd04e4ac2c02e731092e849023515fbe8a8ff9746011309e1a80f"
+    }
+  },
+  "coverage_sha256": "e5436e18699f34038c5141beb1d393289fe76271d687c8308b3c6c8230d44b10",
+  "published_files": {
+    "docs/itemized/agatha-all-along-101-sample-cache-audit.md": "e7dd39786a1204902b4ceaa0533ae86b564750fd4f6f24d4e8f49d7c9cddf1da",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/agatha-all-along-101-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "4e56075f5426f3708ea6fe6c318617bad1d73deb12ee844d08d7dcf7f0396c8c",
+    "docs/itemized/figures/agatha-all-along-101-cumulative-detail-btiha-itemized-by-bytes.svg": "e944ce85bd31e169cb4ca1626d877114ddcad59a8272eba87c6b8df6b8f2d910",
+    "docs/itemized/figures/agatha-all-along-101-downloads-by-week-agatha-all-along-101-week.svg": "4a3e72c1ef63925a75d83c2a805d7e87a8b6f359358c2ec07422d4d8e9cb0c11",
+    "docs/itemized/figures/agatha-all-along-101-downloads-by-day-day.svg": "feb4d5d0f1c4ce8c32498f9f9c203b97d1401f69d20189297b9507f60a4b0553",
+    "docs/itemized/figures/agatha-all-along-101-carto.png": "70bc9d86fb17be0711814e415f98121e21b3b85be40bed3673a5e9b012965b6d",
+    "docs/itemized/figures/agatha-all-along-101-carto-4k.webp": "90af5849e651a170f45e95122c5ec57ee2950ab63cda1dfd70193ef57e3e2cb9",
+    "docs/itemized/figures/agatha-all-along-101-data-ge-1080p.webp": "1fc6093c7eb0c9f923e7215d4ee110864a171c0885db73b0d76b25ca7f1a1b88",
+    "docs/itemized/figures/agatha-all-along-101-data-ge-1080p-4k.webp": "f683cc8ef9ad4aef6333761a17172923a809baa304b4dd19764c334b8af7e4d9",
+    "docs/itemized/figures/agatha-all-along-101-data-lt-1080p.webp": "c505aede6722e20daea063902e8263d05788da01c72e15b0cb65b65bbab6420b",
+    "docs/itemized/figures/agatha-all-along-101-data-lt-1080p-4k.webp": "d352b8864ea18ecfb70686bab48b3be24ec2faeed6c8e53441db20c2bde56c1f"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "agatha-all-along-101",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "fe9513149f64a1c6f798c611f47c780870561c5b9f254c31e9c08ca0ac9892b0",
+      "size": 36848072
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/agatha-all-along-101-downloads-by-week-agatha-all-along-101-week.svg",
+        "sha256": "4a3e72c1ef63925a75d83c2a805d7e87a8b6f359358c2ec07422d4d8e9cb0c11",
+        "size": 33000
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/agatha-all-along-101-downloads-by-day-day.svg",
+        "sha256": "feb4d5d0f1c4ce8c32498f9f9c203b97d1401f69d20189297b9507f60a4b0553",
+        "size": 28158
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/agatha-all-along-101-cumulative-btiha.geojson.gz",
+        "sha256": "43a23928a92eb7b53baf873de4c37d072bc5c46a7954cc048ef272dada71f7f5",
+        "size": 44423548
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/agatha-all-along-101-cumulative-btiha-media-objects.json",
+        "sha256": "113d5e213b567060395dd9a66485def997910e0ab3ea07f6a46f901c552c4093",
+        "size": 572897
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 6,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Ashburn",
+          "Lelystad"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          77.0,
+          71.0,
+          50.0,
+          35.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Lelystad",
+          "Amsterdam",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          77.0,
+          69.0,
+          50.0,
+          31.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
