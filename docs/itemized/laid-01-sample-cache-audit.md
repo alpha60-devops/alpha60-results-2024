@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Laid |
 | Collection key | `laid-01` |
 | imdb_id | [tt21114548](https://www.imdb.com/title/tt21114548/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Laid (American TV series)](https://en.wikipedia.org/wiki/Laid_(American_TV_series)) |
 | Sample dates | 2024-12-19-to-2025-04-09 |
-| Sample days | 112 (2024–2025) |
+| Sample days | 112 |
 | BTIH count | 278 |
 | Unique BTIH count | 255 |
 | Downloaders total | 16,843,064 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-21T05:55:26Z
 - Sample directory: `/home/bkoz/src/alpha60-samples/laid-01`
@@ -38,15 +38,28 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` — missing 1 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
-UNAVAILABLE — no collection size histogram was rendered.
+![Laid collection size histogram](figures/laid-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
 ## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
-![laid-01 downloads by week](figures/laid-01-downloads-by-week-laid-01-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/laid-01-downloads-by-week-laid-01-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ UNAVAILABLE — no collection size histogram was rendered.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |

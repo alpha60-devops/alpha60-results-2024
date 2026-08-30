@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "laid-01",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:09:10.146752+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt21114548",
+    "external_imdb": "tt21114548",
+    "wikidata_id": "Q131340425",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laid_(American_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/laid-01-cumulative.json",
+      "size": 15650,
+      "sha256": "527f7c58a4b9b3531aafd13de626d0246304f517a14505e22e0233c5507b5f42"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/laid-01-week.json",
+      "size": 1791720,
+      "sha256": "a706c646f40378443c281ea78bbea45234736860fafdda5d76551a46760ddccd"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/laid-01-cumulative-ip-swarm.json",
+      "size": 41673,
+      "sha256": "3fd3fbf304ad5fd3e7655c9cbf54b10bd0f642f248a08ce0a9b835e918783f41"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/laid-01-cumulative-btiha-media-objects.json",
+      "size": 461657,
+      "sha256": "76851c14da3d93f5429c433a99281122c3029d3764ee8591342fd42150fc9041"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/laid-01-cumulative-aggregate.geojson.gz",
+      "size": 980042,
+      "sha256": "ecfa42f5a7a87f0088c49f7512f6e6f5836bb0d1421872e412885c96057b33ff"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/laid-01-cumulative-btiha.geojson.gz",
+      "size": 18636376,
+      "sha256": "5c032c1173ef0675db2f4c08ff6b84c54c59ec04ef5195c2b57349212c73b6bf"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/laid-01-downloads-by-week-laid-01-week.svg",
+      "size": 978,
+      "sha256": "1adb6e9cb5a72f9aeddc89138330c880643073eddafe634750852321543b00a9"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/laid-01-downloads-by-day-day.svg",
+      "size": 2462,
+      "sha256": "55b138851c85f837b3ae2bead66ad3bb95820c5682ef9ae85743ef00ec52dcfc"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/laid-01.json",
+      "size": 7769,
+      "sha256": "a0cf6a07c4fa39ed3614814dc865470f0a3d863433b2e021c8d7558d8742f323"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/laid-01-days.csv",
+      "size": 3826,
+      "sha256": "d373ca57d9e4bca14a0d8096637611643bc01c186adcf8a966baa310bc0f80c0"
+    }
+  },
+  "coverage_sha256": "05305f3d8ad4aa64a84b6498c6e394c6d87540c68ba0a4f7b6ad499d41c26c81",
+  "published_files": {
+    "docs/itemized/laid-01-sample-cache-audit.md": "75edb0eaf63221e1e10c92b94469878348abdaa736c0837b6d46a9d1290dcc06",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/laid-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "c879ccef19e4939ed13825519e593854070961543defaa3985d5775052272e61",
+    "docs/itemized/figures/laid-01-cumulative-detail-btiha-itemized-by-bytes.svg": "cdbea1245dd976da41155d00ce995b291229984f21a3ccff65be38cf30e26743",
+    "docs/itemized/figures/laid-01-downloads-by-week-laid-01-week.svg": "b3925dcd70dd868a99573436a4c7c8a8837c1d24b81171f4bae527c326313602",
+    "docs/itemized/figures/laid-01-downloads-by-day-day.svg": "cc24639c18279d41e8cb03b75677ad24d2e6dc46db8992c944116430a3f1cd89",
+    "docs/itemized/figures/laid-01-carto.png": "5c6c11ecbcd40c43aec3a585f0007316381d2b240bdc90374821ea71d151bcc9",
+    "docs/itemized/figures/laid-01-carto-4k.webp": "d0f588529600aa9b128dbdcb935a70d0ba64c444e5d007ff16f78d57c17d5adc",
+    "docs/itemized/figures/laid-01-data-ge-1080p.webp": "efd8b6b2e95211d5cdf784b7a2a60ff00bcb77f0af98900e9ccd1f5e247722fe",
+    "docs/itemized/figures/laid-01-data-ge-1080p-4k.webp": "28d523cef7599ce93a97f66a22ab6437ddc2f7af7b5bef85412ef1b808c91bc8",
+    "docs/itemized/figures/laid-01-data-lt-1080p.webp": "ae90fce425df7affaf13fbe473cfa649a2aca5630fbbc57c0189a2e8ca8654f0",
+    "docs/itemized/figures/laid-01-data-lt-1080p-4k.webp": "7cf00c6b7767842a2da9b5883dd3ef1d5af50606f8d24e85932d1f367050ec07"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "laid-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/laid-01-days.csv",
+        "sha256": "d373ca57d9e4bca14a0d8096637611643bc01c186adcf8a966baa310bc0f80c0",
+        "size": 3826
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/laid-01-downloads-by-week-laid-01-week.svg",
+        "sha256": "1adb6e9cb5a72f9aeddc89138330c880643073eddafe634750852321543b00a9",
+        "size": 978,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/laid-01-downloads-by-week-laid-01-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/laid-01-downloads-by-day-day.svg",
+        "sha256": "55b138851c85f837b3ae2bead66ad3bb95820c5682ef9ae85743ef00ec52dcfc",
+        "size": 2462,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/laid-01-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/laid-01-cumulative-btiha.geojson.gz",
+        "sha256": "5c032c1173ef0675db2f4c08ff6b84c54c59ec04ef5195c2b57349212c73b6bf",
+        "size": 18636376
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/laid-01-cumulative-btiha-media-objects.json",
+        "sha256": "76851c14da3d93f5429c433a99281122c3029d3764ee8591342fd42150fc9041",
+        "size": 461657
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 23,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Istanbul",
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Lelystad",
+          "Ashburn",
+          "Budapest",
+          "Amsterdam"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          89.0,
+          72.0,
+          51.0,
+          33.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Istanbul",
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ankara",
+          "London",
+          "Budapest",
+          "Lelystad",
+          "Amsterdam",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          89.0,
+          73.0,
+          51.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
