@@ -1,0 +1,23 @@
+{
+  "schema": "alpha60-year-baseline-v2-completion/1",
+  "year": "2024",
+  "status": "passed",
+  "counts": {
+    "passed": 69,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 69,
+    "unique": 69
+  },
+  "source_revisions": {
+    "alpha60": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "day_series_repairs": "1f978c1773be713a489c1a018b5df18d70a48540",
+    "results_initial": "1f978c1773be713a489c1a018b5df18d70a48540"
+  },
+  "campaign_inputs_sha256": "64a3bc131e6b834adf21e1c9a0243186af5cd26d301fcf328c5563e38aa77a75"
+}
