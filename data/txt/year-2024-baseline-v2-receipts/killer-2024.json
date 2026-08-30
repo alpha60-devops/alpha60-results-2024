@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "killer-2024",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:06:30.575680+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt1121948",
+    "external_imdb": "tt1121948",
+    "wikidata_id": "Q127257393",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Killer_(2024_film)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/killer-2024-cumulative.json",
+      "size": 15729,
+      "sha256": "11a0ed3b86801d1ec12f1b49b3b77f1ec5366b71937746aa2c599c681f8f3cfc"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/killer-2024-week.json",
+      "size": 890258,
+      "sha256": "fe4a4272ff4cbc49dc80c855d2d6c8bc52ec2fa85c438bf97543f87856c40cd9"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/killer-2024-cumulative-ip-swarm.json",
+      "size": 42031,
+      "sha256": "727e7fab90eb3bc03f092c7c97c856eba142870dffcf730bb3bfa5bd69f1353e"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/killer-2024-cumulative-btiha-media-objects.json",
+      "size": 221730,
+      "sha256": "2b437711a9ca17bcbfae2f1df0a8b87dc6093755c814e597a0181e4a69cde212"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/killer-2024-cumulative-aggregate.geojson.gz",
+      "size": 952674,
+      "sha256": "353eb9535fa2f647f36196097348a91fc231e50d84fc565c55c755f008ccdaac"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/killer-2024-cumulative-btiha.geojson.gz",
+      "size": 11040525,
+      "sha256": "100e03f1bde63198afe39a1cd2eb179683b40ab4d1aef7c5d828600960e32fd3"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/killer-2024-downloads-by-week-killer-2024-week.svg",
+      "size": 986,
+      "sha256": "7e2d945255980ea2579e5e6e598195aa730ed6ff2d3492a0111f7f6d36602d94"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/killer-2024-downloads-by-day-day.svg",
+      "size": 2515,
+      "sha256": "b3002ea46c163233251b6fac1bf8b75bf0d8772d22575110d19521cb46e8b61e"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/killer-2024.json",
+      "size": 8858,
+      "sha256": "0c5da42ca00756b9b88f10f0745627478d1d2d637214ccf2bd58f740b71dd41c"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/killer-2024-days.csv",
+      "size": 3979,
+      "sha256": "78e937644e38e6bc56aa212b0f3ebe87a61ae6fa18a1af0990ae3bae47fc57d4"
+    }
+  },
+  "coverage_sha256": "80d0f608c4f651a3130c581ce8fa85267528dbe8c4c8c1f4c3423f0acbd1f182",
+  "published_files": {
+    "docs/itemized/killer-2024-sample-cache-audit.md": "2843c152dae400de5bca17fcfbbd9a064e41e5ba05148403ccf4f154790248c6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/killer-2024-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "b2fe52442d2feef74848e087b42402cefd5491e6a5bad675d76dd1dedb043fe3",
+    "docs/itemized/figures/killer-2024-cumulative-detail-btiha-itemized-by-bytes.svg": "048a0c4376e965226d994da8b6b942c91f9cf09609ed84b2743247955ddfba9f",
+    "docs/itemized/figures/killer-2024-downloads-by-week-killer-2024-week.svg": "ae35a89764013ae2c1b8edc508a651aadf3b8b0d923c8d6dbcf090036bc7d941",
+    "docs/itemized/figures/killer-2024-downloads-by-day-day.svg": "9e3320363ea25cfcec95c79aa9a36522359f23896c1e2b0551238743f8f1b23c",
+    "docs/itemized/figures/killer-2024-carto.png": "e92acaac6aca2c765d7deec4dd493ba3b6013137d9cc35201d6ba1847af156c1",
+    "docs/itemized/figures/killer-2024-carto-4k.webp": "546f9e348f2e96ac666d3982ea1faa0d187fc8abe89e004899458919bf071a6a",
+    "docs/itemized/figures/killer-2024-data-ge-1080p.webp": "d0fd8b1779ac43f222a911e136cfeb31dd81230f647428d1d0eb2bb75bd36f06",
+    "docs/itemized/figures/killer-2024-data-ge-1080p-4k.webp": "ab7b34780f1219736c17fad0c8d56ab24a44da115c8c9dd3bcea6e3ef9af25bb",
+    "docs/itemized/figures/killer-2024-data-lt-1080p.webp": "6fdd8b88b75c54d519f95f0f6395c01c059336462dbf1fb2f8ab2565a9bcf338",
+    "docs/itemized/figures/killer-2024-data-lt-1080p-4k.webp": "999fa8a9527f1916027ef0413cc48839f7c783986870dc99111d5c31ae00ff11"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "killer-2024",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/killer-2024-days.csv",
+        "sha256": "78e937644e38e6bc56aa212b0f3ebe87a61ae6fa18a1af0990ae3bae47fc57d4",
+        "size": 3979
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/killer-2024-downloads-by-week-killer-2024-week.svg",
+        "sha256": "7e2d945255980ea2579e5e6e598195aa730ed6ff2d3492a0111f7f6d36602d94",
+        "size": 986,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/killer-2024-downloads-by-week-killer-2024-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/killer-2024-downloads-by-day-day.svg",
+        "sha256": "b3002ea46c163233251b6fac1bf8b75bf0d8772d22575110d19521cb46e8b61e",
+        "size": 2515,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/killer-2024-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/killer-2024-cumulative-btiha.geojson.gz",
+        "sha256": "100e03f1bde63198afe39a1cd2eb179683b40ab4d1aef7c5d828600960e32fd3",
+        "size": 11040525
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/killer-2024-cumulative-btiha-media-objects.json",
+        "sha256": "2b437711a9ca17bcbfae2f1df0a8b87dc6093755c814e597a0181e4a69cde212",
+        "size": 221730
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 49,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 17,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Ashburn",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          49.0,
+          46.0,
+          35.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai",
+          "Novosibirsk"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          76.0,
+          49.0,
+          44.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
