@@ -1,0 +1,238 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "diplomat-02",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:01:58.309322+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt17491088",
+    "external_imdb": "tt17491088",
+    "wikidata_id": "Q117425241",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Diplomat_(American_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "results_initial": "161637db736cf706128fc3ec4baab3036e258402"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/diplomat-02-cumulative.json",
+      "size": 15660,
+      "sha256": "e9cbd98b30b5eeba546dace68175a06dc7ab49626351227e64e5b3fdd0d7ade4"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/diplomat-02-week.json",
+      "size": 974979,
+      "sha256": "b306d7bfae7e80cf7cc5d40fc985e9d330e2d43c43b0e3d142bcc693ea91fd27"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/diplomat-02-cumulative-ip-swarm.json",
+      "size": 40413,
+      "sha256": "f3cc13e581e542aab64bd1a126ffcddf97be22af157796958903acc59fa3b141"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/diplomat-02-cumulative-btiha-media-objects.json",
+      "size": 328462,
+      "sha256": "bdc7822537e301672434df50ef0181e156cabc17e6d910a2631e11e84d4250bf"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/diplomat-02-cumulative-aggregate.geojson.gz",
+      "size": 792840,
+      "sha256": "1701bc954f0096a4414404e6198679d1b6b5c708b2bf8501e2da5a3f8c8d6482"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/diplomat-02-cumulative-btiha.geojson.gz",
+      "size": 7281029,
+      "sha256": "3a5c0ef49774d16174d53240c59d8599d8f1da2a477a2b385e54359870afeaf7"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/diplomat-02-downloads-by-week-diplomat-02-week.svg",
+      "size": 21777,
+      "sha256": "b065ad3e298b30ca532911f30e8abf2ea02b6568f05c8fdada0cbda79ae32e32"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/diplomat-02-downloads-by-day-day.svg",
+      "size": 23916,
+      "sha256": "2400a7c192adeaef6530773a0c5d6c61a938f991ecae0d9772e4bf1615e88aff"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/diplomat-02.json",
+      "size": 10386,
+      "sha256": "87373d1b47ad854fdb1f8c2c5e733fb9c3b5ce502bf2b33347f49783f86eeadd"
+    }
+  },
+  "coverage_sha256": "6766300f362b42ecaa8ac493337df5a39a1269be3db996beda99728c039392f5",
+  "published_files": {
+    "docs/itemized/diplomat-02-sample-cache-audit.md": "94c021f42d2ab1f30e9fa830d6145af813605ce618ebee127426718d968ac9a4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/diplomat-02-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "fe42ea92abe6d9c9aa10d240c6e18a007d54afc975cb9ae8efe93c28395c13bb",
+    "docs/itemized/figures/diplomat-02-cumulative-detail-btiha-itemized-by-bytes.svg": "8351d8ecf80c3fb98c74aebf86a1fcedbd06a100c69d270136fa23747a764874",
+    "docs/itemized/figures/diplomat-02-downloads-by-week-diplomat-02-week.svg": "b065ad3e298b30ca532911f30e8abf2ea02b6568f05c8fdada0cbda79ae32e32",
+    "docs/itemized/figures/diplomat-02-downloads-by-day-day.svg": "2400a7c192adeaef6530773a0c5d6c61a938f991ecae0d9772e4bf1615e88aff",
+    "docs/itemized/figures/diplomat-02-carto.png": "ca8687dcdd836db4f2efbe80df2c68fdeb317ec35623df59803258c4108399dc",
+    "docs/itemized/figures/diplomat-02-carto-4k.webp": "4dc1fbaebda2e5edb4c28ab934e79d3c7b867f967e2e2e7dd4f09bcdd42c3a86",
+    "docs/itemized/figures/diplomat-02-data-ge-1080p.webp": "5e4f5f3ddd8e3e9c1dc6734f4e6f5dc035f8c43bb95a8ea1d501f7e27d92e8b3",
+    "docs/itemized/figures/diplomat-02-data-ge-1080p-4k.webp": "7a70803aa0f83cdfe082dc9c42d464242a5b47fe41c8fc0a68f4ae774d0c57fa",
+    "docs/itemized/figures/diplomat-02-data-lt-1080p.webp": "1e45c69972de98ee6ec42ca7d8094cb7edeb18da5535ffb0bd6cb17127c69eaa",
+    "docs/itemized/figures/diplomat-02-data-lt-1080p-4k.webp": "a0ee6d124690507af5bc7a51b656ed172618e7f5ada71728e9e715b042f3c3d3"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "diplomat-02",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "d727ab9f9fc951e8aa3eb32bf6ddfbcfc4e87812",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "fe9513149f64a1c6f798c611f47c780870561c5b9f254c31e9c08ca0ac9892b0",
+      "size": 36848072
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/diplomat-02-downloads-by-week-diplomat-02-week.svg",
+        "sha256": "b065ad3e298b30ca532911f30e8abf2ea02b6568f05c8fdada0cbda79ae32e32",
+        "size": 21777
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/diplomat-02-downloads-by-day-day.svg",
+        "sha256": "2400a7c192adeaef6530773a0c5d6c61a938f991ecae0d9772e4bf1615e88aff",
+        "size": 23916
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/diplomat-02-cumulative-btiha.geojson.gz",
+        "sha256": "3a5c0ef49774d16174d53240c59d8599d8f1da2a477a2b385e54359870afeaf7",
+        "size": 7281029
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/diplomat-02-cumulative-btiha-media-objects.json",
+        "sha256": "bdc7822537e301672434df50ef0181e156cabc17e6d910a2631e11e84d4250bf",
+        "size": 328462
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 25,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 14,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 25,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Istanbul",
+          "Moscow",
+          "Seoul",
+          "Ashburn",
+          "London",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Ankara",
+          "Lelystad",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          86.0,
+          64.0,
+          53.0,
+          48.0,
+          47.0,
+          35.0,
+          32.0,
+          30.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Ashburn",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          89.0,
+          68.0,
+          50.0,
+          35.0,
+          34.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
