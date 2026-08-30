@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "monsieur-spade-01",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:15:56.614883+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt14203572",
+    "external_imdb": "tt14203572",
+    "wikidata_id": "Q122397924",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monsieur_Spade"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/monsieur-spade-01-cumulative.json",
+      "size": 15690,
+      "sha256": "ccfd14273d0b4704ea538ec9f9bb7b4a2eb4169bdd362b9dc5e6621b275d61b1"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/monsieur-spade-01-week.json",
+      "size": 1075122,
+      "sha256": "1215e49ac34635fd404bcf3aae6d88fdbaf9d9f98aa3e0a725751c5c051f1745"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/monsieur-spade-01-cumulative-ip-swarm.json",
+      "size": 41694,
+      "sha256": "4b1cae0e2be76d747dd736c6122e0cb82e9099d4d96bb817ce58c77f807a57ae"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/monsieur-spade-01-cumulative-btiha-media-objects.json",
+      "size": 297834,
+      "sha256": "197c055be651953f232c91067c919dba48412eb791562a35dc698f71dda330ca"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/monsieur-spade-01-cumulative-aggregate.geojson.gz",
+      "size": 909458,
+      "sha256": "f1b1cb54ff7ef0e32d83e8cc60f017efa8b7311e321e33ff2d149d12ace529e9"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/monsieur-spade-01-cumulative-btiha.geojson.gz",
+      "size": 15961363,
+      "sha256": "5ab974d82a32c4daacb9d0b009a6e5f677fcc4550491a343250839641658d461"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/monsieur-spade-01-downloads-by-week-monsieur-spade-01-week.svg",
+      "size": 22799,
+      "sha256": "7662138a2c90595c87412cfa702bd72188f296fb8a56d469449c90c830fb79c2"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/monsieur-spade-01-downloads-by-day-day.svg",
+      "size": 23878,
+      "sha256": "f42cb2d4d67bdb1df4b1ec04c9a609b866bc6efa9c62c240796a38fa261ff417"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/monsieur-spade-01.json",
+      "size": 5886,
+      "sha256": "20f2710d373911cc92538d3f04a265971579a72e94ca969fe1094a09dc511888"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/monsieur-spade-01-days.csv",
+      "size": 3598,
+      "sha256": "9b046c7ceb8ef4bf55b032e25bce0ab6d3c8c4356b4fe6ef4fdaa298c20f8f65"
+    }
+  },
+  "coverage_sha256": "68b4cbaa1bdca888f920ab1a4a9b6ae4cac578ffbecc2c4112bf97a454eb1758",
+  "published_files": {
+    "docs/itemized/monsieur-spade-01-sample-cache-audit.md": "f82a56d2d0af615b482141ba0a7bbba6ca14bee5960e3c43ad54f7ff8ae4c5cd",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/monsieur-spade-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "cd48c7879bda62fc320b8a8666f3bc1c309a3c75b3bfe9bb7603cf82f55e23bc",
+    "docs/itemized/figures/monsieur-spade-01-cumulative-detail-btiha-itemized-by-bytes.svg": "84ff3e1488e19617e87e5aa4432bb4229383c6c547d2b9c3b78ca66a5fc165d6",
+    "docs/itemized/figures/monsieur-spade-01-downloads-by-week-monsieur-spade-01-week.svg": "7662138a2c90595c87412cfa702bd72188f296fb8a56d469449c90c830fb79c2",
+    "docs/itemized/figures/monsieur-spade-01-downloads-by-day-day.svg": "f42cb2d4d67bdb1df4b1ec04c9a609b866bc6efa9c62c240796a38fa261ff417",
+    "docs/itemized/figures/monsieur-spade-01-carto.png": "e0e79760b6956df323f5f4d9899ccafa359a5ae8915891b5260986e4ef0e0ac1",
+    "docs/itemized/figures/monsieur-spade-01-carto-4k.webp": "e523e5d33e23ae5e3e26557a08c45130983463755b96eafbea9fdad0b8bc5047",
+    "docs/itemized/figures/monsieur-spade-01-data-ge-1080p.webp": "d5a74812c21a7dc60f59126cac09301b93213d2a061b974d1596df075aa21bed",
+    "docs/itemized/figures/monsieur-spade-01-data-ge-1080p-4k.webp": "de43c5ff92a32f5ed13a2f09ba591bb2119ec0ec568f232500d73fcacaa3efac",
+    "docs/itemized/figures/monsieur-spade-01-data-lt-1080p.webp": "6672faf5c2f0ce28184b78021a93a9909d816be5cc5f34dedf70881fdb576d72",
+    "docs/itemized/figures/monsieur-spade-01-data-lt-1080p-4k.webp": "c7277c27a4c1608d1c6892352b76bdea4bb891a0562cbcd16fef56f7f4f6a7ff"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "monsieur-spade-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/monsieur-spade-01-days.csv",
+        "sha256": "9b046c7ceb8ef4bf55b032e25bce0ab6d3c8c4356b4fe6ef4fdaa298c20f8f65",
+        "size": 3598
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/monsieur-spade-01-downloads-by-week-monsieur-spade-01-week.svg",
+        "sha256": "7662138a2c90595c87412cfa702bd72188f296fb8a56d469449c90c830fb79c2",
+        "size": 22799,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/monsieur-spade-01-downloads-by-day-day.svg",
+        "sha256": "f42cb2d4d67bdb1df4b1ec04c9a609b866bc6efa9c62c240796a38fa261ff417",
+        "size": 23878,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/monsieur-spade-01-cumulative-btiha.geojson.gz",
+        "sha256": "5ab974d82a32c4daacb9d0b009a6e5f677fcc4550491a343250839641658d461",
+        "size": 15961363
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/monsieur-spade-01-cumulative-btiha-media-objects.json",
+        "sha256": "197c055be651953f232c91067c919dba48412eb791562a35dc698f71dda330ca",
+        "size": 297834
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 35,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Istanbul",
+          "Ashburn",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Mexico City"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          68.0,
+          53.0,
+          47.0,
+          41.0,
+          35.0,
+          33.0,
+          30.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Istanbul",
+          "Lelystad",
+          "Ashburn",
+          "Amsterdam",
+          "Budapest",
+          "Mexico City"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          72.0,
+          48.0,
+          47.0,
+          40.0,
+          32.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
