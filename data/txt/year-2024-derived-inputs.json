@@ -8,11 +8,13 @@
     "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
     "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
     "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
-    "results_initial": "ab6dd43348b3419f221511abf878cf42a71b8f33"
+    "results_initial": "ab6dd43348b3419f221511abf878cf42a71b8f33",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332"
   },
   "counts": {
     "objects": 69,
-    "unique_objects": 69
+    "unique_objects": 69,
+    "day_series_csv": 59
   },
   "objects": {
     "3-body-problem-01": {
@@ -61,6 +63,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/3-body-problem-01.json",
           "size": 12907,
           "sha256": "9346d21b0ac39f6fbe323d440b8fe0153b0f7fdbd8b0af5b699304179f97f4ac"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/3-body-problem-01-days.csv",
+          "size": 6654,
+          "sha256": "dfd56c2f4f35168e85fbc625006e1c4ffa5ea86d27a6807c0b52046c14e97210"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-29T14:40:59Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/3-body-problem-01.xz`\n- Hour directories: 4399\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 7 (93 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-07-21 22:00`, resumed `2024-07-22 19:00` \u2014 missing 20 hour(s)\n- hourly gap: last `2024-08-11 22:00`, resumed `2024-08-12 14:20` \u2014 missing 15 hour(s)\n- hourly gap: last `2024-08-12 22:00`, resumed `2024-08-13 00:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-08-14 22:00`, resumed `2024-08-16 21:18` \u2014 missing 46 hour(s)\n- hourly gap: last `2024-08-17 22:00`, resumed `2024-08-18 08:44` \u2014 missing 9 hour(s)\n- hourly gap: last `2024-08-18 22:00`, resumed `2024-08-19 00:00` \u2014 missing 1 hour(s)\n- missing day: `2024-08-15`\n",
@@ -112,6 +119,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/acolyte-101.json",
           "size": 13034,
           "sha256": "15ad1d459322f9e851e221d3202ac00736272a9b12001c097e5ebc318e9219fa"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/acolyte-101-days.csv",
+          "size": 6439,
+          "sha256": "7fb5112185bab69194b65a165bcdd09e3dab63ff75866d89f3f38465ddae9912"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:35:04Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/acolyte-101.xz`\n- Hour directories: 4362\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -163,6 +175,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/acolyte-107.json",
           "size": 13021,
           "sha256": "b95186a36fed322f7fda84fccb6d9e06c51b9e4c987b03169d246f7591d764a2"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/acolyte-107-days.csv",
+          "size": 6164,
+          "sha256": "dec8269c4a06698c5d2b44b16b1e8e663845650c8ea653379f38ffbe276a22bd"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:15:53Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/acolyte-107.xz/2024`\n- Hour directories: 4315\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (47 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-28 22:03`, resumed `2024-12-30 22:03` \u2014 missing 47 hour(s)\n- missing day: `2024-12-29`\n",
@@ -214,6 +231,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/agatha-all-along-101.json",
           "size": 11858,
           "sha256": "310783e160bdd04e4ac2c02e731092e849023515fbe8a8ff9746011309e1a80f"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/agatha-all-along-101-days.csv",
+          "size": 6296,
+          "sha256": "adf4d122f60783f6417652f7118c444d1134c003dc16955d413593515789a02e"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:35:04Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/agatha-all-along-101.xz`\n- Hour directories: 4234\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 7 (129 missing hours)\n- Missing days: 3\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-30 20:00`, resumed `2024-12-30 22:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-01-11 22:00`, resumed `2025-01-12 01:00` \u2014 missing 2 hour(s)\n- hourly gap: last `2025-02-08 22:00`, resumed `2025-02-10 00:00` \u2014 missing 25 hour(s)\n- hourly gap: last `2025-02-18 17:00`, resumed `2025-02-19 00:00` \u2014 missing 6 hour(s)\n- hourly gap: last `2025-02-20 22:00`, resumed `2025-02-22 02:00` \u2014 missing 27 hour(s)\n- hourly gap: last `2025-03-06 22:00`, resumed `2025-03-08 22:00` \u2014 missing 47 hour(s)\n- hourly gap: last `2025-03-09 22:00`, resumed `2025-03-10 20:00` \u2014 missing 21 hour(s)\n- missing day: `2025-02-09`\n- missing day: `2025-02-21`\n- missing day: `2025-03-07`\n",
@@ -265,6 +287,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/agatha-all-along-107.json",
           "size": 11859,
           "sha256": "8a281aa1f16b24e812cf5d3b3ca37ac2cd6441f3e302fede57541ffc461eb6b9"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/agatha-all-along-107-days.csv",
+          "size": 6292,
+          "sha256": "3e943aa57a159490ee40c924a2e6dbfa86835dd93399afe7cd0b94a2f73685af"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:35:04Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/agatha-all-along-107.xz`\n- Hour directories: 4232\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 10 (133 missing hours)\n- Missing days: 3\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-30 20:06`, resumed `2024-12-30 22:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-01-11 22:06`, resumed `2025-01-12 01:06` \u2014 missing 2 hour(s)\n- hourly gap: last `2025-02-08 22:06`, resumed `2025-02-10 00:06` \u2014 missing 25 hour(s)\n- hourly gap: last `2025-02-18 17:06`, resumed `2025-02-19 00:06` \u2014 missing 6 hour(s)\n- hourly gap: last `2025-02-20 22:06`, resumed `2025-02-22 02:06` \u2014 missing 27 hour(s)\n- hourly gap: last `2025-03-06 22:06`, resumed `2025-03-08 22:06` \u2014 missing 47 hour(s)\n- hourly gap: last `2025-03-09 22:06`, resumed `2025-03-10 20:06` \u2014 missing 21 hour(s)\n- hourly gap: last `2025-03-23 22:06`, resumed `2025-03-24 00:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-03-25 23:06`, resumed `2025-03-26 02:43` \u2014 missing 2 hour(s)\n- hourly gap: last `2025-03-30 01:00`, resumed `2025-03-30 03:00` \u2014 missing 1 hour(s)\n- missing day: `2025-02-09`\n- missing day: `2025-02-21`\n- missing day: `2025-03-07`\n",
@@ -367,6 +394,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/anora.json",
           "size": 9367,
           "sha256": "b6f8321f97d50d4a4369ce264f92d91413f9c1a9b212afcef45fbeecec3f2923"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/anora-days.csv",
+          "size": 6444,
+          "sha256": "5dc3c63ca7eaadfbe7c5998de0fdd4b1a80021598fb7bf6665071c55b655eccd"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:50:34Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/anora.xz`\n- Hour directories: 4334\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (33 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-04-25 04:06`, resumed `2025-04-26 09:06` \u2014 missing 28 hour(s)\n- hourly gap: last `2025-06-17 15:06`, resumed `2025-06-17 20:50` \u2014 missing 4 hour(s)\n",
@@ -418,6 +450,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/apprentice-2024.json",
           "size": 7960,
           "sha256": "282728e2e4d24b115ba47bbfc1fa2a291aaab2cbc70114de6063d099ba28d89f"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/apprentice-2024-days.csv",
+          "size": 6465,
+          "sha256": "0771daad46394f53746b3fde2a7c8e847520e8d3da7d84fb3247b5e26a7e7178"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:51:37Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/apprentice-2024.xz`\n- Hour directories: 4441\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-30 01:00`, resumed `2025-03-30 03:00` \u2014 missing 1 hour(s)\n",
@@ -469,6 +506,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/arcane-02.1.json",
           "size": 11852,
           "sha256": "cdccb54c2b440cd72204d1df08cc66b58a0f422e736330e2fa2a8f646a615632"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/arcane-02.1-days.csv",
+          "size": 6477,
+          "sha256": "9bab290f7151c60009e2c2e04b812454825e8bbce3740d6725e8ff25e7ac2d8b"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:52:42Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/arcane-02.1.xz`\n- Hour directories: 4343\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (8 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-07 22:03`, resumed `2024-12-08 06:03` \u2014 missing 7 hour(s)\n- hourly gap: last `2025-03-30 01:03`, resumed `2025-03-30 03:03` \u2014 missing 1 hour(s)\n",
@@ -520,6 +562,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/arcane-02.2.json",
           "size": 11852,
           "sha256": "68f6902389546f3e35e224ba77d851ddf8fb8b3e7fc86d94862a7d5017fab1df"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/arcane-02.2-days.csv",
+          "size": 6470,
+          "sha256": "237ec40b7abc6734376801e06df44adb04de869ea57cac97f97e83db588b3a33"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T16:56:36Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/arcane-02.2.xz`\n- Hour directories: 4350\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-30 01:03`, resumed `2025-03-30 03:03` \u2014 missing 1 hour(s)\n",
@@ -571,6 +618,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/arcane-02.3.json",
           "size": 11852,
           "sha256": "3aaf25d916e09c49f11872f3296ca289e861d8e638cd04279995982ee551331f"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/arcane-02.3-days.csv",
+          "size": 6471,
+          "sha256": "8156a59d580eb654727fb1c6af3985fac831968725753bd279c532f18d8f2908"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:00:51Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/arcane-02.3.xz`\n- Hour directories: 4350\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (2 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-04-18 22:06`, resumed `2025-04-19 00:06` \u2014 missing 1 hour(s)\n",
@@ -622,6 +674,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/avatar-the-last-airbender-2024-01.json",
           "size": 11461,
           "sha256": "e323c6a9230e4e127cac652f9dd79036ed9dcdfc7f8cb9223acfc7554ce863a8"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/avatar-the-last-airbender-2024-01-days.csv",
+          "size": 105,
+          "sha256": "38944f3449d432e7e75b199d7e0815fb266377a2bcaca9f7b8e886be49253a02"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:04:04Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/avatar-the-last-airbender-2024-01.xz`\n- Hour directories: 4357\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (7 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-07-06 19:00`, resumed `2024-07-06 21:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-07-16 23:00`, resumed `2024-07-17 05:00` \u2014 missing 5 hour(s)\n",
@@ -673,6 +730,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/bad-monkey-109.json",
           "size": 11972,
           "sha256": "3c9cc36a50c24c095345b1586606348b3d63a48fa5f609027f2bbae5dd2afb95"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/bad-monkey-109-days.csv",
+          "size": 3657,
+          "sha256": "a35722c7b45b4fd1fccd745eb374ba1e5703ac800e7468dea29c7ffcaf4f0779"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:08:24Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/bad-monkey-109.xz`\n- Hour directories: 2502\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -724,6 +786,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/bear-03.json",
           "size": 10292,
           "sha256": "3085ed2d1247558474c155c57ffbcc5a68018d46a79b6869cb8ea837eee2b570"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/bear-03-days.csv",
+          "size": 6632,
+          "sha256": "80e33afb4685e74219e221d3519a9cbe45732a390cc7d21e3989445ba1b2269c"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-25T22:08:21Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/bear-03.xz`\n- Hour directories: 4481\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (48 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-12 22:00`, resumed `2024-12-13 00:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-12-28 22:00`, resumed `2024-12-30 22:00` \u2014 missing 47 hour(s)\n- missing day: `2024-12-29`\n",
@@ -775,6 +842,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/beverly-hills-cop-axel-f.json",
           "size": 9407,
           "sha256": "65f6ed898f3a1d8e65675ca4735e16393766f99216076961bbfa9e7760ae86e8"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/beverly-hills-cop-axel-f-days.csv",
+          "size": 3693,
+          "sha256": "aa3ea52ad9867fc5f83e285c47b9382eb492cdfa79315093e22bdd26f08f0ab8"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:12:15Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/beverly-hills-cop-axel-f.xz`\n- Hour directories: 2491\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (18 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-07-15 12:06`, resumed `2024-07-16 00:06` \u2014 missing 11 hour(s)\n- hourly gap: last `2024-08-14 23:06`, resumed `2024-08-15 07:06` \u2014 missing 7 hour(s)\n",
@@ -826,6 +898,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/blink-twice.json",
           "size": 9918,
           "sha256": "74ae7b6b5df3ada1c7e0edd3166596b5759cfb559749c905408d2ed8395cfcff"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/blink-twice-days.csv",
+          "size": 3971,
+          "sha256": "579e38b777b510815d64952e20e9b0404427ad23012dad91db450ae8e289fdac"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:17:09Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/blink-twice.xz`\n- Hour directories: 2712\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -877,6 +954,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/boy-and-the-heron.json",
           "size": 8823,
           "sha256": "88a92b86526b311afe8701d3a916a136fe1aba484c3f4aabfed524da88cd670a"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/boy-and-the-heron-days.csv",
+          "size": 6658,
+          "sha256": "6a6f3bc02b3ca3c4e3bbfac84e593d3b01ee4b5e4b648a28464e1c49d362ac87"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-29T15:43:07Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/boy-and-the-heron.xz`\n- Hour directories: 4709\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (7 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-07 22:06`, resumed `2024-12-08 06:06` \u2014 missing 7 hour(s)\n",
@@ -928,6 +1010,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/boys-401.json",
           "size": 16764,
           "sha256": "7c468be9a333c0da079d4ba30006eb6c836ff74d73c1b67040086a504eb9bb2f"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/boys-401-days.csv",
+          "size": 6459,
+          "sha256": "7d9112d0333250bea135eed8eae4b354d3ed0aa97719c295fb78b7cb31811325"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:21:19Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/boys-401.xz`\n- Hour directories: 4270\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 6 (94 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-07-21 22:06`, resumed `2024-07-22 19:06` \u2014 missing 20 hour(s)\n- hourly gap: last `2024-08-11 22:06`, resumed `2024-08-12 15:06` \u2014 missing 16 hour(s)\n- hourly gap: last `2024-08-12 22:06`, resumed `2024-08-13 00:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-08-14 22:06`, resumed `2024-08-16 21:22` \u2014 missing 46 hour(s)\n- hourly gap: last `2024-08-17 22:06`, resumed `2024-08-18 09:06` \u2014 missing 10 hour(s)\n- hourly gap: last `2024-08-18 22:06`, resumed `2024-08-19 00:06` \u2014 missing 1 hour(s)\n- missing day: `2024-08-15`\n",
@@ -979,6 +1066,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/brothers-sun-01.json",
           "size": 7098,
           "sha256": "133815f32edca19af8746808e295db6254b149ae54dff8c3e50d6b1765223835"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/brothers-sun-01-days.csv",
+          "size": 3805,
+          "sha256": "c3e1c8af279a56c782283b4c7e54eb40e01e97c373b8e63e7444054f69b4db7c"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:22:55Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/brothers-sun-01.xz`\n- Hour directories: 2613\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 14 (59 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-04 14:03`, resumed `2024-04-04 16:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-05 06:03`, resumed `2024-04-05 08:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-05 12:03`, resumed `2024-04-05 14:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-05 21:03`, resumed `2024-04-05 23:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-07 23:03`, resumed `2024-04-08 01:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-09 17:03`, resumed `2024-04-09 19:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-09 21:03`, resumed `2024-04-09 23:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-10 01:03`, resumed `2024-04-10 03:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-15 21:03`, resumed `2024-04-15 23:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-17 00:03`, resumed `2024-04-17 02:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-18 02:03`, resumed `2024-04-18 04:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-19 23:03`, resumed `2024-04-21 00:03` \u2014 missing 24 hour(s)\n- hourly gap: last `2024-04-21 00:03`, resumed `2024-04-22 00:03` \u2014 missing 23 hour(s)\n- missing day: `2024-04-20`\n",
@@ -1030,6 +1122,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/diplomat-02.json",
           "size": 10386,
           "sha256": "87373d1b47ad854fdb1f8c2c5e733fb9c3b5ce502bf2b33347f49783f86eeadd"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/diplomat-02-days.csv",
+          "size": 3281,
+          "sha256": "e514ec6ba9e0c0ac4aca7d7df736c4d912a098e8110fa13883eb77670f662815"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:26:10Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/diplomat-02.xz`\n- Hour directories: 2497\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (7 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-07 22:03`, resumed `2024-12-08 06:03` \u2014 missing 7 hour(s)\n",
@@ -1081,6 +1178,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/dune-2024.json",
           "size": 11515,
           "sha256": "f980a9982cfdde5aabd149e19af1e79064808ede8569a5420426bc3230ebbe45"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/dune-2024-days.csv",
+          "size": 6554,
+          "sha256": "0a34792a167ce94f3ee5c2b2fd187a97bab0f0ef7f0d20ed1b0c23e2e3331c26"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:26:58Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/dune-2024.xz`\n- Hour directories: 4354\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1132,6 +1234,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/echo-01.json",
           "size": 10306,
           "sha256": "a2825175920c7da34976b121730eab9a767dbe02845b7745605cbf7006e14789"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/echo-01-days.csv",
+          "size": 6253,
+          "sha256": "13caef052b12835ba119054757f533e3da077b78b77a6198f480a566c00b3317"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:28:01Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/echo-01.xz`\n- Hour directories: 4346\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 4 (16 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-02-10 22:00`, resumed `2024-02-11 00:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-02-16 19:00`, resumed `2024-02-17 09:03` \u2014 missing 13 hour(s)\n- hourly gap: last `2024-02-24 01:03`, resumed `2024-02-24 03:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` \u2014 missing 1 hour(s)\n",
@@ -1183,6 +1290,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/emilia-perez.json",
           "size": 8433,
           "sha256": "0d93a628f7a4642523e37eb6aa43b9db4260fd7b8bea703d027af1ba85d86ec7"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/emilia-perez-days.csv",
+          "size": 6198,
+          "sha256": "a945bfecd7aad76144402c4a5b9e9c8627edfc9b5e20b09226497d51b7522183"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:32:13Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/emilia-perez.xz`\n- Hour directories: 4278\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (73 missing hours)\n- Missing days: 3\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-01-28 23:06`, resumed `2025-02-01 00:06` \u2014 missing 72 hour(s)\n- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` \u2014 missing 1 hour(s)\n- missing day: `2025-01-29`\n- missing day: `2025-01-30`\n- missing day: `2025-01-31`\n",
@@ -1234,6 +1346,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fallout-2024-01.json",
           "size": 9458,
           "sha256": "cbb86eb5c9d64f8322911fd7328509a5cef0cc8112faaeb8e45f5bc3f2585b10"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fallout-2024-01-days.csv",
+          "size": 6541,
+          "sha256": "8e5ae8c07d375bcf6e665ea5df7a088ecc09c1424978cd13345dc2540deb6c0a"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:37:50Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/fallout-2024-01.xz`\n- Hour directories: 4360\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1285,6 +1402,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fantasmas-01.json",
           "size": 6210,
           "sha256": "61a1306464dc437d51a48bd31298ed136cffe7c6f55793c58206d7c98a009d3c"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fantasmas-01-days.csv",
+          "size": 2535,
+          "sha256": "0e26fb23b1b2638ca16ad2422f764e98bc37debbe97580b9f5be74eec7b0e4dd"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:38:21Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/fantasmas-01.xz`\n- Hour directories: 1830\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (11 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-07-15 12:06`, resumed `2024-07-16 00:06` \u2014 missing 11 hour(s)\n",
@@ -1336,6 +1458,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fargo-510.json",
           "size": 21356,
           "sha256": "984e6a591691a5fb8637a162dd5773ca1f0fe095c7e812e1465b47e1ada1a011"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fargo-510-days.csv",
+          "size": 2438,
+          "sha256": "7f59e42dd37f4c6ec9c406de9bddf0378f8bb93f7b4382293e04065061f3163b"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:40:47Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/fargo-510.xz`\n- Hour directories: 1673\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1438,6 +1565,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/for-all-mankind-410.json",
           "size": 15580,
           "sha256": "9b5c31d86d93a57ced143aa0a4e4ac8e7e75945a6d1a4b6aabf4f9c5eb12ef33"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/for-all-mankind-410-days.csv",
+          "size": 3527,
+          "sha256": "2c2f346b812d459c184171724dbfec9479df3af00fab76e7cc9d290a4e6cef3e"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:48:33Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/for-all-mankind-410.xz`\n- Hour directories: 2489\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (13 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 09:00` \u2014 missing 12 hour(s)\n- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` \u2014 missing 1 hour(s)\n",
@@ -1489,6 +1621,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/godzilla-minus-one.json",
           "size": 8907,
           "sha256": "1bc763ab3cd03853c41f051173cc1d610ef1fcf6577aa40e16f6557519c2fece"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/godzilla-minus-one-days.csv",
+          "size": 6467,
+          "sha256": "4770bc94e0db043860aaee82286df543ab078c44ebea7ddbee2e2fc5227eec2d"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T17:53:50Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/godzilla-minus-one.xz`\n- Hour directories: 4348\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (18 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-07-10 05:03`, resumed `2024-07-11 00:03` \u2014 missing 18 hour(s)\n",
@@ -1540,6 +1677,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/godzilla-x-kong-the-new-empire.json",
           "size": 8439,
           "sha256": "e49c43048a823a1317b1a4bcbc3d779e4af0694478d8d8fb5cbfcf888cfc0e15"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/godzilla-x-kong-the-new-empire-days.csv",
+          "size": 6441,
+          "sha256": "4a255c664a5919cf920d25341dc5a98f1844a5c42089ac99c5ca68b3b214e982"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T18:34:49Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/godzilla-x-kong-the-new-empire.xz`\n- Hour directories: 4365\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1642,6 +1784,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/hit-man.json",
           "size": 6843,
           "sha256": "baa4f9670f4848037d96041f6cee80719dce49b1adba597ee9e11fa38d325bf9"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/hit-man-days.csv",
+          "size": 2559,
+          "sha256": "dc0a4fef08f93577562c8b79ac98e1dc0600edffc267ecf6671ee43f89b77553"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T22:23:24Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/hit-man.xz`\n- Hour directories: 2536\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1693,6 +1840,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/hit-monkey-02.json",
           "size": 9802,
           "sha256": "9c4dbc5b7176fa253d59939e66cf9563d72b51d8d946c470abfcf7fc88f33bc4"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/hit-monkey-02-days.csv",
+          "size": 3209,
+          "sha256": "1abdb44f97c38ec59a068b3f8cf08f8b11d3aedadfa1e37a52da3fa4ca531a58"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T18:42:09Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/hit-monkey-02.xz`\n- Hour directories: 2516\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1744,6 +1896,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/house-of-the-dragon-201.json",
           "size": 23941,
           "sha256": "bb34da533c1d983ea697d1908ffc1b019d1751f2bce32487f62a02b9132fc4ad"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/house-of-the-dragon-201-days.csv",
+          "size": 6491,
+          "sha256": "c7654ff68e341b91e30c84a8346df8de31115785c20a0c77276a17dbdd4c3fdf"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T18:43:43Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-201.xz`\n- Hour directories: 4363\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1795,6 +1952,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/house-of-the-dragon-207.json",
           "size": 23940,
           "sha256": "9574837a6540d44974cc95bb28607192dd4229c959d5438bbebd349c3bdb5bf8"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/house-of-the-dragon-207-days.csv",
+          "size": 6460,
+          "sha256": "84833f9cebaf6b48f02f532f7456cf4285d6e6d8e94aef4d122868d4980902c5"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T18:47:30Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-207.xz`\n- Hour directories: 4334\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (31 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-10-19 23:03`, resumed `2024-10-21 00:03` \u2014 missing 24 hour(s)\n- hourly gap: last `2024-11-29 10:03`, resumed `2024-11-29 18:03` \u2014 missing 7 hour(s)\n- missing day: `2024-10-20`\n",
@@ -1846,6 +2008,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/inside-out-2.json",
           "size": 10929,
           "sha256": "b643c1417e6cf3ec90941086ebbc9ad5c5920d00c5e010f02600e4ffa48f1662"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/inside-out-2-days.csv",
+          "size": 6884,
+          "sha256": "d0df9b917d7bd945a68117dd871a69d3b51eb66ab88c5dc9eeb7210301fcf85c"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T20:35:34Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/inside-out-2.xz`\n- Hour directories: 4613\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1897,6 +2064,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/interior-chinatown-01.json",
           "size": 9792,
           "sha256": "f3f0d2caa7a89c601b3497304aab920038095203ea4a38463c4689479262ec0a"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/interior-chinatown-01-days.csv",
+          "size": 6343,
+          "sha256": "ce866375e374b1600d8982bd5fc50ba4e2dfcbd980a690a178a250f55fd39408"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T20:35:34Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/interior-chinatown-01.xz`\n- Hour directories: 4351\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-30 01:00`, resumed `2025-03-30 03:00` \u2014 missing 1 hour(s)\n",
@@ -1948,6 +2120,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/killer-2024.json",
           "size": 8858,
           "sha256": "0c5da42ca00756b9b88f10f0745627478d1d2d637214ccf2bd58f740b71dd41c"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/killer-2024-days.csv",
+          "size": 3979,
+          "sha256": "78e937644e38e6bc56aa212b0f3ebe87a61ae6fa18a1af0990ae3bae47fc57d4"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T19:03:26Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/killer-2024.xz`\n- Hour directories: 2719\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -1999,6 +2176,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/kingdom-of-the-planet-of-the-apes.json",
           "size": 7980,
           "sha256": "99df2bcfc4b9173061823734add51a9972a26f80761056bf494f47ddb89875a0"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/kingdom-of-the-planet-of-the-apes-days.csv",
+          "size": 6522,
+          "sha256": "71030e330e909dd56582b53f7995566a4bd1a36967c0d1d75b0a613caf1341f8"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T20:35:34Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/kingdom-of-the-planet-of-the-apes.xz`\n- Hour directories: 4363\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-10-27 22:00`, resumed `2024-10-28 00:00` \u2014 missing 1 hour(s)\n",
@@ -2050,6 +2232,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/laid-01.json",
           "size": 7769,
           "sha256": "a0cf6a07c4fa39ed3614814dc865470f0a3d863433b2e021c8d7558d8742f323"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/laid-01-days.csv",
+          "size": 3826,
+          "sha256": "d373ca57d9e4bca14a0d8096637611643bc01c186adcf8a966baa310bc0f80c0"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-21T05:55:26Z\n- Sample directory: `/home/bkoz/src/alpha60-samples/laid-01`\n- Hour directories: 2666\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` \u2014 missing 1 hour(s)\n",
@@ -2101,6 +2288,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/madness-01.json",
           "size": 8621,
           "sha256": "5c499250017ac04d9372a0b02193588ee6490664c962de59e1170cefc26be1be"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/madness-01-days.csv",
+          "size": 2419,
+          "sha256": "dc4f429b331249d5aa7a3b565562bdc1a270292d7ca17a2f44b42b073582b6d5"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T20:51:29Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/madness-01.xz`\n- Hour directories: 2475\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (26 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-01-10 22:00`, resumed `2025-01-12 01:00` \u2014 missing 26 hour(s)\n- missing day: `2025-01-11`\n",
@@ -2152,6 +2344,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/masters-of-the-air-101.json",
           "size": 15307,
           "sha256": "f263f85a2fd730c2cb25d5561fb7581d25bee2a7e408cf2c0f81cbb97916ddb4"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/masters-of-the-air-101-days.csv",
+          "size": 6422,
+          "sha256": "7b03e76e84b1d3b30fd8c0eae6a7295a3039e3877b5c7aa2a8bc1c282ad861f2"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T20:53:56Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/masters-of-the-air-101.xz`\n- Hour directories: 4336\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (13 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 08:44` \u2014 missing 12 hour(s)\n- hourly gap: last `2024-03-31 01:06`, resumed `2024-03-31 03:06` \u2014 missing 1 hour(s)\n",
@@ -2203,6 +2400,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/masters-of-the-air-108.json",
           "size": 15307,
           "sha256": "66e353dcab543cc28601ac3cc17d7875155f5cc5f6bdd0d467f967b81cd58de3"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/masters-of-the-air-108-days.csv",
+          "size": 4186,
+          "sha256": "433fd614322a0273789ead94143ed9e2dd391ac9ba6b2ffd97075ef29d7db733"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T20:57:58Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/masters-of-the-air-108.xz`\n- Hour directories: 2850\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` \u2014 missing 1 hour(s)\n",
@@ -2254,6 +2456,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/monarch-legacy-of-monsters-110.json",
           "size": 10433,
           "sha256": "ab2f830618e13ab5429ed3876ff6bbf96f775d57d83fc4c26cb3808867459b66"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/monarch-legacy-of-monsters-110-days.csv",
+          "size": 5083,
+          "sha256": "5f7193d58dda2239d58ee487916f22b48dc08e27bf35b9d9f058b777a4b0021a"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T20:58:42Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-110.xz`\n- Hour directories: 3480\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (41 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-03-31 01:06`, resumed `2024-03-31 03:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-20 06:06`, resumed `2024-04-21 00:06` \u2014 missing 17 hour(s)\n- hourly gap: last `2024-04-21 00:06`, resumed `2024-04-22 00:06` \u2014 missing 23 hour(s)\n",
@@ -2305,6 +2512,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/monsieur-spade-01.json",
           "size": 5886,
           "sha256": "20f2710d373911cc92538d3f04a265971579a72e94ca969fe1094a09dc511888"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/monsieur-spade-01-days.csv",
+          "size": 3598,
+          "sha256": "9b046c7ceb8ef4bf55b032e25bce0ab6d3c8c4356b4fe6ef4fdaa298c20f8f65"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:00:58Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/monsieur-spade-01.xz`\n- Hour directories: 2509\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (11 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 06:03` \u2014 missing 10 hour(s)\n- hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` \u2014 missing 1 hour(s)\n",
@@ -2356,6 +2568,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/mr-and-mrs-smith-2024-01.json",
           "size": 8329,
           "sha256": "96d2ee7ef9744803a1cab1ad8ec83222cacdca742d9e55d6921a08b772056694"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/mr-and-mrs-smith-2024-01-days.csv",
+          "size": 3688,
+          "sha256": "1ee89d715072c32d78d29791b0c5e9fc30f610942badf5b73fd9556a8538a078"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:04:50Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/mr-and-mrs-smith-2024-01.xz`\n- Hour directories: 2838\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (10 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 05:51` \u2014 missing 9 hour(s)\n- hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` \u2014 missing 1 hour(s)\n",
@@ -2407,6 +2624,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/old-man-201.json",
           "size": 10335,
           "sha256": "ccf9b3e7fc9398ec637eb383a7e13567c3b58bf821afd2d7d261c8563ba68388"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/old-man-201-days.csv",
+          "size": 3210,
+          "sha256": "95bb1690fc50c7839f3e5198e74cc03500b93b8daee2216847ca706accfd78cd"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:04:57Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/old-man-201.xz`\n- Hour directories: 2511\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (7 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-07 22:00`, resumed `2024-12-08 06:00` \u2014 missing 7 hour(s)\n",
@@ -2458,6 +2680,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/only-murders-in-the-building-401.json",
           "size": 8949,
           "sha256": "3c7378e1578fd6390f65810580080eb324b5c31b8095f8c96513b564df78bb51"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/only-murders-in-the-building-401-days.csv",
+          "size": 6253,
+          "sha256": "d81a9219bcf3c0ec5272040f9c8b3a03906461b26e39bb573461bdc16976036c"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:05:49Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/only-murders-in-the-building-401.xz`\n- Hour directories: 4290\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 5 (61 missing hours)\n- Missing days: 2\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-30 20:06`, resumed `2024-12-30 22:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-01-11 22:06`, resumed `2025-01-12 01:06` \u2014 missing 2 hour(s)\n- hourly gap: last `2025-02-08 22:06`, resumed `2025-02-10 00:06` \u2014 missing 25 hour(s)\n- hourly gap: last `2025-02-18 17:06`, resumed `2025-02-19 00:06` \u2014 missing 6 hour(s)\n- hourly gap: last `2025-02-20 22:06`, resumed `2025-02-22 02:06` \u2014 missing 27 hour(s)\n- missing day: `2025-02-09`\n- missing day: `2025-02-21`\n",
@@ -2509,6 +2736,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/only-murders-in-the-building-409.json",
           "size": 8949,
           "sha256": "bb3fe1264f41cce8f797c884f9f48fe1e06cde7eb827aadeff7f491c9a6eecf6"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/only-murders-in-the-building-409-days.csv",
+          "size": 3576,
+          "sha256": "4490275dc449d208dcb4a408e074ccdd6683073ce42026320a26d3a207c45c76"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:07:58Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/only-murders-in-the-building-409.xz`\n- Hour directories: 2517\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (3 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-30 20:03`, resumed `2024-12-30 22:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-01-11 22:03`, resumed `2025-01-12 01:03` \u2014 missing 2 hour(s)\n",
@@ -2611,6 +2843,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/penguin-101.json",
           "size": 7790,
           "sha256": "0fdcb7c747c1123cb3b56b4f6ca45edace4f67421cd63b296aaa3ae84d347c28"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/penguin-101-days.csv",
+          "size": 6455,
+          "sha256": "01a3c9ebaa2b720d4b05ca870ef4e071521e304b691663088c31d3e864c3b216"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:12:10Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/penguin-101.xz`\n- Hour directories: 4343\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (7 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-11-29 10:00`, resumed `2024-11-29 18:00` \u2014 missing 7 hour(s)\n",
@@ -2662,6 +2899,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/penguin-107.json",
           "size": 7791,
           "sha256": "41c2af47058a90727f958fa07f362b6f1ce3cd5a6bd51d2f0fcf15b2c5962daf"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/penguin-107-days.csv",
+          "size": 6191,
+          "sha256": "369e622930ffbf68b4811ed9afa3336a7406859b9807dcd6e9c9034e61b87a71"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:12:29Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/penguin-107.xz`\n- Hour directories: 4316\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (8 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-07 22:00`, resumed `2024-12-08 06:00` \u2014 missing 7 hour(s)\n- hourly gap: last `2025-03-30 01:00`, resumed `2025-03-30 03:00` \u2014 missing 1 hour(s)\n",
@@ -2713,6 +2955,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/reacher-208.json",
           "size": 15626,
           "sha256": "9cc6c7b258f87655f29397cfbd089458010719d065c6a29482c125cc6efbc951"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/reacher-208-days.csv",
+          "size": 3689,
+          "sha256": "9f588a64eac01b35a61b717ed3b1d5beca3ff5a84555409ff81749bec619bcfd"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:17:50Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/reacher-208.xz`\n- Hour directories: 2500\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (19 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-02-12 23:03`, resumed `2024-02-13 07:03` \u2014 missing 7 hour(s)\n- hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 07:06` \u2014 missing 11 hour(s)\n- hourly gap: last `2024-03-31 01:06`, resumed `2024-03-31 03:06` \u2014 missing 1 hour(s)\n",
@@ -2764,6 +3011,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/rings-of-power-201.json",
           "size": 5682,
           "sha256": "9b8eacc133c3c4a33477e29a238a696009663ce0b8a71bbe7a90067df998cf2c"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/rings-of-power-201-days.csv",
+          "size": 6439,
+          "sha256": "7ba751b99ca9878898980325b0196ae866831150df3ba39c149f1d2f650af873"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:22:31Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/rings-of-power-201.xz`\n- Hour directories: 4302\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (49 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-12 22:00`, resumed `2024-12-13 00:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-12-28 22:00`, resumed `2024-12-30 22:00` \u2014 missing 47 hour(s)\n- hourly gap: last `2025-01-19 22:00`, resumed `2025-01-20 00:00` \u2014 missing 1 hour(s)\n- missing day: `2024-12-29`\n",
@@ -2815,6 +3067,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/rings-of-power-207.json",
           "size": 5682,
           "sha256": "3f17679c37fb76fcbb01c0c89f9465fc3ae724055ad82375cc043f79f7539967"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/rings-of-power-207-days.csv",
+          "size": 6106,
+          "sha256": "abbaaf798d68476185affd77dd6e3ab1e8447d6b984c87a7f2e454f2ed87778d"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:26:06Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/rings-of-power-207.xz`\n- Hour directories: 4331\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (32 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-11-24 23:00`, resumed `2024-11-26 00:00` \u2014 missing 24 hour(s)\n- hourly gap: last `2024-11-29 10:00`, resumed `2024-11-29 18:00` \u2014 missing 7 hour(s)\n- hourly gap: last `2025-03-30 01:00`, resumed `2025-03-30 03:00` \u2014 missing 1 hour(s)\n- missing day: `2024-11-25`\n",
@@ -2866,6 +3123,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/road-house-2024.json",
           "size": 9450,
           "sha256": "c6f06fd027c4bab1fcdb8e44cc94dfcdbadd653461a7e1fe3e5b368cd2d28248"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/road-house-2024-days.csv",
+          "size": 3595,
+          "sha256": "65fa5ca7270e67afc84345a105b1c92b77bfb624cb876d4e2d9126b137273a90"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:27:57Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/road-house-2024.xz`\n- Hour directories: 4298\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 5 (51 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-04-20 06:03`, resumed `2024-04-21 00:03` \u2014 missing 17 hour(s)\n- hourly gap: last `2024-04-21 00:03`, resumed `2024-04-21 23:37` \u2014 missing 22 hour(s)\n- hourly gap: last `2024-05-22 22:03`, resumed `2024-05-23 00:03` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-07-15 12:03`, resumed `2024-07-15 23:20` \u2014 missing 10 hour(s)\n",
@@ -3019,6 +3281,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/silo-201.json",
           "size": 17019,
           "sha256": "0343f6007eb92af5def2a3c159000cabdbc685b688fe970c2c7c3a38c3dffb5f"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/silo-201-days.csv",
+          "size": 6462,
+          "sha256": "11132eeeda721a77c8c2db0efb94d7198dc4b32fdbb93fc80984c93661b0605b"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:40:57Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/silo-201.xz`\n- Hour directories: 4361\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` \u2014 missing 1 hour(s)\n",
@@ -3070,6 +3337,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/snowpiercer-401.json",
           "size": 16073,
           "sha256": "c870df109116088595db0e3c0e6953ce9cc7992240d989fe043b286c5c91f70e"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/snowpiercer-401-days.csv",
+          "size": 3586,
+          "sha256": "1ac9b995b67c75b67d91c33cbab41db0b336992d290ae25c5250ea5160595c12"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:44:43Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/snowpiercer-401.xz`\n- Hour directories: 2422\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 6 (95 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-07-21 22:00`, resumed `2024-07-22 19:00` \u2014 missing 20 hour(s)\n- hourly gap: last `2024-08-11 22:00`, resumed `2024-08-12 15:00` \u2014 missing 16 hour(s)\n- hourly gap: last `2024-08-12 22:00`, resumed `2024-08-13 00:00` \u2014 missing 1 hour(s)\n- hourly gap: last `2024-08-14 22:00`, resumed `2024-08-16 22:00` \u2014 missing 47 hour(s)\n- hourly gap: last `2024-08-17 22:00`, resumed `2024-08-18 09:00` \u2014 missing 10 hour(s)\n- hourly gap: last `2024-08-18 22:00`, resumed `2024-08-19 00:00` \u2014 missing 1 hour(s)\n- missing day: `2024-08-15`\n",
@@ -3121,6 +3393,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/special-ops-lioness-201.json",
           "size": 13244,
           "sha256": "06cf89f8b13f7c8e25640a6dcc9dccd1e189145a29856cfff32b45586d5600ff"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/special-ops-lioness-201-days.csv",
+          "size": 2908,
+          "sha256": "3fee9ed5cc1f1722163c70b1f95fe974773db39e098ec44645a166ccb2fcc6a8"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:44:51Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/special-ops-lioness-201.xz`\n- Hour directories: 2492\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (25 missing hours)\n- Missing days: 1\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-01-10 22:03`, resumed `2025-01-12 00:54` \u2014 missing 25 hour(s)\n- missing day: `2025-01-11`\n",
@@ -3172,6 +3449,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/squid-game-02.json",
           "size": 7287,
           "sha256": "7ce2061325cb7b24912834393430328723242c7413f58dd0a4a6788e70ef0c15"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/squid-game-02-days.csv",
+          "size": 6520,
+          "sha256": "db34be5f5f77a95fb98dc684ac0fc67252c001379b74245d7c4b0e9d79a8845d"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:47:35Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/squid-game-02.xz`\n- Hour directories: 4346\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 2 (2 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-03-19 22:06`, resumed `2025-03-20 00:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` \u2014 missing 1 hour(s)\n",
@@ -3274,6 +3556,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/sugar-107.json",
           "size": 12940,
           "sha256": "47f4fde0f9df6e0214371055cdbd885c4ebfe28533ac087eb00158b81d886a8f"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/sugar-107-days.csv",
+          "size": 3619,
+          "sha256": "d5bfd25c9999906b6e5b7459bf8caaff46e81e7c7a7384b35e5a98f675cf80c5"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:48:34Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/sugar-107.xz`\n- Hour directories: 2513\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -3478,6 +3765,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/what-if-2021-03.json",
           "size": 6289,
           "sha256": "eddd91789b9eb609bb673e45035d4d0f6a968a94ac650d6141e168f6bd50cc6a"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/what-if-2021-03-days.csv",
+          "size": 6310,
+          "sha256": "6b40d8da2a4c29d13db06a079d0698aa84e920c7a987a03117f38fd7d073d349"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:57:35Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/what-if-2021-03.xz`\n- Hour directories: 4241\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 4 (104 missing hours)\n- Missing days: 4\n\n## Sample archive discontinuities\n\n- hourly gap: last `2025-01-10 22:06`, resumed `2025-01-12 01:06` \u2014 missing 26 hour(s)\n- hourly gap: last `2025-03-14 22:06`, resumed `2025-03-15 03:06` \u2014 missing 4 hour(s)\n- hourly gap: last `2025-03-30 01:06`, resumed `2025-03-30 03:06` \u2014 missing 1 hour(s)\n- hourly gap: last `2025-06-11 22:06`, resumed `2025-06-15 00:06` \u2014 missing 73 hour(s)\n- missing day: `2025-01-11`\n- missing day: `2025-06-12`\n- missing day: `2025-06-13`\n- missing day: `2025-06-14`\n",
@@ -3529,6 +3821,11 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/wild-robot.json",
           "size": 9868,
           "sha256": "e89cc0368f5b221430c6b7954b22bd7205415f0da6fc08bbcd25df7de0b51e5c"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/wild-robot-days.csv",
+          "size": 6582,
+          "sha256": "a47659a0cb491bed03e2bffa9aa43af14e30be83d3e1f18004b1b210ccf8caa7"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:58:09Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/wild-robot.xz`\n- Hour directories: 4400\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (136 missing hours)\n- Missing days: 5\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-26 08:03`, resumed `2024-12-30 00:03` \u2014 missing 87 hour(s)\n- hourly gap: last `2025-01-07 23:03`, resumed `2025-01-10 00:03` \u2014 missing 48 hour(s)\n- hourly gap: last `2025-03-30 01:03`, resumed `2025-03-30 03:03` \u2014 missing 1 hour(s)\n- missing day: `2024-12-27`\n- missing day: `2024-12-28`\n- missing day: `2024-12-29`\n- missing day: `2025-01-08`\n- missing day: `2025-01-09`\n",
