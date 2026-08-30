@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Hit Man |
 | Collection key | `hit-man` |
 | imdb_id | [tt20215968](https://www.imdb.com/title/tt20215968/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Hit Man (2023 film)](https://en.wikipedia.org/wiki/Hit_Man_(2023_film)) |
 | Sample dates | 2024-06-06-to-2024-09-19 |
-| Sample days | 106 (2024–2024) |
+| Sample days | 106 |
 | BTIH count | 204 |
 | Unique BTIH count | 174 |
 | Downloaders total | 19,306,820 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T22:23:24Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/hit-man.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Hit Man collection size histogram](figures/hit-man-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ None detected.
 
 ### Downloads by week cumulative (normalized start)
 
-![hit-man downloads by week](figures/hit-man-downloads-by-week-hit-man-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/hit-man-downloads-by-week-hit-man-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ None detected.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ None detected.
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/hit-man-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/hit-man-data-ge-1080p.webp)](figures/hit-man-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/hit-man-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/hit-man-data-lt-1080p.webp)](figures/hit-man-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
