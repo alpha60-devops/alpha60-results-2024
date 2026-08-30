@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Feud |
 | Collection key | `feud-02` |
 | imdb_id | [tt1984119](https://www.imdb.com/title/tt1984119/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Feud (American TV series)](https://en.wikipedia.org/wiki/Feud_(American_TV_series)) |
 | Sample dates | 2024-02-01-to-2024-05-22 |
-| Sample days | 112 (2024–2024) |
+| Sample days | 112 |
 | BTIH count | 256 |
 | Unique BTIH count | 246 |
 | Downloaders total | 14,163,755 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:43:20Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/feud-02.xz`
@@ -41,7 +41,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` — missing 1 hour(s)
 - hourly gap: last `2024-05-15 23:00`, resumed `2024-05-16 17:05` — missing 17 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Feud collection size histogram](figures/feud-02-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -49,7 +49,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![feud-02 downloads by week](figures/feud-02-downloads-by-week-feud-02-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/feud-02-downloads-by-week-feud-02-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -57,7 +70,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -71,8 +84,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/feud-02-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/feud-02-data-ge-1080p.webp)](figures/feud-02-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/feud-02-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/feud-02-data-lt-1080p.webp)](figures/feud-02-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
