@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "wild-robot",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:46:30.872276+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt29623480",
+    "external_imdb": "tt29623480",
+    "wikidata_id": "Q124378349",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Wild_Robot"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/wild-robot-cumulative.json",
+      "size": 15723,
+      "sha256": "92229023f69d64b2eeab44087619f0988cf3c51540f4e77d17b172a831efc7d6"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/wild-robot-week.json",
+      "size": 3543951,
+      "sha256": "38390336a5c76d03033084d95b9f2b1c69f1388b70f64bdeb65a8dfccb7b7681"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/wild-robot-cumulative-ip-swarm.json",
+      "size": 43627,
+      "sha256": "0111a3435067eb360482cf0d084b380c95ac6ea33efd502fe2ee283122adc464"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/wild-robot-cumulative-btiha-media-objects.json",
+      "size": 1620353,
+      "sha256": "cf9ecbb17e0f91e6853806f687961e8a12b98579ff8e77ea9a2569de5180e15b"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/wild-robot-cumulative-aggregate.geojson.gz",
+      "size": 1399671,
+      "sha256": "f9c22cbef33b91a1c279c0b5d82a7c44201b706cfe3263b37fec46e9f12e7a75"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/wild-robot-cumulative-btiha.geojson.gz",
+      "size": 49401025,
+      "sha256": "dcdaefa1ec51930e31d8d405d8f8fb829eb92efc68036edb6db073068fc893b5"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/wild-robot-downloads-by-week-wild-robot-week.svg",
+      "size": 32454,
+      "sha256": "de56716005ec2877928117cd88792c7c7084e5a00f5bb810f85fe7ecddf4f5a4"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/wild-robot-downloads-by-day-day.svg",
+      "size": 28427,
+      "sha256": "b288b5d70576fc49950f76eb1748283ee96a1931c89393571634f95b305ec935"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/wild-robot.json",
+      "size": 9868,
+      "sha256": "e89cc0368f5b221430c6b7954b22bd7205415f0da6fc08bbcd25df7de0b51e5c"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/wild-robot-days.csv",
+      "size": 6582,
+      "sha256": "a47659a0cb491bed03e2bffa9aa43af14e30be83d3e1f18004b1b210ccf8caa7"
+    }
+  },
+  "coverage_sha256": "7c55e127fcf18bbfa295451682214311ca4ba72e5ca0adef34cca09df61ba073",
+  "published_files": {
+    "docs/itemized/wild-robot-sample-cache-audit.md": "f43765cc85e000f42ca8ae3f27e01cd9b0fb12a6006c8d10d5b20e5ee6b68cc8",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/wild-robot-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "ab771028a5209f896dc9ddd265da1313c0daca925f2d6f2c29dd88a934b955aa",
+    "docs/itemized/figures/wild-robot-cumulative-detail-btiha-itemized-by-bytes.svg": "5e3eb8f4cc098a0f923c8fbeff171c0456e149087da9e7ee89eff90a13267348",
+    "docs/itemized/figures/wild-robot-downloads-by-week-wild-robot-week.svg": "de56716005ec2877928117cd88792c7c7084e5a00f5bb810f85fe7ecddf4f5a4",
+    "docs/itemized/figures/wild-robot-downloads-by-day-day.svg": "b288b5d70576fc49950f76eb1748283ee96a1931c89393571634f95b305ec935",
+    "docs/itemized/figures/wild-robot-carto.png": "631926f5347a94aa465be6aea4d909cf7654a04e42f36e6f1eefef55e093b52c",
+    "docs/itemized/figures/wild-robot-carto-4k.webp": "6015abe6a8bcb040d00a1bf146d55cde417e22be5da5e55bab3162d41d155b7c",
+    "docs/itemized/figures/wild-robot-data-ge-1080p.webp": "195b667e07552bb3a8e4c24df61b39deba62459264f99794db549e75f1ad715c",
+    "docs/itemized/figures/wild-robot-data-ge-1080p-4k.webp": "2b964c6924419ca22239132888db8b054f1b67a2807ae8ea094320c9aaf84ab6",
+    "docs/itemized/figures/wild-robot-data-lt-1080p.webp": "2a73230971c742cb8795da3493bcb95b2e8773e734d7c1e4d1d5b4efb6112489",
+    "docs/itemized/figures/wild-robot-data-lt-1080p-4k.webp": "4b5e08104c31f261450433760e295022f1b7a1b091d39ef7ceaeb62b52b44ee8"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "wild-robot",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/wild-robot-days.csv",
+        "sha256": "a47659a0cb491bed03e2bffa9aa43af14e30be83d3e1f18004b1b210ccf8caa7",
+        "size": 6582
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/wild-robot-downloads-by-week-wild-robot-week.svg",
+        "sha256": "de56716005ec2877928117cd88792c7c7084e5a00f5bb810f85fe7ecddf4f5a4",
+        "size": 32454,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/wild-robot-downloads-by-day-day.svg",
+        "sha256": "b288b5d70576fc49950f76eb1748283ee96a1931c89393571634f95b305ec935",
+        "size": 28427,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/wild-robot-cumulative-btiha.geojson.gz",
+        "sha256": "dcdaefa1ec51930e31d8d405d8f8fb829eb92efc68036edb6db073068fc893b5",
+        "size": 49401025
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/wild-robot-cumulative-btiha-media-objects.json",
+        "sha256": "cf9ecbb17e0f91e6853806f687961e8a12b98579ff8e77ea9a2569de5180e15b",
+        "size": 1620353
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 39,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 27,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Ashburn",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          75.0,
+          69.0,
+          50.0,
+          37.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Yekaterinburg",
+          "Novosibirsk",
+          "Amsterdam"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          70.0,
+          60.0,
+          49.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}

@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Wild Robot |
 | Collection key | `wild-robot` |
 | imdb_id | [tt29623480](https://www.imdb.com/title/tt29623480/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [The Wild Robot](https://en.wikipedia.org/wiki/The_Wild_Robot) |
 | Sample dates | 2024-10-16-to-2025-04-22 |
-| Sample days | 189 (2024–2025) |
+| Sample days | 189 |
 | BTIH count | 397 |
 | Unique BTIH count | 325 |
 | Downloaders total | 69,874,021 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:58:09Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/wild-robot.xz`
@@ -45,7 +45,7 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2025-01-08`
 - missing day: `2025-01-09`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Wild Robot collection size histogram](figures/wild-robot-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -53,7 +53,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![wild-robot downloads by week](figures/wild-robot-downloads-by-week-wild-robot-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/wild-robot-downloads-by-week-wild-robot-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -61,7 +74,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -75,8 +88,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/wild-robot-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/wild-robot-data-ge-1080p.webp)](figures/wild-robot-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/wild-robot-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/wild-robot-data-lt-1080p.webp)](figures/wild-robot-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
