@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Hit Monkey |
 | Collection key | `hit-monkey-02` |
 | imdb_id | [tt9811316](https://www.imdb.com/title/tt9811316/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Hit-Monkey (TV series)](https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)) |
 | Sample dates | 2024-07-16-to-2024-10-28 |
-| Sample days | 105 (2024–2024) |
+| Sample days | 105 |
 | BTIH count | 107 |
 | Unique BTIH count | 102 |
 | Downloaders total | 4,292,050 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T18:42:09Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/hit-monkey-02.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Hit Monkey collection size histogram](figures/hit-monkey-02-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ None detected.
 
 ### Downloads by week cumulative (normalized start)
 
-![hit-monkey-02 downloads by week](figures/hit-monkey-02-downloads-by-week-hit-monkey-02-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/hit-monkey-02-downloads-by-week-hit-monkey-02-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ None detected.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ None detected.
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/hit-monkey-02-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/hit-monkey-02-data-ge-1080p.webp)](figures/hit-monkey-02-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/hit-monkey-02-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/hit-monkey-02-data-lt-1080p.webp)](figures/hit-monkey-02-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

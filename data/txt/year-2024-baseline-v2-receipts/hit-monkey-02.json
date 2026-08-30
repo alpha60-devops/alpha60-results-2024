@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "hit-monkey-02",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:56:17.311608+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt9811316",
+    "external_imdb": "tt9811316",
+    "wikidata_id": "Q108640888",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/hit-monkey-02-cumulative.json",
+      "size": 15615,
+      "sha256": "a16e64a14816a0cb24daa1ce5b87983b2e78a7a6e4ee64f2d385c26455d06d2e"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/hit-monkey-02-week.json",
+      "size": 681580,
+      "sha256": "380b4da7edbe371f7eb7eb061544e8dec40aa8e04c0bb0c6818e09dc17042d8e"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/hit-monkey-02-cumulative-ip-swarm.json",
+      "size": 40531,
+      "sha256": "049951e8ec8a67dc484a74175d66a771918c5211c06dbcfdfe655776f2bd2501"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/hit-monkey-02-cumulative-btiha-media-objects.json",
+      "size": 202496,
+      "sha256": "8ba988a61de574e3d4486ee809a82f44bf48e4aae2d33f07d4dbb30e8bdcd9e8"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/hit-monkey-02-cumulative-aggregate.geojson.gz",
+      "size": 702209,
+      "sha256": "8db1aa451272c011726face4524df6e58b0a997241d89c45b658c3e4d326bb6f"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/hit-monkey-02-cumulative-btiha.geojson.gz",
+      "size": 5878335,
+      "sha256": "f306a12982514f37a641c8fd2466bf3e608b291e67c2b1184eaeb9fa4e0be960"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/hit-monkey-02-downloads-by-week-hit-monkey-02-week.svg",
+      "size": 23488,
+      "sha256": "ec5287f8129e041961ef89a96d6e8ab90af209204233c661df8b9a778b731f41"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/hit-monkey-02-downloads-by-day-day.svg",
+      "size": 24747,
+      "sha256": "e8e96abe656473543f71a4c763018cd2d26edacaf65b06b3146a93691f429716"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/hit-monkey-02.json",
+      "size": 9802,
+      "sha256": "9c4dbc5b7176fa253d59939e66cf9563d72b51d8d946c470abfcf7fc88f33bc4"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/hit-monkey-02-days.csv",
+      "size": 3209,
+      "sha256": "1abdb44f97c38ec59a068b3f8cf08f8b11d3aedadfa1e37a52da3fa4ca531a58"
+    }
+  },
+  "coverage_sha256": "cffcba567325eb2ad9eefcc823af02a0505c8d4aad1b00f06c3cfdbe8690ee55",
+  "published_files": {
+    "docs/itemized/hit-monkey-02-sample-cache-audit.md": "cb319f526d8db0aa51aa87dfc1ea74c6dcf73dc5b7616803419fa35aec3f3ab8",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/hit-monkey-02-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "d83158e9a25865a6fc68f6e78a03bbe7f5b92f265e04cfe553971271dd85403c",
+    "docs/itemized/figures/hit-monkey-02-cumulative-detail-btiha-itemized-by-bytes.svg": "30cf64135019dec3b1e3017bab59c57abe84350c3bbdb7327afe767e2823d994",
+    "docs/itemized/figures/hit-monkey-02-downloads-by-week-hit-monkey-02-week.svg": "ec5287f8129e041961ef89a96d6e8ab90af209204233c661df8b9a778b731f41",
+    "docs/itemized/figures/hit-monkey-02-downloads-by-day-day.svg": "e8e96abe656473543f71a4c763018cd2d26edacaf65b06b3146a93691f429716",
+    "docs/itemized/figures/hit-monkey-02-carto.png": "3782b8ac2d179be52a50fc13c7c6ffa275ee08b2e3c547f22c10c703e2cfa818",
+    "docs/itemized/figures/hit-monkey-02-carto-4k.webp": "d4c164ce8d5d657e74a382f9a1e0fd7bcd9a3f20bcc1c6a225fc1592736fc672",
+    "docs/itemized/figures/hit-monkey-02-data-ge-1080p.webp": "4d467ebc62894db7e505b6a9022aff8664ab0e2f6cdb681b594d738dc571f10c",
+    "docs/itemized/figures/hit-monkey-02-data-ge-1080p-4k.webp": "28f1cd21915eb3c5f5ea43c90b8d03c06d0dfc93a2a83e2bf5e8556cbe65d9ee",
+    "docs/itemized/figures/hit-monkey-02-data-lt-1080p.webp": "d3c1962e473a9bd8e5104ff3b72d26e6b9971f6b4a18fe3b0b1e615f4fb483dd",
+    "docs/itemized/figures/hit-monkey-02-data-lt-1080p-4k.webp": "fc44430a5af21fe55db3ee9b68692b6ade4ed21eca274de650eb51d2e4b0eed9"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "hit-monkey-02",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/hit-monkey-02-days.csv",
+        "sha256": "1abdb44f97c38ec59a068b3f8cf08f8b11d3aedadfa1e37a52da3fa4ca531a58",
+        "size": 3209
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/hit-monkey-02-downloads-by-week-hit-monkey-02-week.svg",
+        "sha256": "ec5287f8129e041961ef89a96d6e8ab90af209204233c661df8b9a778b731f41",
+        "size": 23488,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/hit-monkey-02-downloads-by-day-day.svg",
+        "sha256": "e8e96abe656473543f71a4c763018cd2d26edacaf65b06b3146a93691f429716",
+        "size": 24747,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/hit-monkey-02-cumulative-btiha.geojson.gz",
+        "sha256": "f306a12982514f37a641c8fd2466bf3e608b291e67c2b1184eaeb9fa4e0be960",
+        "size": 5878335
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/hit-monkey-02-cumulative-btiha-media-objects.json",
+        "sha256": "8ba988a61de574e3d4486ee809a82f44bf48e4aae2d33f07d4dbb30e8bdcd9e8",
+        "size": 202496
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 30,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 25,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Lelystad",
+          "Istanbul",
+          "London",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai",
+          "Incheon"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          87.0,
+          50.0,
+          36.0,
+          32.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Lelystad",
+          "Istanbul",
+          "London",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai",
+          "Ashburn"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          86.0,
+          47.0,
+          34.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
