@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | What if? |
 | Collection key | `what-if-2021-03` |
 | imdb_id | [tt10168312](https://www.imdb.com/title/tt10168312/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [What If...? (TV series)](https://en.wikipedia.org/wiki/What_If...%3F_(TV_series)) |
 | Sample dates | 2024-12-22-to-2025-06-21 |
-| Sample days | 182 (2024–2025) |
+| Sample days | 182 |
 | BTIH count | 455 |
 | Unique BTIH count | 435 |
 | Downloaders total | 58,886,486 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:57:35Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/what-if-2021-03.xz`
@@ -45,7 +45,7 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2025-06-13`
 - missing day: `2025-06-14`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![What if? collection size histogram](figures/what-if-2021-03-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -53,7 +53,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![what-if-2021-03 downloads by week](figures/what-if-2021-03-downloads-by-week-what-if-2021-03-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/what-if-2021-03-downloads-by-week-what-if-2021-03-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -61,7 +74,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -75,8 +88,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/what-if-2021-03-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/what-if-2021-03-data-ge-1080p.webp)](figures/what-if-2021-03-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/what-if-2021-03-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/what-if-2021-03-data-lt-1080p.webp)](figures/what-if-2021-03-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
