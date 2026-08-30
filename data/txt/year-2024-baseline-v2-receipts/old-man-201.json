@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "old-man-201",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:17:11.745888+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt5645432",
+    "external_imdb": "tt5645432",
+    "wikidata_id": "Q85808050",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Old_Man_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/old-man-201-cumulative.json",
+      "size": 15718,
+      "sha256": "d0407eeddabe56f4e2f100270190f13122db61270adeaf66518748f76f84652d"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/old-man-201-week.json",
+      "size": 1020407,
+      "sha256": "bd04266da987bea53ba62e43ef4bf1c3f5bf5995d870f9d62b0ea3928199708e"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/old-man-201-cumulative-ip-swarm.json",
+      "size": 41139,
+      "sha256": "34d0e9d4adc10f0c079b4bd58f4a7b80f8223650765d0b6f9fbb7bcdaa040c60"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/old-man-201-cumulative-btiha-media-objects.json",
+      "size": 251871,
+      "sha256": "1c723fffb9423e95280447193a3c7ef55bc7f5d17d02e66ae179f9ff9457e931"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/old-man-201-cumulative-aggregate.geojson.gz",
+      "size": 858271,
+      "sha256": "8d908e93ceba750363d7cab6fbbc080fb1a788ff97dad1d2f45a11c2c04796ed"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/old-man-201-cumulative-btiha.geojson.gz",
+      "size": 11354607,
+      "sha256": "e04a36f89f7fc87f513da44007bee756386718ef5defdc64d0a518b7af16e859"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/old-man-201-downloads-by-week-old-man-201-week.svg",
+      "size": 21779,
+      "sha256": "a5372c47aab09080d5303469eb2357c15ec01caa5084e052ce363aadd6f164de"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/old-man-201-downloads-by-day-day.svg",
+      "size": 24053,
+      "sha256": "a10a01520892c9a9532b57fd633021246ca00b3c089ff0871ef7b333e96bf881"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/old-man-201.json",
+      "size": 10335,
+      "sha256": "ccf9b3e7fc9398ec637eb383a7e13567c3b58bf821afd2d7d261c8563ba68388"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/old-man-201-days.csv",
+      "size": 3210,
+      "sha256": "95bb1690fc50c7839f3e5198e74cc03500b93b8daee2216847ca706accfd78cd"
+    }
+  },
+  "coverage_sha256": "065e5563f18a3beadaf302d7feb75728e380fef08a720998859636693f5d5f5b",
+  "published_files": {
+    "docs/itemized/old-man-201-sample-cache-audit.md": "e078b4120aec059c5d8a933a432f4a2e098b7ce3868bda8c2d4900adab20fc7d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/old-man-201-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "36f97130a6d0eda05aff135fb637b128afc3582383524c022ac8e9711b3a7c8f",
+    "docs/itemized/figures/old-man-201-cumulative-detail-btiha-itemized-by-bytes.svg": "01415a24c7c02410238d45652f0a843061628e97d3fd9415ae04a6573c3bdf15",
+    "docs/itemized/figures/old-man-201-downloads-by-week-old-man-201-week.svg": "a5372c47aab09080d5303469eb2357c15ec01caa5084e052ce363aadd6f164de",
+    "docs/itemized/figures/old-man-201-downloads-by-day-day.svg": "a10a01520892c9a9532b57fd633021246ca00b3c089ff0871ef7b333e96bf881",
+    "docs/itemized/figures/old-man-201-carto.png": "aaf39a1ffba65c97527fec7172acdd101283bba91557bac6e3b77933fa7f9a0b",
+    "docs/itemized/figures/old-man-201-carto-4k.webp": "47de939a57223be5b6947e91c3e49535cf84a22bcb56c3cc2c386f2baa85d908",
+    "docs/itemized/figures/old-man-201-data-ge-1080p.webp": "886c8d34a2a2a92aa513df4c4125bb78bc3d856ca24996064f545cd3844e5222",
+    "docs/itemized/figures/old-man-201-data-ge-1080p-4k.webp": "962472d4d2f20d1e641efd969b8a07371a8a4e3c45d1471c89334255b60c0f32",
+    "docs/itemized/figures/old-man-201-data-lt-1080p.webp": "6732b7cceed966787b71029d4235c685077167f492a89b32c8b5ec808bbf7bd7",
+    "docs/itemized/figures/old-man-201-data-lt-1080p-4k.webp": "7c9cad7ec568d59200df868917d674bc71f16bef7ce3413cf4226e4e8361fdc6"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "old-man-201",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/old-man-201-days.csv",
+        "sha256": "95bb1690fc50c7839f3e5198e74cc03500b93b8daee2216847ca706accfd78cd",
+        "size": 3210
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/old-man-201-downloads-by-week-old-man-201-week.svg",
+        "sha256": "a5372c47aab09080d5303469eb2357c15ec01caa5084e052ce363aadd6f164de",
+        "size": 21779,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/old-man-201-downloads-by-day-day.svg",
+        "sha256": "a10a01520892c9a9532b57fd633021246ca00b3c089ff0871ef7b333e96bf881",
+        "size": 24053,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/old-man-201-cumulative-btiha.geojson.gz",
+        "sha256": "e04a36f89f7fc87f513da44007bee756386718ef5defdc64d0a518b7af16e859",
+        "size": 11354607
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/old-man-201-cumulative-btiha-media-objects.json",
+        "sha256": "1c723fffb9423e95280447193a3c7ef55bc7f5d17d02e66ae179f9ff9457e931",
+        "size": 251871
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 41,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 14,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Ashburn",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          73.0,
+          57.0,
+          49.0,
+          40.0,
+          33.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Ankara"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          70.0,
+          57.0,
+          49.0,
+          38.0,
+          35.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
