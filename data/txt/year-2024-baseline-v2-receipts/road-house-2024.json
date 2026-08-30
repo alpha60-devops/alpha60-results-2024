@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "road-house-2024",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:33:00.342192+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt3359350",
+    "external_imdb": "tt3359350",
+    "wikidata_id": "Q113630174",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Road_House_(2024_film)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/road-house-2024-cumulative.json",
+      "size": 15770,
+      "sha256": "65972dcc7770a0fe820cf7b68a0292b7af532605c612a345ba1feb41659aecfb"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/road-house-2024-week.json",
+      "size": 3098374,
+      "sha256": "a64c1e47053eed3eded72cf2d38913d362d8eaada44982090b9acba2e684d4bc"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/road-house-2024-cumulative-ip-swarm.json",
+      "size": 43624,
+      "sha256": "43467b5fa32acd83ec17ce3c58d0a742d5c6de3de304c2a583bcfd6ed0f0cf26"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/road-house-2024-cumulative-btiha-media-objects.json",
+      "size": 425563,
+      "sha256": "be29f036350bf826fa4bace7e261cd4944e3c2668907476251bed0eadda4ee3b"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/road-house-2024-cumulative-aggregate.geojson.gz",
+      "size": 1314850,
+      "sha256": "d394d128b874c6716328649518ee083a69b6e4f5c3ae4cd2346fd6ad37eba959"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/road-house-2024-cumulative-btiha.geojson.gz",
+      "size": 40407299,
+      "sha256": "802cff040da7f65e6fb348c5faab9be60571a6b53e9e20cc6bfe9798cb519d05"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/road-house-2024-downloads-by-week-road-house-2024-week.svg",
+      "size": 1169,
+      "sha256": "0a8ba998f34dff476a3c80a76233c11bf9088eaa68a148793b055322388e6647"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/road-house-2024-downloads-by-day-day.svg",
+      "size": 3555,
+      "sha256": "c31357e5d6b8e5fd6874107b46eaefa099f68e997ca50f9879bfd19145794065"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/road-house-2024.json",
+      "size": 9450,
+      "sha256": "c6f06fd027c4bab1fcdb8e44cc94dfcdbadd653461a7e1fe3e5b368cd2d28248"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/road-house-2024-days.csv",
+      "size": 3595,
+      "sha256": "65fa5ca7270e67afc84345a105b1c92b77bfb624cb876d4e2d9126b137273a90"
+    }
+  },
+  "coverage_sha256": "549284869bd8c8678a272f9491a9cb0da41ce7a6c1d18d5fbc7c12de3bef7627",
+  "published_files": {
+    "docs/itemized/road-house-2024-sample-cache-audit.md": "70f562ae278090fc394593f0396da23435ff584439d3cb4caa11e9abc39037e7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/road-house-2024-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "3132686c13c2a31cb8d3c2df4fb73c87907a6ef0f1ae8a15602f3afe71a98960",
+    "docs/itemized/figures/road-house-2024-cumulative-detail-btiha-itemized-by-bytes.svg": "e7d6d57efbe72e2297a6974082c696bbb0f2c11c28579e8386d4413a3bbc583f",
+    "docs/itemized/figures/road-house-2024-downloads-by-week-road-house-2024-week.svg": "6e6f3e38ce7237966ff9ae7884f559b7d09ce6ee4fdc0959b711038b37056640",
+    "docs/itemized/figures/road-house-2024-downloads-by-day-day.svg": "f78ed2825760284237e7e633f6c4006069110ed6687fdd13845380703d689c20",
+    "docs/itemized/figures/road-house-2024-carto.png": "061c31f9b3d3a43bd893426975d79967b1b13fa92c6bed7005bc2c2ad5f99805",
+    "docs/itemized/figures/road-house-2024-carto-4k.webp": "a52a62f317dda5636c442d068d3267c303e23f11a5f2e2f7dad24945f8643cdf",
+    "docs/itemized/figures/road-house-2024-data-ge-1080p.webp": "4bf3cad575db64cdfb0f36b865d8aa6da22293c69adc905db1a32d694e7290fc",
+    "docs/itemized/figures/road-house-2024-data-ge-1080p-4k.webp": "0639c0ff1308f2effcb0f6aef8356b09c6b4c5ee5e5e515ba98c030eb7c24149",
+    "docs/itemized/figures/road-house-2024-data-lt-1080p.webp": "1a5043d830e641e333cdc74f789e2de94cbbda9f7ec161af80c577740580bcd4",
+    "docs/itemized/figures/road-house-2024-data-lt-1080p-4k.webp": "170344e059eee69027558cd745446a4789a4224b1c7082b8765f2797965bd7ab"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "road-house-2024",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/road-house-2024-days.csv",
+        "sha256": "65fa5ca7270e67afc84345a105b1c92b77bfb624cb876d4e2d9126b137273a90",
+        "size": 3595
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/road-house-2024-downloads-by-week-road-house-2024-week.svg",
+        "sha256": "0a8ba998f34dff476a3c80a76233c11bf9088eaa68a148793b055322388e6647",
+        "size": 1169,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/road-house-2024-downloads-by-week-road-house-2024-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/road-house-2024-downloads-by-day-day.svg",
+        "sha256": "c31357e5d6b8e5fd6874107b46eaefa099f68e997ca50f9879bfd19145794065",
+        "size": 3555,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/road-house-2024-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/road-house-2024-cumulative-btiha.geojson.gz",
+        "sha256": "802cff040da7f65e6fb348c5faab9be60571a6b53e9e20cc6bfe9798cb519d05",
+        "size": 40407299
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/road-house-2024-cumulative-btiha-media-objects.json",
+        "sha256": "be29f036350bf826fa4bace7e261cd4944e3c2668907476251bed0eadda4ee3b",
+        "size": 425563
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 29,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Budapest",
+          "Ashburn",
+          "Lelystad",
+          "Amsterdam",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          72.0,
+          49.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Yekaterinburg",
+          "Novosibirsk",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          63.0,
+          48.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
