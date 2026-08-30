@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Reacher |
 | Collection key | `reacher-208` |
 | imdb_id | [tt9288030](https://www.imdb.com/title/tt9288030/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Reacher (TV series)](https://en.wikipedia.org/wiki/Reacher_(TV_series)) |
 | Sample dates | 2024-01-19-to-2024-05-02 |
-| Sample days | 105 (2024–2024) |
+| Sample days | 105 |
 | BTIH count | 214 |
 | Unique BTIH count | 187 |
 | Downloaders total | 14,379,318 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:17:50Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/reacher-208.xz`
@@ -40,7 +40,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 07:06` — missing 11 hour(s)
 - hourly gap: last `2024-03-31 01:06`, resumed `2024-03-31 03:06` — missing 1 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Reacher collection size histogram](figures/reacher-208-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -48,7 +48,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![reacher-208 downloads by week](figures/reacher-208-downloads-by-week-reacher-208-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/reacher-208-downloads-by-week-reacher-208-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -56,7 +69,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -70,8 +83,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/reacher-208-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/reacher-208-data-ge-1080p.webp)](figures/reacher-208-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/reacher-208-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/reacher-208-data-lt-1080p.webp)](figures/reacher-208-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
