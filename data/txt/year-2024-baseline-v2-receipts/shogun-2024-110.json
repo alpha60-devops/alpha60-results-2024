@@ -1,0 +1,259 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "shogun-2024-110",
+  "status": "passed",
+  "generated_at": "2026-08-30T02:58:32.658600+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt2788316",
+    "external_imdb": "tt2788316",
+    "wikidata_id": "Q56276181",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "day_series_repairs": "1f978c1773be713a489c1a018b5df18d70a48540",
+    "results_initial": "1f978c1773be713a489c1a018b5df18d70a48540"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-110-cumulative.json",
+      "size": 15719,
+      "sha256": "87454980721a8a83019a0c99d65e0c66e980a4db240ae28a1f8b0ac7b1a23eff"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-110-week.json",
+      "size": 1570528,
+      "sha256": "0a16e9bfcb7115f73df180d4f2a450528e30c1ce728f15683671feccd5e61847"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-110-cumulative-ip-swarm.json",
+      "size": 42834,
+      "sha256": "2ef701d8061a6dc09e8a89de82f88d2bab9aead35b8699780bfe3b74c6cffc14"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-110-cumulative-btiha-media-objects.json",
+      "size": 715263,
+      "sha256": "4d45905fbf7fa8b652a6a5775d63a4e32f6c39e8610a6c43de57d208a42f286d"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/shogun-2024-110-cumulative-aggregate.geojson.gz",
+      "size": 1133146,
+      "sha256": "9c3bd4ab9cae94069556b9db07b08ce04219db335d75c57bdbf576e12e2da9d0"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/shogun-2024-110-cumulative-btiha.geojson.gz",
+      "size": 21804586,
+      "sha256": "5f1dfc8a8ca6b1ff52d9d9fbe61143ae0bc69ccc9fa939bff70fbd31939ccab2"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-week-shogun-2024-110-week.svg",
+      "size": 1039,
+      "sha256": "20c9d967c2eeace9806bd61b1ff8f4a13649d0f2d6a49d370037c9452d75c61f"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-day-day.svg",
+      "size": 2395,
+      "sha256": "6846278903d4a7f3be318615cf981be93babfd536ecc35980664dcfeb96baabb"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/shogun-2024-110.json",
+      "size": 9727,
+      "sha256": "de7fe767b063ec2e10e9b6d5ff13c93b1286dda19c3878e8840425db7b1d4b01"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/shogun-2024-110-days.csv",
+      "size": 3731,
+      "sha256": "f301895fc9d1affa36a0a5fe120c0cf9b06260f2b7dd5e3239eaff675a2b0e52"
+    },
+    "day-series-repair-provenance": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/shogun-2024-110.json",
+      "size": 2812,
+      "sha256": "52346c81729cc8936ad1d1ec82e156c6883aefdba02dd21f2c5abe1702d20c49"
+    }
+  },
+  "coverage_sha256": "26869a3b533832308a0d8ae7746ca91433f4cd71c85e2f0b2c2f7e85cc822fa9",
+  "published_files": {
+    "docs/itemized/shogun-2024-110-sample-cache-audit.md": "8f0249f2ad8c8dbdccc9e39a1a0008f3e8225f77abc0b994f9f5abaa65ae48d1",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/shogun-2024-110-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "e92ecee6c401154ba8fd6eff6e5e79024282c832901c22b2794a114adb72eb13",
+    "docs/itemized/figures/shogun-2024-110-cumulative-detail-btiha-itemized-by-bytes.svg": "2c83ca975b6e96ef682021218546acc34cc434fb4ed625a01bb144ce2661bc30",
+    "docs/itemized/figures/shogun-2024-110-downloads-by-week-shogun-2024-110-week.svg": "bab0363c642b17da0285297d668aebad4d60f7951bf5fcf0d3e2fefff6eee10f",
+    "docs/itemized/figures/shogun-2024-110-downloads-by-day-day.svg": "baf5eb1baade1105eb7e299aa0d0c16f524df239488046dc878df6b54e2183fe",
+    "docs/itemized/figures/shogun-2024-110-carto.png": "4782d559d3c766d78c33fa5b3f374bae8dcdab91b5c3fa01d4d79b9de5fb24ad",
+    "docs/itemized/figures/shogun-2024-110-carto-4k.webp": "b73d289db49ffa46e6a56407cb7dd0743af6e38f405ba916fd4d751cf9e44867",
+    "docs/itemized/figures/shogun-2024-110-data-ge-1080p.webp": "7429f6c7ee3cb8b273faf6d98fe207703e4c939f0148a8b8c8fecd0e25869d28",
+    "docs/itemized/figures/shogun-2024-110-data-ge-1080p-4k.webp": "19260d32d8d425896a426d85d9916899670e3dde577fc6b48203e363353a37f6",
+    "docs/itemized/figures/shogun-2024-110-data-lt-1080p.webp": "101c039207e78fb4dfea984669938637ea318c11e9c5ec384aebb8926a7b74c0",
+    "docs/itemized/figures/shogun-2024-110-data-lt-1080p-4k.webp": "12a373554f0daa739441ea1130cbf1b63022d3df61d89a9c9d99c932027eb82a"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "shogun-2024-110",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/shogun-2024-110-days.csv",
+        "sha256": "f301895fc9d1affa36a0a5fe120c0cf9b06260f2b7dd5e3239eaff675a2b0e52",
+        "size": 3731
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-week-shogun-2024-110-week.svg",
+        "sha256": "20c9d967c2eeace9806bd61b1ff8f4a13649d0f2d6a49d370037c9452d75c61f",
+        "size": 1039,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-week-shogun-2024-110-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-day-day.svg",
+        "sha256": "6846278903d4a7f3be318615cf981be93babfd536ecc35980664dcfeb96baabb",
+        "size": 2395,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/shogun-2024-110-cumulative-btiha.geojson.gz",
+        "sha256": "5f1dfc8a8ca6b1ff52d9d9fbe61143ae0bc69ccc9fa939bff70fbd31939ccab2",
+        "size": 21804586
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-110-cumulative-btiha-media-objects.json",
+        "sha256": "4d45905fbf7fa8b652a6a5775d63a4e32f6c39e8610a6c43de57d208a42f286d",
+        "size": 715263
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 49,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 22,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Ashburn",
+          "Shanghai",
+          "Istanbul",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          68.0,
+          49.0,
+          37.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Ashburn",
+          "Budapest",
+          "Yekaterinburg",
+          "Istanbul"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          65.0,
+          48.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
