@@ -13,10 +13,10 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- |
 | Media object | The Penguin |
 | Collection key | `penguin-107` |
-| imdb_id | [tt11323316](https://www.imdb.com/title/tt11323316/) |
-| wikipedia_url | UNAVAILABLE |
+| imdb_id | [tt15435876](https://www.imdb.com/title/tt15435876/) |
+| wikipedia_url | [The Penguin (TV series)](https://en.wikipedia.org/wiki/The_Penguin_(TV_series)) |
 | Sample dates | 2024-11-04-to-2025-05-03 |
-| Sample days | 181 (2024–2025) |
+| Sample days | 181 |
 | BTIH count | 393 |
 | Unique BTIH count | 359 |
 | Downloaders total | 56,197,557 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:12:29Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/penguin-107.xz`
@@ -39,7 +39,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-12-07 22:00`, resumed `2024-12-08 06:00` — missing 7 hour(s)
 - hourly gap: last `2025-03-30 01:00`, resumed `2025-03-30 03:00` — missing 1 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![The Penguin collection size histogram](figures/penguin-107-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -47,7 +47,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![penguin-107 downloads by week](figures/penguin-107-downloads-by-week-penguin-107-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/penguin-107-downloads-by-week-penguin-107-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -55,7 +68,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -69,8 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/penguin-107-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/penguin-107-data-ge-1080p.webp)](figures/penguin-107-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/penguin-107-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/penguin-107-data-lt-1080p.webp)](figures/penguin-107-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
