@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "house-of-the-dragon-201",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:59:41.715675+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt11198330",
+    "external_imdb": "tt11198330",
+    "wikidata_id": "Q72930269",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-201-cumulative.json",
+      "size": 15753,
+      "sha256": "d97a1619c7a23040fed6e7bdf8579d92302c33a92b9df6322215b720477b3688"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-201-week.json",
+      "size": 3140197,
+      "sha256": "56450e3cec9b149f106192e534a2bc22da2fe236d02367802acf81fa351eb182"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-201-cumulative-ip-swarm.json",
+      "size": 43468,
+      "sha256": "d9874e8f75b059cd2cd7c8f28bb4166d2f6c38d1e56a21c84a581bb5c71fab94"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-201-cumulative-btiha-media-objects.json",
+      "size": 427765,
+      "sha256": "e708601cf7f1a4a1d483182478145d56c9439703fcd30dd2c163c626aae5ce06"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/house-of-the-dragon-201-cumulative-aggregate.geojson.gz",
+      "size": 1293325,
+      "sha256": "0e2e27b97ccc206dc7d6757800e9484b19ab769ac546b47735af070a0ac7742c"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/house-of-the-dragon-201-cumulative-btiha.geojson.gz",
+      "size": 36012268,
+      "sha256": "dee78b0d8ccadbe4171b4195441b0e67233df690667cd8c4bb17045e4ca931e8"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-201-downloads-by-week-house-of-the-dragon-201-week.svg",
+      "size": 1232,
+      "sha256": "e6481cd20bad5ffdc29f85db3d02f6d70302e309dcaa5c0d7fad0df754a0df34"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-201-downloads-by-day-day.svg",
+      "size": 3647,
+      "sha256": "590f071c9007cbb65dfe7bf6ac963533c7e90d51edb8cf08a7dd610882534c93"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/house-of-the-dragon-201.json",
+      "size": 23941,
+      "sha256": "bb34da533c1d983ea697d1908ffc1b019d1751f2bce32487f62a02b9132fc4ad"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/house-of-the-dragon-201-days.csv",
+      "size": 6491,
+      "sha256": "c7654ff68e341b91e30c84a8346df8de31115785c20a0c77276a17dbdd4c3fdf"
+    }
+  },
+  "coverage_sha256": "b62ee66a40219f47961125e882faa2a6d25b66cf71b3ded2dfff1a844ef1d035",
+  "published_files": {
+    "docs/itemized/house-of-the-dragon-201-sample-cache-audit.md": "801b06843061649ed13f4f8271ffcc65300884e7b691ce6c0bb16e09b6e4ae91",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/house-of-the-dragon-201-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "441468ad7e11b77b4a527d35813ba4df92a767dfd10eccfd418fc01dd6d44139",
+    "docs/itemized/figures/house-of-the-dragon-201-cumulative-detail-btiha-itemized-by-bytes.svg": "9ed2a9a616c29686c578e3c27371286b863e37b9c5aca52d0b262dd193aeff7b",
+    "docs/itemized/figures/house-of-the-dragon-201-downloads-by-week-house-of-the-dragon-201-week.svg": "244b9d3b5bef4ee86787adef9faef8faa241a78ba8daade7d137c8876b3f06aa",
+    "docs/itemized/figures/house-of-the-dragon-201-downloads-by-day-day.svg": "96a7c181e63b1b2408a4a6a3f1b8b7f44fbd795eca05326c315c28a5c59f94fd",
+    "docs/itemized/figures/house-of-the-dragon-201-carto.png": "318ae7feef881b43e0d12a38925f676c0628c17264c860f19c41bc9d73add91c",
+    "docs/itemized/figures/house-of-the-dragon-201-carto-4k.webp": "0930f927e2a85f8666ee1988dde882d5f43f032b6418cacf335d72192a5478dd",
+    "docs/itemized/figures/house-of-the-dragon-201-data-ge-1080p.webp": "4bddcc756c9e7ae54d3489a2ca5da59946c7b860481df4b5450ec77b1625a53c",
+    "docs/itemized/figures/house-of-the-dragon-201-data-ge-1080p-4k.webp": "deb7156cab3fd29553a7949afd6c9807b6a1e86ad8f43f5d9784cd8f7a0d4214",
+    "docs/itemized/figures/house-of-the-dragon-201-data-lt-1080p.webp": "dadc673a959075f30ff8128ea7a8626e82ccbf823f18068abdde7fb0632b64f8",
+    "docs/itemized/figures/house-of-the-dragon-201-data-lt-1080p-4k.webp": "e0f0c2e4a0e4ec024217f6b52c7e635c61fdd0b947a2058035035463a71645c7"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "house-of-the-dragon-201",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/house-of-the-dragon-201-days.csv",
+        "sha256": "c7654ff68e341b91e30c84a8346df8de31115785c20a0c77276a17dbdd4c3fdf",
+        "size": 6491
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-201-downloads-by-week-house-of-the-dragon-201-week.svg",
+        "sha256": "e6481cd20bad5ffdc29f85db3d02f6d70302e309dcaa5c0d7fad0df754a0df34",
+        "size": 1232,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-201-downloads-by-week-house-of-the-dragon-201-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-201-downloads-by-day-day.svg",
+        "sha256": "590f071c9007cbb65dfe7bf6ac963533c7e90d51edb8cf08a7dd610882534c93",
+        "size": 3647,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-201-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/house-of-the-dragon-201-cumulative-btiha.geojson.gz",
+        "sha256": "dee78b0d8ccadbe4171b4195441b0e67233df690667cd8c4bb17045e4ca931e8",
+        "size": 36012268
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-201-cumulative-btiha-media-objects.json",
+        "sha256": "e708601cf7f1a4a1d483182478145d56c9439703fcd30dd2c163c626aae5ce06",
+        "size": 427765
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 37,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Amsterdam",
+          "Leipzig",
+          "Lelystad",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          77.0,
+          50.0,
+          47.0,
+          46.0,
+          40.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Ashburn",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam",
+          "Leipzig"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          77.0,
+          48.0,
+          39.0,
+          35.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
