@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "inside-out-2",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:05:16.701288+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt22022452",
+    "external_imdb": "tt22022452",
+    "wikidata_id": "Q113877606",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inside_Out_2"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/inside-out-2-cumulative.json",
+      "size": 15731,
+      "sha256": "507a40299e2e1d52b4e30fa1edee5f7c6e885e152f35ab6b6be0ccc08f8feccb"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/inside-out-2-week.json",
+      "size": 5209669,
+      "sha256": "a9db6f58d991e45960e06012c3c33d4a6b4d1d1504edec1867b6732b907c1515"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/inside-out-2-cumulative-ip-swarm.json",
+      "size": 44203,
+      "sha256": "7f99bc84a22e831035e80817294c55360b3e17734f9df47e3e1bf0ecc29afeb4"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/inside-out-2-cumulative-btiha-media-objects.json",
+      "size": 2683392,
+      "sha256": "4cede0853aa77c76c9bdc1832fbeb37c69cc848e21e7224c0c3f7bf018e40145"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/inside-out-2-cumulative-aggregate.geojson.gz",
+      "size": 1408073,
+      "sha256": "70d5a37a44852a34d7fdf45cfa3f8758ac06e77edfd3e065845de4a895b903b2"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/inside-out-2-cumulative-btiha.geojson.gz",
+      "size": 60725802,
+      "sha256": "24c953a961eb18f1de72992c905dffd8f54c6123499635d2aa44ab1ba11c1067"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/inside-out-2-downloads-by-week-inside-out-2-week.svg",
+      "size": 1217,
+      "sha256": "8cd85fd6647e3a5f777157a0dedda69ac8cac6250ca57c5aa692e88bb6b41848"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/inside-out-2-downloads-by-day-day.svg",
+      "size": 3693,
+      "sha256": "d92ef574f1486b59ec06302be8ec14d57fda709a2c36ed84c26328c02be23a6c"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/inside-out-2.json",
+      "size": 10929,
+      "sha256": "b643c1417e6cf3ec90941086ebbc9ad5c5920d00c5e010f02600e4ffa48f1662"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/inside-out-2-days.csv",
+      "size": 6884,
+      "sha256": "d0df9b917d7bd945a68117dd871a69d3b51eb66ab88c5dc9eeb7210301fcf85c"
+    }
+  },
+  "coverage_sha256": "0f5c8a5f0ce23cf7fa54cfa53db3bda063e007725a62ca4a2c109de7ad41dc9a",
+  "published_files": {
+    "docs/itemized/inside-out-2-sample-cache-audit.md": "de3b91ac008a1829db1e4a0c22e113f13026665240cbe1add60b8fcc9b050320",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/inside-out-2-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "f84e8708ddc29217f0895946b2d5362ecbc63dc9c0bb07855aed19836d23aac4",
+    "docs/itemized/figures/inside-out-2-cumulative-detail-btiha-itemized-by-bytes.svg": "9e9d103efa9c35d83096c6e2e4cdc0205ab622d7194f808bd0872c7d86d2d619",
+    "docs/itemized/figures/inside-out-2-downloads-by-week-inside-out-2-week.svg": "c4888f176f182f77ac771d078720d7b9a2a97cf0d5809caad75a1dd172d43363",
+    "docs/itemized/figures/inside-out-2-downloads-by-day-day.svg": "74d811f5e7a0d351368565b8c3e8fa71463f3b80eeec639f9222aa1ef6aaafcd",
+    "docs/itemized/figures/inside-out-2-carto.png": "1720fb172c7c142bc6cda03dcd4c3d82eea16dabc866f7aa49d51171661b1af9",
+    "docs/itemized/figures/inside-out-2-carto-4k.webp": "f2fea9343dea80b6f07a0ff879b79f63afa0f5dae51ce06f2535e792e06dacbe",
+    "docs/itemized/figures/inside-out-2-data-ge-1080p.webp": "7dfb51bd8d9c2b74aa1a63c5e951c24614b5f0d899261bfece3d0c00b4cc433d",
+    "docs/itemized/figures/inside-out-2-data-ge-1080p-4k.webp": "090b34d1093679da6f76f6c78c754d75cd97b537ab6e65e017e4b0016b303915",
+    "docs/itemized/figures/inside-out-2-data-lt-1080p.webp": "63b9379ef0b2f717dffeb56b87cd2ae12615f4ff35c3096c185ec7b4feb72124",
+    "docs/itemized/figures/inside-out-2-data-lt-1080p-4k.webp": "ceaca77939f685e31f0d7c900987261455a27df7f255ff8d046abebe011c20bc"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "inside-out-2",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/inside-out-2-days.csv",
+        "sha256": "d0df9b917d7bd945a68117dd871a69d3b51eb66ab88c5dc9eeb7210301fcf85c",
+        "size": 6884
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/inside-out-2-downloads-by-week-inside-out-2-week.svg",
+        "sha256": "8cd85fd6647e3a5f777157a0dedda69ac8cac6250ca57c5aa692e88bb6b41848",
+        "size": 1217,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/inside-out-2-downloads-by-week-inside-out-2-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/inside-out-2-downloads-by-day-day.svg",
+        "sha256": "d92ef574f1486b59ec06302be8ec14d57fda709a2c36ed84c26328c02be23a6c",
+        "size": 3693,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/inside-out-2-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/inside-out-2-cumulative-btiha.geojson.gz",
+        "sha256": "24c953a961eb18f1de72992c905dffd8f54c6123499635d2aa44ab1ba11c1067",
+        "size": 60725802
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/inside-out-2-cumulative-btiha-media-objects.json",
+        "sha256": "4cede0853aa77c76c9bdc1832fbeb37c69cc848e21e7224c0c3f7bf018e40145",
+        "size": 2683392
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 45,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 22,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Yekaterinburg",
+          "Novosibirsk"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          65.0,
+          64.0,
+          49.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Yekaterinburg",
+          "Novosibirsk",
+          "Budapest",
+          "Nizhniy Novgorod"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          64.0,
+          62.0,
+          48.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
