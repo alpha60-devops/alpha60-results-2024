@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "fantasmas-01",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:44:26.439447+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt18182112",
+    "external_imdb": "tt18182112",
+    "wikidata_id": "Q125935644",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fantasmas_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fantasmas-01-cumulative.json",
+      "size": 15605,
+      "sha256": "1817d2643928452517199d7d34a97fd9c520f5b29b20cad7d316ac9b6231b436"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fantasmas-01-week.json",
+      "size": 603490,
+      "sha256": "88527b7d4e1df37de50c39a3f109fdfb8572beaa3ef1602b8e7e44f7527f084d"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fantasmas-01-cumulative-ip-swarm.json",
+      "size": 40718,
+      "sha256": "0a280dbba9bd3f2d4ae83cc1163e9f20cd5d1d14547c5fe2a6c86e81a0c09366"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fantasmas-01-cumulative-btiha-media-objects.json",
+      "size": 291958,
+      "sha256": "601ca26a57d6fe457cb9e3ba4a62244cc1ee65ead4a4fd3983a70d781102f8bf"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fantasmas-01-cumulative-aggregate.geojson.gz",
+      "size": 762498,
+      "sha256": "6e791795db91839afde395a8ee808cbb3088c5ef74679e1d50d01afa42462400"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fantasmas-01-cumulative-btiha.geojson.gz",
+      "size": 9365750,
+      "sha256": "cb173f2814cc7ad5535c67ebe45796e2e47312c7d4441e2556550b9a49d8071f"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fantasmas-01-downloads-by-week-fantasmas-01-week.svg",
+      "size": 19257,
+      "sha256": "fab5bb09809f9c1992b6e8f2a4072894f7412720b2b345bcc57232a0c841673a"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fantasmas-01-downloads-by-day-day.svg",
+      "size": 22509,
+      "sha256": "1d783d4d1074b582e64e912a0d50e6e2184ade43b2b6f824ea88493490782d7c"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fantasmas-01.json",
+      "size": 6210,
+      "sha256": "61a1306464dc437d51a48bd31298ed136cffe7c6f55793c58206d7c98a009d3c"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fantasmas-01-days.csv",
+      "size": 2535,
+      "sha256": "0e26fb23b1b2638ca16ad2422f764e98bc37debbe97580b9f5be74eec7b0e4dd"
+    }
+  },
+  "coverage_sha256": "f6f31668e351c3391e0e61a2a7f4394201d819b1a2054c6d05038fa145c12545",
+  "published_files": {
+    "docs/itemized/fantasmas-01-sample-cache-audit.md": "aa9510f354e9bca103a87630f7957a216fd9719fc8867e76296d0b1ab00df5d6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/fantasmas-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "eb64ce0af27923c677e31ca7a82775450062a93757fc34dad5ca6edd83a21bad",
+    "docs/itemized/figures/fantasmas-01-cumulative-detail-btiha-itemized-by-bytes.svg": "bdd5ba4092fe0e58a525577609a25d9e64acd52da9dfbd691b877c54ca27e064",
+    "docs/itemized/figures/fantasmas-01-downloads-by-week-fantasmas-01-week.svg": "fab5bb09809f9c1992b6e8f2a4072894f7412720b2b345bcc57232a0c841673a",
+    "docs/itemized/figures/fantasmas-01-downloads-by-day-day.svg": "1d783d4d1074b582e64e912a0d50e6e2184ade43b2b6f824ea88493490782d7c",
+    "docs/itemized/figures/fantasmas-01-carto.png": "277c4e42d4f804d3a93ced1ae81f40ab7fadec879f0e434edf204dec97480b3f",
+    "docs/itemized/figures/fantasmas-01-carto-4k.webp": "1ddbfbd776d18a465aef3e02fd0f304e59d314105efe636d897dcc974eb33cac",
+    "docs/itemized/figures/fantasmas-01-data-ge-1080p.webp": "394711cab6aa2f9b873205aca7cb76919b76e1868823854cd0e0c143eac7c1cd",
+    "docs/itemized/figures/fantasmas-01-data-ge-1080p-4k.webp": "ad1916998cfa8c0188b2aa2b190acf2bda7071f034c8871a340bfc9c16f4aaa6",
+    "docs/itemized/figures/fantasmas-01-data-lt-1080p.webp": "69a60810ec0acca0d61c992dcd49443e5bd052dbce4329218b0347dabd68c896",
+    "docs/itemized/figures/fantasmas-01-data-lt-1080p-4k.webp": "aa0515fc3b4942c596f3856d1e5afd9da67248b42379a72577f8f111428a0ac7"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "fantasmas-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fantasmas-01-days.csv",
+        "sha256": "0e26fb23b1b2638ca16ad2422f764e98bc37debbe97580b9f5be74eec7b0e4dd",
+        "size": 2535
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fantasmas-01-downloads-by-week-fantasmas-01-week.svg",
+        "sha256": "fab5bb09809f9c1992b6e8f2a4072894f7412720b2b345bcc57232a0c841673a",
+        "size": 19257,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fantasmas-01-downloads-by-day-day.svg",
+        "sha256": "1d783d4d1074b582e64e912a0d50e6e2184ade43b2b6f824ea88493490782d7c",
+        "size": 22509,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fantasmas-01-cumulative-btiha.geojson.gz",
+        "sha256": "cb173f2814cc7ad5535c67ebe45796e2e47312c7d4441e2556550b9a49d8071f",
+        "size": 9365750
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/fantasmas-01-cumulative-btiha-media-objects.json",
+        "sha256": "601ca26a57d6fe457cb9e3ba4a62244cc1ee65ead4a4fd3983a70d781102f8bf",
+        "size": 291958
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 31,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 11,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Lelystad",
+          "London",
+          "Amsterdam",
+          "Istanbul",
+          "Ashburn",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          43.0,
+          37.0,
+          32.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Lelystad",
+          "London",
+          "Istanbul",
+          "Amsterdam",
+          "Budapest",
+          "Incheon",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          81.0,
+          45.0,
+          35.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
