@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Special Ops Lioness |
 | Collection key | `special-ops-lioness-201` |
 | imdb_id | [tt13111078](https://www.imdb.com/title/tt13111078/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Lioness (American TV series)](https://en.wikipedia.org/wiki/Lioness_(American_TV_series)) |
 | Sample dates | 2024-10-28-to-2025-01-19 |
-| Sample days | 84 (2024–2025) |
+| Sample days | 84 |
 | BTIH count | 197 |
 | Unique BTIH count | 180 |
 | Downloaders total | 9,642,159 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:44:51Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/special-ops-lioness-201.xz`
@@ -39,7 +39,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2025-01-10 22:03`, resumed `2025-01-12 00:54` — missing 25 hour(s)
 - missing day: `2025-01-11`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Special Ops Lioness collection size histogram](figures/special-ops-lioness-201-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -47,7 +47,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![special-ops-lioness-201 downloads by week](figures/special-ops-lioness-201-downloads-by-week-special-ops-lioness-201-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/special-ops-lioness-201-downloads-by-week-special-ops-lioness-201-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -55,7 +68,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -69,8 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/special-ops-lioness-201-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/special-ops-lioness-201-data-ge-1080p.webp)](figures/special-ops-lioness-201-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/special-ops-lioness-201-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/special-ops-lioness-201-data-lt-1080p.webp)](figures/special-ops-lioness-201-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

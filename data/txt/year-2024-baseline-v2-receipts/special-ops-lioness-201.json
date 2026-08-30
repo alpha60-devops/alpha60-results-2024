@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "special-ops-lioness-201",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:35:34.823735+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt13111078",
+    "external_imdb": "tt13111078",
+    "wikidata_id": "Q116199566",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lioness_(American_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/special-ops-lioness-201-cumulative.json",
+      "size": 15720,
+      "sha256": "c896541fff511e6a5a60395a40a18323757381a2fbae7b6cf8ee5118b3046152"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/special-ops-lioness-201-week.json",
+      "size": 967343,
+      "sha256": "11f7f29eff5811c40a4e33b23535404b36ed95c0596b3b5ff2b3c913fb00861a"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/special-ops-lioness-201-cumulative-ip-swarm.json",
+      "size": 41689,
+      "sha256": "7849d131b36c387eed9014d070d695b56d22732482961a16b798080991dd6dbd"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/special-ops-lioness-201-cumulative-btiha-media-objects.json",
+      "size": 280170,
+      "sha256": "c382c7ed7502bb3a98bf8b9a69519e687b3110847fa0ec96fdfd804f75bc813a"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/special-ops-lioness-201-cumulative-aggregate.geojson.gz",
+      "size": 906340,
+      "sha256": "d1ace70dcc28c265830368c077cb62b0289e77797ea4809881a560675e174f79"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/special-ops-lioness-201-cumulative-btiha.geojson.gz",
+      "size": 11431336,
+      "sha256": "c6b526fc4d22506b83b64886320475b4f3c436a7384a9694200d1410f3209c8e"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/special-ops-lioness-201-downloads-by-week-special-ops-lioness-201-week.svg",
+      "size": 20521,
+      "sha256": "b503ce54493994158f74964a5160881f4db13659ee368d38662e157dd13236d6"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/special-ops-lioness-201-downloads-by-day-day.svg",
+      "size": 22688,
+      "sha256": "22a39613fc41e4a45cf7d4b9dc51c9c552d1f3003e9f40795da0e01447e1a958"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/special-ops-lioness-201.json",
+      "size": 13244,
+      "sha256": "06cf89f8b13f7c8e25640a6dcc9dccd1e189145a29856cfff32b45586d5600ff"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/special-ops-lioness-201-days.csv",
+      "size": 2908,
+      "sha256": "3fee9ed5cc1f1722163c70b1f95fe974773db39e098ec44645a166ccb2fcc6a8"
+    }
+  },
+  "coverage_sha256": "7cbc0e0933d706ca905d15bf66e4897602c45559f89eca650a38d65ba85efd66",
+  "published_files": {
+    "docs/itemized/special-ops-lioness-201-sample-cache-audit.md": "95923dd5670eab71dad09269784354475b9f2c638493168111d993dac6b4d25c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/special-ops-lioness-201-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "05945014ddca7bd41bcea3fef2373657b530bc2e6962afff2d350a384f140506",
+    "docs/itemized/figures/special-ops-lioness-201-cumulative-detail-btiha-itemized-by-bytes.svg": "5a6146d04c84b625f1457b866e5297f9f90af57a700d4ec8f71035c7d3f7d952",
+    "docs/itemized/figures/special-ops-lioness-201-downloads-by-week-special-ops-lioness-201-week.svg": "b503ce54493994158f74964a5160881f4db13659ee368d38662e157dd13236d6",
+    "docs/itemized/figures/special-ops-lioness-201-downloads-by-day-day.svg": "22a39613fc41e4a45cf7d4b9dc51c9c552d1f3003e9f40795da0e01447e1a958",
+    "docs/itemized/figures/special-ops-lioness-201-carto.png": "48949edd29b607615135879124bc8373b73adfccf14f4bc275f54c98d79ace5a",
+    "docs/itemized/figures/special-ops-lioness-201-carto-4k.webp": "58877981ee19e6d8172f8f50107078421a0dbc0f9087d40fe8c63a98b9cf444f",
+    "docs/itemized/figures/special-ops-lioness-201-data-ge-1080p.webp": "88f1939b32779830e80b8ca0d4e8f2e7ace6d2e0a5b9df7cfa940b445a6052f6",
+    "docs/itemized/figures/special-ops-lioness-201-data-ge-1080p-4k.webp": "0fbf300208d969798d51e2b51e5ddcf8be3e0f1b785fb40ec860072e24926aeb",
+    "docs/itemized/figures/special-ops-lioness-201-data-lt-1080p.webp": "8d9142b7545c3c2e1338ace5f5774f8a28cfe71d676234a1df8eff26eb51dec8",
+    "docs/itemized/figures/special-ops-lioness-201-data-lt-1080p-4k.webp": "cac9dbd29e57a1a785ad8f7978cb691949410907df309385bf916933f16c6cc1"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "special-ops-lioness-201",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/special-ops-lioness-201-days.csv",
+        "sha256": "3fee9ed5cc1f1722163c70b1f95fe974773db39e098ec44645a166ccb2fcc6a8",
+        "size": 2908
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/special-ops-lioness-201-downloads-by-week-special-ops-lioness-201-week.svg",
+        "sha256": "b503ce54493994158f74964a5160881f4db13659ee368d38662e157dd13236d6",
+        "size": 20521,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/special-ops-lioness-201-downloads-by-day-day.svg",
+        "sha256": "22a39613fc41e4a45cf7d4b9dc51c9c552d1f3003e9f40795da0e01447e1a958",
+        "size": 22688,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/special-ops-lioness-201-cumulative-btiha.geojson.gz",
+        "sha256": "c6b526fc4d22506b83b64886320475b4f3c436a7384a9694200d1410f3209c8e",
+        "size": 11431336
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/special-ops-lioness-201-cumulative-btiha-media-objects.json",
+        "sha256": "c382c7ed7502bb3a98bf8b9a69519e687b3110847fa0ec96fdfd804f75bc813a",
+        "size": 280170
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 28,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 12,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Ashburn",
+          "Lelystad",
+          "Ankara",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          84.0,
+          68.0,
+          57.0,
+          49.0,
+          34.0,
+          33.0,
+          32.0,
+          29.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Lelystad",
+          "Amsterdam",
+          "Ashburn",
+          "Ankara",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          69.0,
+          51.0,
+          48.0,
+          32.0,
+          31.0,
+          30.0,
+          28.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
