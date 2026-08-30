@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "godzilla-x-kong-the-new-empire",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:55:17.003279+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt14539740",
+    "external_imdb": "tt14539740",
+    "wikidata_id": "Q113360912",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godzilla_x_Kong:_The_New_Empire"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-x-kong-the-new-empire-cumulative.json",
+      "size": 15724,
+      "sha256": "f6dfccf29818a0084dcbd0b38e9e32ec20dc072e2bcb742d7d6799d07d32eedb"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-x-kong-the-new-empire-week.json",
+      "size": 5302227,
+      "sha256": "429b3d929341505087f090e813c5b18b0de5c76c5a0d23d39f01fac3ac0561bb"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-x-kong-the-new-empire-cumulative-ip-swarm.json",
+      "size": 44059,
+      "sha256": "02afca4b54c4eb60c2df35b557024593be132a6ec97938480cce0c1cc50de93b"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-x-kong-the-new-empire-cumulative-btiha-media-objects.json",
+      "size": 1119367,
+      "sha256": "dff7c7c19f1d239a04674e0a8771f0818bf21585e26d059f5af58e1a15ff9ce0"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/godzilla-x-kong-the-new-empire-cumulative-aggregate.geojson.gz",
+      "size": 1452113,
+      "sha256": "38d5f41cffec7f5338ffa9484a9a80d690e7fbbeabfb1029cc69254d25dec6c1"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/godzilla-x-kong-the-new-empire-cumulative-btiha.geojson.gz",
+      "size": 59732688,
+      "sha256": "4f45bb8a91aabef2c9be98475f52d000a0f0d45d901fab024be80029b3eed984"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-x-kong-the-new-empire-downloads-by-week-godzilla-x-kong-the-new-empire-week.svg",
+      "size": 32832,
+      "sha256": "e96fb129b100019fa024b74538c42ddd3e32806f4977f7e7db9350b81bb176ab"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-x-kong-the-new-empire-downloads-by-day-day.svg",
+      "size": 28134,
+      "sha256": "5b5e61abf00cfa22a2f73614a3a64bb2647b895cefcdfc782bf721a0885be28c"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/godzilla-x-kong-the-new-empire.json",
+      "size": 8439,
+      "sha256": "e49c43048a823a1317b1a4bcbc3d779e4af0694478d8d8fb5cbfcf888cfc0e15"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/godzilla-x-kong-the-new-empire-days.csv",
+      "size": 6441,
+      "sha256": "4a255c664a5919cf920d25341dc5a98f1844a5c42089ac99c5ca68b3b214e982"
+    }
+  },
+  "coverage_sha256": "8b636a44bb3a59ce15da19f455bc626c8ebc775c023a988f7867636724f24667",
+  "published_files": {
+    "docs/itemized/godzilla-x-kong-the-new-empire-sample-cache-audit.md": "3cd63c407cce702ef4cc0b259cd5e82f54337046ce11ff60d0d043f0c4616b5f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/godzilla-x-kong-the-new-empire-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "3cef62873ad049b9d0beb6783a3a3b99073cdf1223075c931dbe4ec2bae24f3f",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-cumulative-detail-btiha-itemized-by-bytes.svg": "5b188d18077b0a64b631b92277d1c33ce28197ac6faf9d0596eaf4b848c91dfe",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-downloads-by-week-godzilla-x-kong-the-new-empire-week.svg": "e96fb129b100019fa024b74538c42ddd3e32806f4977f7e7db9350b81bb176ab",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-downloads-by-day-day.svg": "5b5e61abf00cfa22a2f73614a3a64bb2647b895cefcdfc782bf721a0885be28c",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-carto.png": "b0419e1907782aeef990401c1f3b6303d0a912f970331ed675404c2f05ca9022",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-carto-4k.webp": "343c2abb574c18e3b4ed16d7109b1e2360da5502b1420fe16c1a15e056c457f5",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-data-ge-1080p.webp": "c7c5d2070d1de2d21d5298dc53577180f8042b2c6bcdccb3b1643c00794706a5",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-data-ge-1080p-4k.webp": "0a684be913204efe2424044a380115f288e838dcc266a0832f9f92f707ab662f",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-data-lt-1080p.webp": "8ae9d992b11cb5e44d45bd4ce75612af73cbd1277d733add1261cf588417363c",
+    "docs/itemized/figures/godzilla-x-kong-the-new-empire-data-lt-1080p-4k.webp": "6537f2db703b13ba4753bbac80e83ede5970e93742e173924b8068055f8bf65b"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "godzilla-x-kong-the-new-empire",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/godzilla-x-kong-the-new-empire-days.csv",
+        "sha256": "4a255c664a5919cf920d25341dc5a98f1844a5c42089ac99c5ca68b3b214e982",
+        "size": 6441
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-x-kong-the-new-empire-downloads-by-week-godzilla-x-kong-the-new-empire-week.svg",
+        "sha256": "e96fb129b100019fa024b74538c42ddd3e32806f4977f7e7db9350b81bb176ab",
+        "size": 32832,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-x-kong-the-new-empire-downloads-by-day-day.svg",
+        "sha256": "5b5e61abf00cfa22a2f73614a3a64bb2647b895cefcdfc782bf721a0885be28c",
+        "size": 28134,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/godzilla-x-kong-the-new-empire-cumulative-btiha.geojson.gz",
+        "sha256": "4f45bb8a91aabef2c9be98475f52d000a0f0d45d901fab024be80029b3eed984",
+        "size": 59732688
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-x-kong-the-new-empire-cumulative-btiha-media-objects.json",
+        "sha256": "dff7c7c19f1d239a04674e0a8771f0818bf21585e26d059f5af58e1a15ff9ce0",
+        "size": 1119367
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 46,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 20,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Shanghai",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          79.0,
+          49.0,
+          32.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Hyderabad",
+          "Ashburn",
+          "Lelystad",
+          "Chennai",
+          "Amsterdam"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          76.0,
+          49.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
