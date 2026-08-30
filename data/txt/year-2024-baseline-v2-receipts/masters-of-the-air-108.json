@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "masters-of-the-air-108",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:14:17.406278+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt2640044",
+    "external_imdb": "tt2640044",
+    "wikidata_id": "Q72638293",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Masters_of_the_Air"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/masters-of-the-air-108-cumulative.json",
+      "size": 15760,
+      "sha256": "06629bb085b2f74a91cbff59381d7eb9e7f14fa351bff5261e6dd046690c9183"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/masters-of-the-air-108-week.json",
+      "size": 1771932,
+      "sha256": "5694246534c50d767aa423db5e48b3ae0cf5cfebba0e8cc8fb4458b6f0461576"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/masters-of-the-air-108-cumulative-ip-swarm.json",
+      "size": 42298,
+      "sha256": "b64caa01303ba7d4bba1563221f87fbc7371a2e8fa388bea68ed471fa070aa54"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/masters-of-the-air-108-cumulative-btiha-media-objects.json",
+      "size": 869342,
+      "sha256": "627df427ea07d1fe49088515bc0313409923eadaedc813339e197f536cd31b0a"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/masters-of-the-air-108-cumulative-aggregate.geojson.gz",
+      "size": 1092559,
+      "sha256": "36429279c4d9072a6cf37d81305af58eb23b240bc3f4512a27250f338ffb240b"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/masters-of-the-air-108-cumulative-btiha.geojson.gz",
+      "size": 25380170,
+      "sha256": "aa6cea6ab7f9395783b1833f3f117d13019f39d0e37cc827de08a673feaea6f3"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/masters-of-the-air-108-downloads-by-week-masters-of-the-air-108-week.svg",
+      "size": 25471,
+      "sha256": "e6da34eac64b0956ab3e146263b4bbea2bc18d32d4626d834b75e7dd203bcd2a"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/masters-of-the-air-108-downloads-by-day-day.svg",
+      "size": 24908,
+      "sha256": "e6a1f475482da515f5a82a6fcc23c7d612357939700ece2426875ccdd5f328b4"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/masters-of-the-air-108.json",
+      "size": 15307,
+      "sha256": "66e353dcab543cc28601ac3cc17d7875155f5cc5f6bdd0d467f967b81cd58de3"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/masters-of-the-air-108-days.csv",
+      "size": 4186,
+      "sha256": "433fd614322a0273789ead94143ed9e2dd391ac9ba6b2ffd97075ef29d7db733"
+    }
+  },
+  "coverage_sha256": "fd181625b41018067aaa69833f69d17409804b18a4dd87bb9ea4deac7ae1860d",
+  "published_files": {
+    "docs/itemized/masters-of-the-air-108-sample-cache-audit.md": "b9e55a2e1e8b4e24ca1f5314e4241049243408e0c5250262ef83507ca7cf890b",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/masters-of-the-air-108-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "f2c59124181b5807dbdf1f2f0e4b396e0a5bd4a8baff4400b7391bfeaf788e11",
+    "docs/itemized/figures/masters-of-the-air-108-cumulative-detail-btiha-itemized-by-bytes.svg": "fd5a577162f0727b8206df78b877634ffaec5979ff90e9598caa73529967031a",
+    "docs/itemized/figures/masters-of-the-air-108-downloads-by-week-masters-of-the-air-108-week.svg": "e6da34eac64b0956ab3e146263b4bbea2bc18d32d4626d834b75e7dd203bcd2a",
+    "docs/itemized/figures/masters-of-the-air-108-downloads-by-day-day.svg": "e6a1f475482da515f5a82a6fcc23c7d612357939700ece2426875ccdd5f328b4",
+    "docs/itemized/figures/masters-of-the-air-108-carto.png": "864ac1420de812c4f1a6cfbc1aec4e3516dac10583ecfa2087040443d4f52ce0",
+    "docs/itemized/figures/masters-of-the-air-108-carto-4k.webp": "00980e993dc2419fc9cd4950ecf57946f0468373811dd224500bb6c4d738e269",
+    "docs/itemized/figures/masters-of-the-air-108-data-ge-1080p.webp": "a8525ede70f60538ebf2fb103fd5ae8513f34e95a3d40ce924c388f882a1bec8",
+    "docs/itemized/figures/masters-of-the-air-108-data-ge-1080p-4k.webp": "28119aff55750329c5c6f4bb0cbebe8fda04836c163afb9dab05a31f003a076f",
+    "docs/itemized/figures/masters-of-the-air-108-data-lt-1080p.webp": "dfdaf9d34b62ce0e385fd4ff44ea248b3e298bfda634940d0cdefbcf8eb32963",
+    "docs/itemized/figures/masters-of-the-air-108-data-lt-1080p-4k.webp": "9ea6081d953a9cd50938a44452876e72d642643f209d1fc0cd5bcd75430dc172"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "masters-of-the-air-108",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/masters-of-the-air-108-days.csv",
+        "sha256": "433fd614322a0273789ead94143ed9e2dd391ac9ba6b2ffd97075ef29d7db733",
+        "size": 4186
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/masters-of-the-air-108-downloads-by-week-masters-of-the-air-108-week.svg",
+        "sha256": "e6da34eac64b0956ab3e146263b4bbea2bc18d32d4626d834b75e7dd203bcd2a",
+        "size": 25471,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/masters-of-the-air-108-downloads-by-day-day.svg",
+        "sha256": "e6a1f475482da515f5a82a6fcc23c7d612357939700ece2426875ccdd5f328b4",
+        "size": 24908,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/masters-of-the-air-108-cumulative-btiha.geojson.gz",
+        "sha256": "aa6cea6ab7f9395783b1833f3f117d13019f39d0e37cc827de08a673feaea6f3",
+        "size": 25380170
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/masters-of-the-air-108-cumulative-btiha-media-objects.json",
+        "sha256": "627df427ea07d1fe49088515bc0313409923eadaedc813339e197f536cd31b0a",
+        "size": 869342
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 40,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 17,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Shanghai",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          75.0,
+          50.0,
+          41.0,
+          32.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          71.0,
+          49.0,
+          35.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
