@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "kingdom-of-the-planet-of-the-apes",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:11:13.322792+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt11389872",
+    "external_imdb": "tt11389872",
+    "wikidata_id": "Q114314695",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Planet_of_the_Apes"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/kingdom-of-the-planet-of-the-apes-cumulative.json",
+      "size": 15791,
+      "sha256": "b9d45a70f309ec8a4de3f1916365d9785fc2ced688061f7188bcc29b164e0955"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/kingdom-of-the-planet-of-the-apes-week.json",
+      "size": 4429189,
+      "sha256": "1c7e7745b190cfb903c28757590ed7c241f8a7009ff106725ec7ee63598a106a"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/kingdom-of-the-planet-of-the-apes-cumulative-ip-swarm.json",
+      "size": 43853,
+      "sha256": "963c88442d698d219827908466d2edfd27f75928d61a82dc24be6946e0ecb8e6"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/kingdom-of-the-planet-of-the-apes-cumulative-btiha-media-objects.json",
+      "size": 1812281,
+      "sha256": "3cb66430d239a27990038ea8f51348e023f06e48220f5388f24f81988c5eb7b8"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/kingdom-of-the-planet-of-the-apes-cumulative-aggregate.geojson.gz",
+      "size": 1396244,
+      "sha256": "baf0b17e5439a7d1198ee107fe424faddabe9da1dfa15cb3b1f96e899b78caef"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/kingdom-of-the-planet-of-the-apes-cumulative-btiha.geojson.gz",
+      "size": 50759601,
+      "sha256": "a88348e18a8e302fb486bbb1d380f9f6bb449f73e1ea3bd36d3b6ce1765799c2"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/kingdom-of-the-planet-of-the-apes-downloads-by-week-kingdom-of-the-planet-of-the-apes-week.svg",
+      "size": 33847,
+      "sha256": "50f86e1adc84e16cf13efceeceb352c9bc7c3016f48aab1edebce698180fa7fc"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/kingdom-of-the-planet-of-the-apes-downloads-by-day-day.svg",
+      "size": 28544,
+      "sha256": "1d1f0605efa8bfb90b0a8982e4b48680d0377d71b8111606fe0651d912a8fd75"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/kingdom-of-the-planet-of-the-apes.json",
+      "size": 7980,
+      "sha256": "99df2bcfc4b9173061823734add51a9972a26f80761056bf494f47ddb89875a0"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/kingdom-of-the-planet-of-the-apes-days.csv",
+      "size": 6522,
+      "sha256": "71030e330e909dd56582b53f7995566a4bd1a36967c0d1d75b0a613caf1341f8"
+    }
+  },
+  "coverage_sha256": "ae615c8ceeb89e4473d83561bf728df10b878b6d463d9207aaa871f8d25d5ef3",
+  "published_files": {
+    "docs/itemized/kingdom-of-the-planet-of-the-apes-sample-cache-audit.md": "e84b6e1a7d2fa99d3b8aabbd028f2d8190e39f8afa0ac30c3d22dbdcc943ac58",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/kingdom-of-the-planet-of-the-apes-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "2f35b57c52d0760172c3716a63c1d6557aac414ba96d29b73da56eb7cd1cfdf3",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-cumulative-detail-btiha-itemized-by-bytes.svg": "cfffababfc964066e38eff51d78168712d06d4372d35070cd2120bd8775b3f0e",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-downloads-by-week-kingdom-of-the-planet-of-the-apes-week.svg": "50f86e1adc84e16cf13efceeceb352c9bc7c3016f48aab1edebce698180fa7fc",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-downloads-by-day-day.svg": "1d1f0605efa8bfb90b0a8982e4b48680d0377d71b8111606fe0651d912a8fd75",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-carto.png": "c9de1572dfd7101e22bc9b0d8e997c88d7d1544760aef856fba4e93fe9085cd5",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-carto-4k.webp": "9ddf06a3091b8433047eaad34a8bf7267b8c1b80040be77ef96dc0180b070ba1",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-data-ge-1080p.webp": "b9260cb7ccedf4e28e8edfde395434674846622b92036470cf4987b5139603fb",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-data-ge-1080p-4k.webp": "4ca370f3ee770c8661f904091c62e496ac3b3a311059d3d15d4af86c1238e4ce",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-data-lt-1080p.webp": "76a3da79e8beac41c6f37322afb0322eb41e4e995d4a7a0957d577f80fea7b22",
+    "docs/itemized/figures/kingdom-of-the-planet-of-the-apes-data-lt-1080p-4k.webp": "7d5e7741ca1adccbd3f5bb83719900d55d96ee38d2435072cb4fac2e4e863c2e"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "kingdom-of-the-planet-of-the-apes",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/kingdom-of-the-planet-of-the-apes-days.csv",
+        "sha256": "71030e330e909dd56582b53f7995566a4bd1a36967c0d1d75b0a613caf1341f8",
+        "size": 6522
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/kingdom-of-the-planet-of-the-apes-downloads-by-week-kingdom-of-the-planet-of-the-apes-week.svg",
+        "sha256": "50f86e1adc84e16cf13efceeceb352c9bc7c3016f48aab1edebce698180fa7fc",
+        "size": 33847,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/kingdom-of-the-planet-of-the-apes-downloads-by-day-day.svg",
+        "sha256": "1d1f0605efa8bfb90b0a8982e4b48680d0377d71b8111606fe0651d912a8fd75",
+        "size": 28544,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/kingdom-of-the-planet-of-the-apes-cumulative-btiha.geojson.gz",
+        "sha256": "a88348e18a8e302fb486bbb1d380f9f6bb449f73e1ea3bd36d3b6ce1765799c2",
+        "size": 50759601
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/kingdom-of-the-planet-of-the-apes-cumulative-btiha-media-objects.json",
+        "sha256": "3cb66430d239a27990038ea8f51348e023f06e48220f5388f24f81988c5eb7b8",
+        "size": 1812281
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 39,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Ashburn",
+          "Amsterdam",
+          "Budapest",
+          "Lelystad",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          49.0,
+          49.0,
+          37.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Hyderabad",
+          "Lelystad",
+          "Chennai",
+          "Yekaterinburg",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          69.0,
+          48.0,
+          43.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
