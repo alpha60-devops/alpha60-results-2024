@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "apprentice-2024",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:31:43.023943+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt8368368",
+    "external_imdb": "tt8368368",
+    "wikidata_id": "Q123582987",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Apprentice_(2024_film)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/apprentice-2024-cumulative.json",
+      "size": 15676,
+      "sha256": "5eae24de22e052b3f2548f3b9841a73ac3727d1147926a47b2b89343561c0646"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/apprentice-2024-week.json",
+      "size": 1256397,
+      "sha256": "4450b7578776e680ccb4b0b1d5e37339603ee36dbe01854388471f3094eca363"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/apprentice-2024-cumulative-ip-swarm.json",
+      "size": 42459,
+      "sha256": "36ed4fd53fc14db05fd496e9f69ffae61bad322b21f05fca8239da43d5f80c0f"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/apprentice-2024-cumulative-btiha-media-objects.json",
+      "size": 206964,
+      "sha256": "98d48fbf3fde2c908b07411395eded1728cdeeddbf2a8e2911a6bec10317bce3"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/apprentice-2024-cumulative-aggregate.geojson.gz",
+      "size": 1074928,
+      "sha256": "adf20dd24ef5867ec8e0c460efccb9a1c0a7243a973293bb55a7e46b841f77b8"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/apprentice-2024-cumulative-btiha.geojson.gz",
+      "size": 17242421,
+      "sha256": "cb1bfc82d1d338fd1d54e060e0b813d488ab52f32498733c9dd8a5b16f292b82"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/apprentice-2024-downloads-by-week-apprentice-2024-week.svg",
+      "size": 33551,
+      "sha256": "5df19fdfcc22c19cda962edca74096f4cb8d9f0b0716b2077f18482189a80d16"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/apprentice-2024-downloads-by-day-day.svg",
+      "size": 28512,
+      "sha256": "b8b8996800e40bd0d5aea25c4964409348c34b90ce551e01cebf11cca6de5f8d"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/apprentice-2024.json",
+      "size": 7960,
+      "sha256": "282728e2e4d24b115ba47bbfc1fa2a291aaab2cbc70114de6063d099ba28d89f"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/apprentice-2024-days.csv",
+      "size": 6465,
+      "sha256": "0771daad46394f53746b3fde2a7c8e847520e8d3da7d84fb3247b5e26a7e7178"
+    }
+  },
+  "coverage_sha256": "3e1dd23b950b0d68a0e3e648ea67e4b5cb3d98d2e9bede8ee96d24ada160fff3",
+  "published_files": {
+    "docs/itemized/apprentice-2024-sample-cache-audit.md": "e45f10cc0481897a8d656630c61490cd762ee92c62690d206f959b05f65c757c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/apprentice-2024-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "b44161e8c82c2476547c8996c054d20cc1d87f415d8f7a7d8358465451507c2c",
+    "docs/itemized/figures/apprentice-2024-cumulative-detail-btiha-itemized-by-bytes.svg": "8796ae17c385572b2663a35b1edfe44deb028de45773022007e8fe487744ba1b",
+    "docs/itemized/figures/apprentice-2024-downloads-by-week-apprentice-2024-week.svg": "5df19fdfcc22c19cda962edca74096f4cb8d9f0b0716b2077f18482189a80d16",
+    "docs/itemized/figures/apprentice-2024-downloads-by-day-day.svg": "b8b8996800e40bd0d5aea25c4964409348c34b90ce551e01cebf11cca6de5f8d",
+    "docs/itemized/figures/apprentice-2024-carto.png": "6681166038d7375bfa08c3d1f2eb5cd450f5e6064a0183751a8f1404e95eb491",
+    "docs/itemized/figures/apprentice-2024-carto-4k.webp": "6fe763869cc8f14a8d91184bfda3d70364e79bde8ce313b88737723a0850f150",
+    "docs/itemized/figures/apprentice-2024-data-ge-1080p.webp": "a30f516b9f157f4cae1f142f0ec638d121d3d1bb72ea02bc758f3c4966bca2a1",
+    "docs/itemized/figures/apprentice-2024-data-ge-1080p-4k.webp": "366818114349a71dcc8c275f9429373119bcd3999349bd61185ff907a8f11ffd",
+    "docs/itemized/figures/apprentice-2024-data-lt-1080p.webp": "b26c3ef930a84c3f8eed163a10a7d166e280863de3abec9f3dffc6131a890965",
+    "docs/itemized/figures/apprentice-2024-data-lt-1080p-4k.webp": "7715991ce08d72bfdba79341ede655a0226acfcc77703e8b98f6c6bcaffd952f"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "apprentice-2024",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/apprentice-2024-days.csv",
+        "sha256": "0771daad46394f53746b3fde2a7c8e847520e8d3da7d84fb3247b5e26a7e7178",
+        "size": 6465
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/apprentice-2024-downloads-by-week-apprentice-2024-week.svg",
+        "sha256": "5df19fdfcc22c19cda962edca74096f4cb8d9f0b0716b2077f18482189a80d16",
+        "size": 33551,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/apprentice-2024-downloads-by-day-day.svg",
+        "sha256": "b8b8996800e40bd0d5aea25c4964409348c34b90ce551e01cebf11cca6de5f8d",
+        "size": 28512,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/apprentice-2024-cumulative-btiha.geojson.gz",
+        "sha256": "cb1bfc82d1d338fd1d54e060e0b813d488ab52f32498733c9dd8a5b16f292b82",
+        "size": 17242421
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/apprentice-2024-cumulative-btiha-media-objects.json",
+        "sha256": "98d48fbf3fde2c908b07411395eded1728cdeeddbf2a8e2911a6bec10317bce3",
+        "size": 206964
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 32,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 27,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          88.0,
+          73.0,
+          51.0,
+          40.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Yekaterinburg",
+          "Lelystad"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          81.0,
+          67.0,
+          50.0,
+          33.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
