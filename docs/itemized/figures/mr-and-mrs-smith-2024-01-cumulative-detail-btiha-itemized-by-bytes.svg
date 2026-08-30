@@ -14,5 +14,121 @@ Distribution of media object sizes in gigabytes.
 <title>
 mr-and-mrs-smith-2024-01-cumulative-detail-btiha-itemized-by-bytes
 </title>
+<text x="960.000000" y="126.000000" font-family="Atkinson Hyperlegible" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3.38 [0.12, 111.92]</text>
+ <g id="histogram-bars">
+<rect x="200.000000" y="200.000000" width="15.200000" height="680.000000"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="215.200000" y="634.216867" width="15.200000" height="245.783133"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="230.400000" y="650.602410" width="15.200000" height="229.397590"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="245.600000" y="724.337349" width="15.200000" height="155.662651"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="260.800000" y="666.987952" width="15.200000" height="213.012048"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="276.000000" y="666.987952" width="15.200000" height="213.012048"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="291.200000" y="822.650602" width="15.200000" height="57.349398"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="306.400000" y="839.036145" width="15.200000" height="40.963855"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="321.600000" y="847.228916" width="15.200000" height="32.771084"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="336.800000" y="855.421687" width="15.200000" height="24.578313"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="367.200000" y="855.421687" width="15.200000" height="24.578313"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="382.400000" y="863.614458" width="15.200000" height="16.385542"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="397.600000" y="839.036145" width="15.200000" height="40.963855"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="488.800000" y="871.807229" width="15.200000" height="8.192771"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="580.000000" y="847.228916" width="15.200000" height="32.771084"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="595.200000" y="830.843373" width="15.200000" height="49.156627"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="610.400000" y="847.228916" width="15.200000" height="32.771084"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="625.600000" y="855.421687" width="15.200000" height="24.578313"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="640.800000" y="855.421687" width="15.200000" height="24.578313"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="777.600000" y="847.228916" width="15.200000" height="32.771084"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="792.800000" y="871.807229" width="15.200000" height="8.192771"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="808.000000" y="863.614458" width="15.200000" height="16.385542"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="944.800000" y="871.807229" width="15.200000" height="8.192771"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="990.400000" y="863.614458" width="15.200000" height="16.385542"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+<rect x="1704.800000" y="863.614458" width="15.200000" height="16.385542"
+ style="fill:rgb(211,211,211); fill-opacity:1; stroke:rgb(211,211,211); stroke-opacity:0; stroke-width:0" />
+ </g>
+ <g id="axes-lines">
+<line x1="200.000000" y1="880.000000" x2="1720.000000" y2="880.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="880.000000" x2="200.000000" y2="200.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
+<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> SIZE IN GB</text>
+<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> MEDIA OBJECTS</text>
+ </g>
+ <g id="tic-x-minor">
+<line x1="266.373744" y1="880.000000" x2="266.373744" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="334.351712" y1="880.000000" x2="334.351712" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="402.329679" y1="880.000000" x2="402.329679" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="470.307647" y1="880.000000" x2="470.307647" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="606.263582" y1="880.000000" x2="606.263582" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="674.241549" y1="880.000000" x2="674.241549" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="742.219517" y1="880.000000" x2="742.219517" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="810.197484" y1="880.000000" x2="810.197484" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="946.153419" y1="880.000000" x2="946.153419" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1014.131387" y1="880.000000" x2="1014.131387" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1082.109354" y1="880.000000" x2="1082.109354" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1150.087322" y1="880.000000" x2="1150.087322" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1286.043257" y1="880.000000" x2="1286.043257" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1354.021224" y1="880.000000" x2="1354.021224" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1421.999192" y1="880.000000" x2="1421.999192" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1489.977159" y1="880.000000" x2="1489.977159" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1625.933095" y1="880.000000" x2="1625.933095" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<line x1="1693.911062" y1="880.000000" x2="1693.911062" y2="887.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+ </g>
+ <g id="tic-x-labels">
+<line x1="200.000000" y1="880.000000" x2="200.000000" y2="892.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="200.000000" y="916.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.12</text>
+<line x1="538.285614" y1="880.000000" x2="538.285614" y2="892.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="538.285614" y="916.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 25</text>
+<line x1="878.175452" y1="880.000000" x2="878.175452" y2="892.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="878.175452" y="916.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 50</text>
+<line x1="1218.065289" y1="880.000000" x2="1218.065289" y2="892.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="1218.065289" y="916.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 75</text>
+<line x1="1557.955127" y1="880.000000" x2="1557.955127" y2="892.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="1557.955127" y="916.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 100</text>
+<line x1="1720.000000" y1="880.000000" x2="1720.000000" y2="892.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="1720.000000" y="916.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 111.92</text>
+ </g>
+ <g id="tic-y-labels">
+<line x1="188.000000" y1="880.000000" x2="200.000000" y2="880.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0</text>
+<line x1="188.000000" y1="806.265060" x2="200.000000" y2="806.265060" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="806.265060" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<line x1="188.000000" y1="732.530120" x2="200.000000" y2="732.530120" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="732.530120" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 18</text>
+<line x1="188.000000" y1="658.795181" x2="200.000000" y2="658.795181" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="658.795181" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 27</text>
+<line x1="188.000000" y1="585.060241" x2="200.000000" y2="585.060241" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="585.060241" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 36</text>
+<line x1="188.000000" y1="511.325301" x2="200.000000" y2="511.325301" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="511.325301" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 45</text>
+<line x1="188.000000" y1="437.590361" x2="200.000000" y2="437.590361" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="437.590361" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 54</text>
+<line x1="188.000000" y1="363.855422" x2="200.000000" y2="363.855422" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="363.855422" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 63</text>
+<line x1="188.000000" y1="290.120482" x2="200.000000" y2="290.120482" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="290.120482" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 72</text>
+<line x1="188.000000" y1="216.385542" x2="200.000000" y2="216.385542" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="216.385542" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 81</text>
+<line x1="188.000000" y1="200.000000" x2="200.000000" y2="200.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
+<text x="164.000000" y="200.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 83</text>
+ </g>
 </svg>
-

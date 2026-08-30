@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "mr-and-mrs-smith-2024-01",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:18:04.037790+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt14044212",
+    "external_imdb": "tt14044212",
+    "wikidata_id": "Q116265663",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mr._%26_Mrs._Smith_(2024_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/mr-and-mrs-smith-2024-01-cumulative.json",
+      "size": 15726,
+      "sha256": "ecaf48ff6bf665bb3d13c5db116fa50e1a01b505b778a9e3799a641925d6b99b"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/mr-and-mrs-smith-2024-01-week.json",
+      "size": 2092112,
+      "sha256": "7f84c886a0e9fb1713a87653486d38a15870b34e7af5a8dd7cf4d4ff337d552a"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/mr-and-mrs-smith-2024-01-cumulative-ip-swarm.json",
+      "size": 42279,
+      "sha256": "197af158332b7efc4aca7fa471b3a3071945692b30832188ddb490d2dd7eab6f"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/mr-and-mrs-smith-2024-01-cumulative-btiha-media-objects.json",
+      "size": 1039300,
+      "sha256": "beb193fab11865dda0b935c94f516c8ee3d4235259b25014d65fffbd780bd863"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/mr-and-mrs-smith-2024-01-cumulative-aggregate.geojson.gz",
+      "size": 1066625,
+      "sha256": "e9ee34abe9741cb9dce9cf0c0a2d5f5576c2e488edd701c3867429b873715442"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/mr-and-mrs-smith-2024-01-cumulative-btiha.geojson.gz",
+      "size": 23822247,
+      "sha256": "15e0aad923ce25b6889bb4546ecef2014acf0daa71140c385367c5de3eb3726a"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-week-mr-and-mrs-smith-2024-01-week.svg",
+      "size": 1090,
+      "sha256": "fb2ccd58c88321890b182540328865e900de4dd39bab4c6638d9422590df04cb"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-day-day.svg",
+      "size": 2652,
+      "sha256": "844576efecc6a56d9cdaa40b56dec055f8e05739bc62cad9599dd264dc806a15"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/mr-and-mrs-smith-2024-01.json",
+      "size": 8329,
+      "sha256": "96d2ee7ef9744803a1cab1ad8ec83222cacdca742d9e55d6921a08b772056694"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/mr-and-mrs-smith-2024-01-days.csv",
+      "size": 3688,
+      "sha256": "1ee89d715072c32d78d29791b0c5e9fc30f610942badf5b73fd9556a8538a078"
+    }
+  },
+  "coverage_sha256": "fa4ce00dec6644b79fb5c5c3ed4a4075c4763fa9fa82499cce70fda6711e61ac",
+  "published_files": {
+    "docs/itemized/mr-and-mrs-smith-2024-01-sample-cache-audit.md": "599e73f9557449efa4ca4c554bf5a2daf16acc928855c4eacc6371992b58aeed",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/mr-and-mrs-smith-2024-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "bc8973ae409a6cecb73237424fb5a06883fadece9b3513b5623706576b4ee1e8",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-cumulative-detail-btiha-itemized-by-bytes.svg": "56253884e00548e1b758a3e286aa720e3d013f04dd15b68e9ddb5988da6af782",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-week-mr-and-mrs-smith-2024-01-week.svg": "b46f17bb432505b9d1c237e56e28c5f3378f1306e1f5e692db096071178201b2",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-day-day.svg": "588a553795a369679ba7c86f3e26e507b33a16963d7f13e87f150883a826005c",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-carto.png": "5de8dd7751ddd2723885051a9065a51a0c5678372037ea258147b927b9c6af82",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-carto-4k.webp": "fdb03128ba951082fd9a3afa57d337a58f081062cdc325fae0313bdab90b0e86",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-data-ge-1080p.webp": "e780e2a24baf9c19c1159ad31c145fced68fee85169f38aceb6bfecd80392f9d",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-data-ge-1080p-4k.webp": "72dc8fda87c342943d0c4862ab1c2d057b8c665bf5a435447cb7bc20670c9b1b",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-data-lt-1080p.webp": "6eef416ae0aa5aa7466e7696d6fd0dd2c37faad47071e72231b1a2f0ad8f6a92",
+    "docs/itemized/figures/mr-and-mrs-smith-2024-01-data-lt-1080p-4k.webp": "d15831692b8288e788d0d589620e52a9e4cda0ef404404febd99068978005d09"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "mr-and-mrs-smith-2024-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/mr-and-mrs-smith-2024-01-days.csv",
+        "sha256": "1ee89d715072c32d78d29791b0c5e9fc30f610942badf5b73fd9556a8538a078",
+        "size": 3688
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-week-mr-and-mrs-smith-2024-01-week.svg",
+        "sha256": "fb2ccd58c88321890b182540328865e900de4dd39bab4c6638d9422590df04cb",
+        "size": 1090,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-week-mr-and-mrs-smith-2024-01-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-day-day.svg",
+        "sha256": "844576efecc6a56d9cdaa40b56dec055f8e05739bc62cad9599dd264dc806a15",
+        "size": 2652,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/mr-and-mrs-smith-2024-01-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/mr-and-mrs-smith-2024-01-cumulative-btiha.geojson.gz",
+        "sha256": "15e0aad923ce25b6889bb4546ecef2014acf0daa71140c385367c5de3eb3726a",
+        "size": 23822247
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/mr-and-mrs-smith-2024-01-cumulative-btiha-media-objects.json",
+        "sha256": "beb193fab11865dda0b935c94f516c8ee3d4235259b25014d65fffbd780bd863",
+        "size": 1039300
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 25,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 17,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Ashburn",
+          "Mexico City"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          70.0,
+          47.0,
+          40.0,
+          34.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Ashburn",
+          "Amsterdam",
+          "Budapest",
+          "Mexico City"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          74.0,
+          48.0,
+          38.0,
+          35.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
