@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "boys-401",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:37:08.074183+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt1190634",
+    "external_imdb": "tt1190634",
+    "wikidata_id": "Q48796994",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boys-401-cumulative.json",
+      "size": 15744,
+      "sha256": "d174aa970744ef0013b48f60fa975e1e1f3533ccc06495727e884d9ff5c590f1"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boys-401-week.json",
+      "size": 3412082,
+      "sha256": "95aee1b390a2ed2c53d73681bae1de53fc4a67c920c7d61c596853b1e77d03db"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boys-401-cumulative-ip-swarm.json",
+      "size": 43579,
+      "sha256": "c283d993f94aa26b3c6751ebc6315d9779a08919b3f5b9e3ec871e59ac8e91b6"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/boys-401-cumulative-btiha-media-objects.json",
+      "size": 477524,
+      "sha256": "cb0bdfe5e1b79c2efe3ed3151731fa6a37ca42cccbfa3672cde05fa9666d8cbb"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/boys-401-cumulative-aggregate.geojson.gz",
+      "size": 1301410,
+      "sha256": "68eac5f98f1e2df38e1bd0495faeb1b0616301fdc9f700be485e1c52ddefe7a1"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/boys-401-cumulative-btiha.geojson.gz",
+      "size": 38354971,
+      "sha256": "bbf9d06e4274e4aa1c74d933daed26d360d29a7afd18cfad76270ff3ca063c59"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/boys-401-downloads-by-week-boys-401-week.svg",
+      "size": 31422,
+      "sha256": "acc788932f5a04b326fa99e7d884874eab4fe97ea78acfde5b11860a3cf0b6ca"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/boys-401-downloads-by-day-day.svg",
+      "size": 27393,
+      "sha256": "9f3768dd3c1b0546e0c992b7e17792bb3d2825cf6966bfa51846839b4a41a2e6"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/boys-401.json",
+      "size": 16764,
+      "sha256": "7c468be9a333c0da079d4ba30006eb6c836ff74d73c1b67040086a504eb9bb2f"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/boys-401-days.csv",
+      "size": 6459,
+      "sha256": "7d9112d0333250bea135eed8eae4b354d3ed0aa97719c295fb78b7cb31811325"
+    }
+  },
+  "coverage_sha256": "edf46de8824376f22b754be25018548b5cc801c137318a563f4c7f54396194b7",
+  "published_files": {
+    "docs/itemized/boys-401-sample-cache-audit.md": "19dd850fc0bc40276027a39bc84a4a3e939542de94cd7ca0fcb36273143e00d2",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/boys-401-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "70e1c144061a8c31d3637552b965d91efe2e2f2f92f2d63da68b583fa8d0ec81",
+    "docs/itemized/figures/boys-401-cumulative-detail-btiha-itemized-by-bytes.svg": "a62626e37d303f080a8b96adb8c89cff159ac88432414db863a76b701b5cb061",
+    "docs/itemized/figures/boys-401-downloads-by-week-boys-401-week.svg": "acc788932f5a04b326fa99e7d884874eab4fe97ea78acfde5b11860a3cf0b6ca",
+    "docs/itemized/figures/boys-401-downloads-by-day-day.svg": "9f3768dd3c1b0546e0c992b7e17792bb3d2825cf6966bfa51846839b4a41a2e6",
+    "docs/itemized/figures/boys-401-carto.png": "5c037f66d4ee3ba658ad278fc7c26d271e5e47b92a54dcdb507295472d015b13",
+    "docs/itemized/figures/boys-401-carto-4k.webp": "f2f0a35dc51a8e0b044d84a66b23e3930a0b7f0465050de5a57946dbe862765b",
+    "docs/itemized/figures/boys-401-data-ge-1080p.webp": "c865b4319c163fbc086257f5052a7758850fc19483bc37a789971c966af0f8c6",
+    "docs/itemized/figures/boys-401-data-ge-1080p-4k.webp": "6ec63e99f027a6f97eb7f4a31fdae06d4fae0a6441e19db37a5210b8b8a2ab86",
+    "docs/itemized/figures/boys-401-data-lt-1080p.webp": "980942274e4255a317463eeb605d5d57bcc79a19a5ba101b2b92108d7c52c291",
+    "docs/itemized/figures/boys-401-data-lt-1080p-4k.webp": "4eba2372a27d49f9c4223e55ac09c43788aea47885904606133e8eebff20f57d"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "boys-401",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/boys-401-days.csv",
+        "sha256": "7d9112d0333250bea135eed8eae4b354d3ed0aa97719c295fb78b7cb31811325",
+        "size": 6459
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/boys-401-downloads-by-week-boys-401-week.svg",
+        "sha256": "acc788932f5a04b326fa99e7d884874eab4fe97ea78acfde5b11860a3cf0b6ca",
+        "size": 31422,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/boys-401-downloads-by-day-day.svg",
+        "sha256": "9f3768dd3c1b0546e0c992b7e17792bb3d2825cf6966bfa51846839b4a41a2e6",
+        "size": 27393,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/boys-401-cumulative-btiha.geojson.gz",
+        "sha256": "bbf9d06e4274e4aa1c74d933daed26d360d29a7afd18cfad76270ff3ca063c59",
+        "size": 38354971
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/boys-401-cumulative-btiha-media-objects.json",
+        "sha256": "cb0bdfe5e1b79c2efe3ed3151731fa6a37ca42cccbfa3672cde05fa9666d8cbb",
+        "size": 477524
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 30,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Amsterdam",
+          "Budapest",
+          "Lelystad",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          50.0,
+          44.0,
+          38.0,
+          36.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          50.0,
+          37.0,
+          35.0,
+          34.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}

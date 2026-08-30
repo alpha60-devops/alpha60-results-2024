@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | The Boys |
 | Collection key | `boys-401` |
 | imdb_id | [tt1190634](https://www.imdb.com/title/tt1190634/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [The Boys (TV series)](https://en.wikipedia.org/wiki/The_Boys_(TV_series)) |
 | Sample dates | 2024-06-14-to-2024-12-12 |
-| Sample days | 182 (2024–2024) |
+| Sample days | 182 |
 | BTIH count | 316 |
 | Unique BTIH count | 284 |
 | Downloaders total | 41,998,372 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:21:19Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/boys-401.xz`
@@ -44,7 +44,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-08-18 22:06`, resumed `2024-08-19 00:06` — missing 1 hour(s)
 - missing day: `2024-08-15`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![The Boys collection size histogram](figures/boys-401-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -52,7 +52,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![boys-401 downloads by week](figures/boys-401-downloads-by-week-boys-401-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/boys-401-downloads-by-week-boys-401-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -60,7 +73,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -74,8 +87,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/boys-401-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/boys-401-data-ge-1080p.webp)](figures/boys-401-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/boys-401-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/boys-401-data-lt-1080p.webp)](figures/boys-401-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
