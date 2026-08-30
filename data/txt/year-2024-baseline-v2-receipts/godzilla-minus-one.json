@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "godzilla-minus-one",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:53:49.548324+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt23289160",
+    "external_imdb": "tt23289160",
+    "wikidata_id": "Q115053037",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-minus-one-cumulative.json",
+      "size": 15708,
+      "sha256": "d3b52accbda925a83df0597f74495050019da1ecf3593bd9ecce6eb6deb227bd"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-minus-one-week.json",
+      "size": 4489987,
+      "sha256": "e5f094ca6d04d46804ed4336a7acc41d6e4d5f75f121414081434bcfb4d63059"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-minus-one-cumulative-ip-swarm.json",
+      "size": 44156,
+      "sha256": "87ce8ead7ee9f6677d55d4fab5dfc8096d7f3b48a4d47671502400e3b72698ce"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-minus-one-cumulative-btiha-media-objects.json",
+      "size": 943696,
+      "sha256": "d72fd06777f9a45c2b054e1dea9a50f04669b935d01805b6a55600c2f384e56a"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/godzilla-minus-one-cumulative-aggregate.geojson.gz",
+      "size": 1347494,
+      "sha256": "6340b8ecaf4bc35335a901f05d4eb06b1d7ad56b0261a42f79e1157506c5578a"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/godzilla-minus-one-cumulative-btiha.geojson.gz",
+      "size": 53856159,
+      "sha256": "91079dc18e6b174adb823dcfa9107c1d91b7950ab8fd7a02f407de69bed7f84e"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-minus-one-downloads-by-week-godzilla-minus-one-week.svg",
+      "size": 32887,
+      "sha256": "a20690c6d4920f8d742c6fb00494d1762ab7273784ea5d2a58003ea3ccec3381"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-minus-one-downloads-by-day-day.svg",
+      "size": 28415,
+      "sha256": "05b3d4ce5df2a18235ca54b8d316b6372771b940fa7f1660e56a2100937a07e4"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/godzilla-minus-one.json",
+      "size": 8907,
+      "sha256": "1bc763ab3cd03853c41f051173cc1d610ef1fcf6577aa40e16f6557519c2fece"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/godzilla-minus-one-days.csv",
+      "size": 6467,
+      "sha256": "4770bc94e0db043860aaee82286df543ab078c44ebea7ddbee2e2fc5227eec2d"
+    }
+  },
+  "coverage_sha256": "a0c4ae5692b5acf64162754b240230cca699acbff331cacd8c97901c7ff69021",
+  "published_files": {
+    "docs/itemized/godzilla-minus-one-sample-cache-audit.md": "57ba07b396072cbdde312009972cf40a2173cdec2b79649a3aed4204af5288ed",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/godzilla-minus-one-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "b5c26f456fc63d0ba46cb7a9514bbe9b275d520679a2fe1353a66ac99225da63",
+    "docs/itemized/figures/godzilla-minus-one-cumulative-detail-btiha-itemized-by-bytes.svg": "af851edfeb70e5ef41445ac90f5b04414ba1a7e4dacf53cd4483fae7eed35017",
+    "docs/itemized/figures/godzilla-minus-one-downloads-by-week-godzilla-minus-one-week.svg": "a20690c6d4920f8d742c6fb00494d1762ab7273784ea5d2a58003ea3ccec3381",
+    "docs/itemized/figures/godzilla-minus-one-downloads-by-day-day.svg": "05b3d4ce5df2a18235ca54b8d316b6372771b940fa7f1660e56a2100937a07e4",
+    "docs/itemized/figures/godzilla-minus-one-carto.png": "b9fc7d4a0d763ea0e5265c05426752a4cd6d50931ad5f98fc662f84cef351968",
+    "docs/itemized/figures/godzilla-minus-one-carto-4k.webp": "3d2310be249b1341d115d9dee6eba2e1100baa738f2d525f5fb86aa959a532bd",
+    "docs/itemized/figures/godzilla-minus-one-data-ge-1080p.webp": "118e0dc830e65d9a23ff8c554543d9b17e5ac58113b45adde9fe60d2d3dc0d50",
+    "docs/itemized/figures/godzilla-minus-one-data-ge-1080p-4k.webp": "a0f97b908bf1877c9b8da83fefc44c69809e5488d351140b2fd544e1935b8977",
+    "docs/itemized/figures/godzilla-minus-one-data-lt-1080p.webp": "1cdf012999d0b8d2e83c317dbdcb1f8cb21acfdcc63affebf8019c4aca2192ee",
+    "docs/itemized/figures/godzilla-minus-one-data-lt-1080p-4k.webp": "2e02dce315fbdc10c8dd46f014d6369f7dbbba28233adda37b8473ab370ec4af"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "godzilla-minus-one",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/godzilla-minus-one-days.csv",
+        "sha256": "4770bc94e0db043860aaee82286df543ab078c44ebea7ddbee2e2fc5227eec2d",
+        "size": 6467
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-minus-one-downloads-by-week-godzilla-minus-one-week.svg",
+        "sha256": "a20690c6d4920f8d742c6fb00494d1762ab7273784ea5d2a58003ea3ccec3381",
+        "size": 32887,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/godzilla-minus-one-downloads-by-day-day.svg",
+        "sha256": "05b3d4ce5df2a18235ca54b8d316b6372771b940fa7f1660e56a2100937a07e4",
+        "size": 28415,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/godzilla-minus-one-cumulative-btiha.geojson.gz",
+        "sha256": "91079dc18e6b174adb823dcfa9107c1d91b7950ab8fd7a02f407de69bed7f84e",
+        "size": 53856159
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/godzilla-minus-one-cumulative-btiha-media-objects.json",
+        "sha256": "d72fd06777f9a45c2b054e1dea9a50f04669b935d01805b6a55600c2f384e56a",
+        "size": 943696
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 27,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          80.0,
+          50.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam",
+          "Yekaterinburg",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          81.0,
+          50.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
