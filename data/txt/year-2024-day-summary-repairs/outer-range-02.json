@@ -1,0 +1,70 @@
+{
+  "schema": "alpha60-day-summary-stream-repair/1",
+  "status": "pass",
+  "collection_key": "outer-range-02",
+  "authorization": {
+    "scope": "read-only streaming of per-torrent day records",
+    "raw_records_materialized": false,
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ]
+  },
+  "generator": {
+    "script": {
+      "path": "/home/bkoz/src/alpha60/scripts/stream-day-summary-csv.py",
+      "size": 25541,
+      "sha256": "6d74c81a2c1690e93cbcc4b665787c00897d11093669bc906426a51a57b89f27"
+    },
+    "repository": "/home/bkoz/src/alpha60",
+    "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+    "tracked_changes": false
+  },
+  "archive": {
+    "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/outer-range-02.cache/cache.20240828.tar.xz",
+    "size": 958952664,
+    "sha256": "9d0ab8ec289fbd2155b6da2191c74e0f304b4e20ed629ba0aa5f79803a514ae8"
+  },
+  "torrent_catalog": {
+    "repository": "/home/bkoz/src/alpha60-data",
+    "revision": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "directory": "/home/bkoz/src/alpha60-data/torrent/outer-range-02",
+    "torrent_files": 353,
+    "unique_btih": 326,
+    "catalog_set_sha256": "66653e2da243d6b564bc8141c4559ea875e5a3e8f6e71c7a87f61aa93da5c426"
+  },
+  "stream": {
+    "archive_members_seen": 882892,
+    "non_day_file_members_skipped": 847420,
+    "per_torrent_day_members_streamed": 35471,
+    "per_torrent_day_member_set_sha256": "fcc03c9890984af4da833b49d2c7d7d5346ba717eeb68dc0ab0fe427a96ca742"
+  },
+  "series_validation": {
+    "days": 105,
+    "first_index": 1,
+    "last_index": 105,
+    "first_date": "2024-05-16",
+    "last_date": "2024-08-28",
+    "contiguous": true
+  },
+  "legacy_downloader_series_proof": {
+    "status": "pass",
+    "method": "independent-min-max-normalized-polyline-comparison",
+    "points": 105,
+    "tolerance": 0.02,
+    "maximum_x_error": 0.0046153846153629274,
+    "maximum_y_error": 0.0004846706461876238,
+    "legacy_svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-day-day.svg",
+      "size": 2384,
+      "sha256": "f6cf14f3249dca8b9c5eae4a584d5c92f242fdf1f7fbd74266d1e9fdd3ca188f"
+    }
+  },
+  "day_series_csv": {
+    "path": "/tmp/alpha60-day-repair.227zFJ/products/outer-range-02-days.csv",
+    "size": 3607,
+    "sha256": "65a3a77209b830cba2719c1c6372ddca7a87d8c9b955fe7b8c404eefaf99b912"
+  }
+}

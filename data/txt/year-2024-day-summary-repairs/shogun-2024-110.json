@@ -1,0 +1,78 @@
+{
+  "schema": "alpha60-day-summary-stream-repair/1",
+  "status": "pass",
+  "collection_key": "shogun-2024-110",
+  "authorization": {
+    "scope": "read-only streaming of per-torrent day records",
+    "raw_records_materialized": false,
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ]
+  },
+  "generator": {
+    "script": {
+      "path": "/home/bkoz/src/alpha60/scripts/stream-day-summary-csv.py",
+      "size": 25541,
+      "sha256": "6d74c81a2c1690e93cbcc4b665787c00897d11093669bc906426a51a57b89f27"
+    },
+    "repository": "/home/bkoz/src/alpha60",
+    "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+    "tracked_changes": false
+  },
+  "archive": {
+    "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/shogun-2024-110.cache/cache.20240806.tar.xz",
+    "size": 1802096668,
+    "sha256": "923c7b218148d750b39e03242364b6c788b77b856f1de9add48011593c011dc8"
+  },
+  "torrent_catalog": {
+    "repository": "/home/bkoz/src/alpha60-data",
+    "revision": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "directory": "/home/bkoz/src/alpha60-data/torrent/shogun-2024-110",
+    "torrent_files": 234,
+    "unique_btih": 217,
+    "catalog_set_sha256": "099451abb472f20f3c4905469d80e2b1d0d94833675a1085602e3beaef1a9964"
+  },
+  "stream": {
+    "archive_members_seen": 593628,
+    "non_day_file_members_skipped": 569925,
+    "per_torrent_day_members_streamed": 23702,
+    "per_torrent_day_member_set_sha256": "2355db7403961f6d152f13a20fb3f758edb9ce377c2c8467d0b7d7b532c24753"
+  },
+  "series_validation": {
+    "days": 106,
+    "first_index": 1,
+    "last_index": 106,
+    "first_date": "2024-04-23",
+    "last_date": "2024-08-06",
+    "contiguous": true
+  },
+  "legacy_downloader_series_proof": {
+    "status": "pass",
+    "method": "independent-min-max-normalized-polyline-comparison",
+    "points": 106,
+    "tolerance": 0.02,
+    "maximum_x_error": 0.004761904761835467,
+    "maximum_y_error": 0.0004927572149426851,
+    "legacy_svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-day-day.svg",
+      "size": 2395,
+      "sha256": "6846278903d4a7f3be318615cf981be93babfd536ecc35980664dcfeb96baabb"
+    }
+  },
+  "day_series_csv": {
+    "path": "/tmp/alpha60-day-repair.227zFJ/products/shogun-2024-110-days.csv",
+    "size": 3731,
+    "sha256": "f301895fc9d1affa36a0a5fe120c0cf9b06260f2b7dd5e3239eaff675a2b0e52"
+  },
+  "aggregate_summary_oracle_proof": {
+    "status": "pass",
+    "role": "independent-validation-only",
+    "directory": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/shogun-2024-110.cache/tmp",
+    "summary_files": 106,
+    "all_seven_columns_exact": true,
+    "summary_set_sha256": "e18c370e338e9e9a4925afa38e1b2ba37d165c0bffed12d11a6d879e4120d0c7"
+  }
+}
