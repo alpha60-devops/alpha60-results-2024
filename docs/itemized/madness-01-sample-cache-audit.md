@@ -13,10 +13,10 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- |
 | Media object | The Madness |
 | Collection key | `madness-01` |
-| imdb_id | [tt0412949](https://www.imdb.com/title/tt0412949/) |
-| wikipedia_url | UNAVAILABLE |
+| imdb_id | [tt26676489](https://www.imdb.com/title/tt26676489/) |
+| wikipedia_url | [The Madness (TV series)](https://en.wikipedia.org/wiki/The_Madness_(TV_series)) |
 | Sample dates | 2024-11-28-to-2025-03-12 |
-| Sample days | 105 (2024–2025) |
+| Sample days | 105 |
 | BTIH count | 300 |
 | Unique BTIH count | 274 |
 | Downloaders total | 23,653,019 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T20:51:29Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/madness-01.xz`
@@ -39,7 +39,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2025-01-10 22:00`, resumed `2025-01-12 01:00` — missing 26 hour(s)
 - missing day: `2025-01-11`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![The Madness collection size histogram](figures/madness-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -47,7 +47,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![madness-01 downloads by week](figures/madness-01-downloads-by-week-madness-01-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/madness-01-downloads-by-week-madness-01-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -55,7 +68,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -69,8 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/madness-01-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/madness-01-data-ge-1080p.webp)](figures/madness-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/madness-01-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/madness-01-data-lt-1080p.webp)](figures/madness-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

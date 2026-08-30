@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "madness-01",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:11:47.672628+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt26676489",
+    "external_imdb": "tt26676489",
+    "wikidata_id": "Q130289093",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Madness_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/madness-01-cumulative.json",
+      "size": 15672,
+      "sha256": "6fc772ec623278ea6021dd58bdaddcb0464c93024b0921f60169619a34090205"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/madness-01-week.json",
+      "size": 1828910,
+      "sha256": "25ef84af3153b58e561f6b4640fa90e11daa42fd214222c966645ca4531008dc"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/madness-01-cumulative-ip-swarm.json",
+      "size": 41899,
+      "sha256": "64a2d8f5a62e8eff9da450ef66dadd90a26fcde3c17c8fe0fef448a05deb2c89"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/madness-01-cumulative-btiha-media-objects.json",
+      "size": 573369,
+      "sha256": "dba1a3872175c288cdff83c4c24d545f9cc125b37f2b2483b744ace82885bd3f"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/madness-01-cumulative-aggregate.geojson.gz",
+      "size": 1069543,
+      "sha256": "b8faa59b79da8e591b3fd0164bddfecc36768d69bd34dd6bb5142c06fd5d9cd6"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/madness-01-cumulative-btiha.geojson.gz",
+      "size": 26933605,
+      "sha256": "406c33bda60e433a93c0f363a5dfbe07414e19fae9fcd03304917fab45d252b5"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/madness-01-downloads-by-week-madness-01-week.svg",
+      "size": 22529,
+      "sha256": "93005ea323efef14d04e1e7ac3eec95a345c671b892b78b7921af48feb40258c"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/madness-01-downloads-by-day-day.svg",
+      "size": 23006,
+      "sha256": "f0a448c657225dc86e829ad3c525c8d817cec24634e1d1fe0f68b9026135c651"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/madness-01.json",
+      "size": 8621,
+      "sha256": "5c499250017ac04d9372a0b02193588ee6490664c962de59e1170cefc26be1be"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/madness-01-days.csv",
+      "size": 2419,
+      "sha256": "dc4f429b331249d5aa7a3b565562bdc1a270292d7ca17a2f44b42b073582b6d5"
+    }
+  },
+  "coverage_sha256": "a0a1c2a5ed59188748f500def8e0edcd06643ef73acc9ea7a3553bbfb16771b6",
+  "published_files": {
+    "docs/itemized/madness-01-sample-cache-audit.md": "c4d90d48cdc3e3a484b13e83f50683b34f1544a50f2011212b1d21ada1bafecd",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/madness-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "f4356ca026ae185813282ce0fee26f1cb89eba14e24e664ca2878ccad116bf2f",
+    "docs/itemized/figures/madness-01-cumulative-detail-btiha-itemized-by-bytes.svg": "316bbeffd6e3a1e49409826b2532a73c6acd22a726edc5affa4a8564b34f1c3d",
+    "docs/itemized/figures/madness-01-downloads-by-week-madness-01-week.svg": "93005ea323efef14d04e1e7ac3eec95a345c671b892b78b7921af48feb40258c",
+    "docs/itemized/figures/madness-01-downloads-by-day-day.svg": "f0a448c657225dc86e829ad3c525c8d817cec24634e1d1fe0f68b9026135c651",
+    "docs/itemized/figures/madness-01-carto.png": "7b975f3c2caf64455027b716904c2f37f04e1d238a36c24863ab3bb5ea405a07",
+    "docs/itemized/figures/madness-01-carto-4k.webp": "9f05f9e112135e2b7a86eee4a1f93c5b64fa46b449a57a93a8fb446bba929725",
+    "docs/itemized/figures/madness-01-data-ge-1080p.webp": "d8cb446c613e8b78cd422b954603260b7ff8ae92b1668b97dbea6693c33efee7",
+    "docs/itemized/figures/madness-01-data-ge-1080p-4k.webp": "b46880a59b978dcb338f49a819dfe31cb72f8d2bb634a15b7c74800c3305d28c",
+    "docs/itemized/figures/madness-01-data-lt-1080p.webp": "93d75c9e43ba2a6166df244f362f0c7c05f90de6dc428eafbe26241bc602e0ef",
+    "docs/itemized/figures/madness-01-data-lt-1080p-4k.webp": "732647f4c2e45073e301c6c61b044965182506d119c6303c77298d1522d165af"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "madness-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/madness-01-days.csv",
+        "sha256": "dc4f429b331249d5aa7a3b565562bdc1a270292d7ca17a2f44b42b073582b6d5",
+        "size": 2419
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/madness-01-downloads-by-week-madness-01-week.svg",
+        "sha256": "93005ea323efef14d04e1e7ac3eec95a345c671b892b78b7921af48feb40258c",
+        "size": 22529,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/madness-01-downloads-by-day-day.svg",
+        "sha256": "f0a448c657225dc86e829ad3c525c8d817cec24634e1d1fe0f68b9026135c651",
+        "size": 23006,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/madness-01-cumulative-btiha.geojson.gz",
+        "sha256": "406c33bda60e433a93c0f363a5dfbe07414e19fae9fcd03304917fab45d252b5",
+        "size": 26933605
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/madness-01-cumulative-btiha-media-objects.json",
+        "sha256": "dba1a3872175c288cdff83c4c24d545f9cc125b37f2b2483b744ace82885bd3f",
+        "size": 573369
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 38,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Istanbul",
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ankara",
+          "London",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam",
+          "Warsaw"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          82.0,
+          64.0,
+          46.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Istanbul",
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ankara",
+          "London",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          82.0,
+          65.0,
+          46.0,
+          32.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
