@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "fargo-510",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:45:32.311042+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt2802850",
+    "external_imdb": "tt2802850",
+    "wikidata_id": "Q15931555",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fargo_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fargo-510-cumulative.json",
+      "size": 15666,
+      "sha256": "0ac20d50203ebf3607b5051165822fa9e331cab1083aa0171113b7373b07e30e"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fargo-510-week.json",
+      "size": 574523,
+      "sha256": "65da9f62bca4418c557a6f0d86caa6d36b46c0039c205dd4243e12f3b2cc4b0d"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fargo-510-cumulative-ip-swarm.json",
+      "size": 40770,
+      "sha256": "fafb4ebbe72b4878d695c030e9fe218dc794a0bb582de6e171853def611ce7b8"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fargo-510-cumulative-btiha-media-objects.json",
+      "size": 395061,
+      "sha256": "2a3488da66b88391dd06cf9135f8cd007551e01c62b4ef77788e03e6b2cf787f"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fargo-510-cumulative-aggregate.geojson.gz",
+      "size": 809146,
+      "sha256": "7ec5471afb79664826f7faac76d8787075395155fccb09ab4e07764cf29680c4"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fargo-510-cumulative-btiha.geojson.gz",
+      "size": 9705055,
+      "sha256": "fd83878e499a6238393fb11ead083f51fecced58e228fe379b3b501ee296c91d"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fargo-510-downloads-by-week-fargo-510-week.svg",
+      "size": 18424,
+      "sha256": "0190f4a6557684251b82db4493758605ced83263081e52bdbce047311d8e9cb7"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fargo-510-downloads-by-day-day.svg",
+      "size": 22774,
+      "sha256": "ccf6951690aed9f23c31a3e61080cc7f6f95a32d98c39eb10bca5a6f299a058f"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fargo-510.json",
+      "size": 21356,
+      "sha256": "984e6a591691a5fb8637a162dd5773ca1f0fe095c7e812e1465b47e1ada1a011"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fargo-510-days.csv",
+      "size": 2438,
+      "sha256": "7f59e42dd37f4c6ec9c406de9bddf0378f8bb93f7b4382293e04065061f3163b"
+    }
+  },
+  "coverage_sha256": "e56426422111e122771ddb13369e3583e10f1c7507dc800e3eff0ad342ac8044",
+  "published_files": {
+    "docs/itemized/fargo-510-sample-cache-audit.md": "1175893821d34b3d90bf427895db161ff1663c6b7d215331bcc9091ca15fe33a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/fargo-510-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "15478cdaca0aad30fab845f67eed6a3056189df6a0944eed10e577daefc2e685",
+    "docs/itemized/figures/fargo-510-cumulative-detail-btiha-itemized-by-bytes.svg": "e7dc0eebd0832cc5d8ac6dccb113ffd75f73e8b86d0c48db9c1f147dc9dbdcbd",
+    "docs/itemized/figures/fargo-510-downloads-by-week-fargo-510-week.svg": "0190f4a6557684251b82db4493758605ced83263081e52bdbce047311d8e9cb7",
+    "docs/itemized/figures/fargo-510-downloads-by-day-day.svg": "ccf6951690aed9f23c31a3e61080cc7f6f95a32d98c39eb10bca5a6f299a058f",
+    "docs/itemized/figures/fargo-510-carto.png": "ee9f3dea731773e747dad5b7e23896ea95fa0f72952b2337e4f9b34fc866cb15",
+    "docs/itemized/figures/fargo-510-carto-4k.webp": "c8f3ab7b282c47172191d1c206a4880d4b8e94d8b471cb15684bdc2546facb71",
+    "docs/itemized/figures/fargo-510-data-ge-1080p.webp": "de6b8f9e91d49c150d4b166769dcf40d7670c980085e6b11d9bc49a3f6272f52",
+    "docs/itemized/figures/fargo-510-data-ge-1080p-4k.webp": "feb1b730d9d49449cae57436b0712282f1b0ee300181aed406eb98e777c434b4",
+    "docs/itemized/figures/fargo-510-data-lt-1080p.webp": "4530e86ca5020665b6f1c396c2fdb61928d0fef0156559fa0e771d927bf2e0b8",
+    "docs/itemized/figures/fargo-510-data-lt-1080p-4k.webp": "6f74ab2e65930ffff6350e73d726e4636ce52355f3cc888c9493e60a75113c9b"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "fargo-510",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fargo-510-days.csv",
+        "sha256": "7f59e42dd37f4c6ec9c406de9bddf0378f8bb93f7b4382293e04065061f3163b",
+        "size": 2438
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fargo-510-downloads-by-week-fargo-510-week.svg",
+        "sha256": "0190f4a6557684251b82db4493758605ced83263081e52bdbce047311d8e9cb7",
+        "size": 18424,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fargo-510-downloads-by-day-day.svg",
+        "sha256": "ccf6951690aed9f23c31a3e61080cc7f6f95a32d98c39eb10bca5a6f299a058f",
+        "size": 22774,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fargo-510-cumulative-btiha.geojson.gz",
+        "sha256": "fd83878e499a6238393fb11ead083f51fecced58e228fe379b3b501ee296c91d",
+        "size": 9705055
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/fargo-510-cumulative-btiha-media-objects.json",
+        "sha256": "2a3488da66b88391dd06cf9135f8cd007551e01c62b4ef77788e03e6b2cf787f",
+        "size": 395061
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 40,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Shanghai",
+          "Budapest",
+          "Ashburn"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          74.0,
+          48.0,
+          45.0,
+          33.0,
+          32.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Mexico City",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          71.0,
+          46.0,
+          37.0,
+          31.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
