@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Echo |
 | Collection key | `echo-01` |
 | imdb_id | [tt13966962](https://www.imdb.com/title/tt13966962/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Echo (miniseries)](https://en.wikipedia.org/wiki/Echo_(miniseries)) |
 | Sample dates | 2024-01-10-to-2024-07-09 |
-| Sample days | 182 (2024–2024) |
+| Sample days | 182 |
 | BTIH count | 352 |
 | Unique BTIH count | 332 |
 | Downloaders total | 33,399,544 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:28:01Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/echo-01.xz`
@@ -41,7 +41,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-02-24 01:03`, resumed `2024-02-24 03:03` — missing 1 hour(s)
 - hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` — missing 1 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Echo collection size histogram](figures/echo-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -49,7 +49,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![echo-01 downloads by week](figures/echo-01-downloads-by-week-echo-01-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/echo-01-downloads-by-week-echo-01-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -57,7 +70,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -71,8 +84,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/echo-01-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/echo-01-data-ge-1080p.webp)](figures/echo-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/echo-01-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/echo-01-data-lt-1080p.webp)](figures/echo-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
