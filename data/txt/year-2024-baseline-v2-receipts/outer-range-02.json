@@ -1,0 +1,259 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "outer-range-02",
+  "status": "passed",
+  "generated_at": "2026-08-30T02:59:00.203102+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt11685912",
+    "external_imdb": "tt11685912",
+    "wikidata_id": "Q105085590",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Outer_Range"
+  },
+  "source_revisions": {
+    "alpha60": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "day_series_repairs": "1f978c1773be713a489c1a018b5df18d70a48540",
+    "results_initial": "1f978c1773be713a489c1a018b5df18d70a48540"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/outer-range-02-cumulative.json",
+      "size": 15649,
+      "sha256": "5c0192a3694da09fbbc2ec7496e987339239c010d8e11b8ccb7f38e36dabfd25"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/outer-range-02-week.json",
+      "size": 2239482,
+      "sha256": "7ea9148718b1168ef2a4e94d3b5316f4fb458c8523a8c8a05c3ef76a631abd7d"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/outer-range-02-cumulative-ip-swarm.json",
+      "size": 42466,
+      "sha256": "8730a1b7c44fb546eb0c45e78f12eeeb9fa056e64e2098ae9366316ef74cae91"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/outer-range-02-cumulative-btiha-media-objects.json",
+      "size": 771170,
+      "sha256": "f5896f464e9112c893f96b99640c567d5c8f5c9760b906cd9c4c2401b633aa04"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/outer-range-02-cumulative-aggregate.geojson.gz",
+      "size": 1047894,
+      "sha256": "f98c0a1a1e82ab9cd2ed09512b881b9a90ed2bd4dbc860d75919332f0d4161a0"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/outer-range-02-cumulative-btiha.geojson.gz",
+      "size": 26847906,
+      "sha256": "f045600da9af9c4c26e61ef2972624c7502b83a64c6145a2817bf5c9cb260a8d"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-week-outer-range-02-week.svg",
+      "size": 1025,
+      "sha256": "44363ab1e8c03548cdeb14793c6eb21984d222c13b760a2a3070b86645aa13cc"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-day-day.svg",
+      "size": 2384,
+      "sha256": "f6cf14f3249dca8b9c5eae4a584d5c92f242fdf1f7fbd74266d1e9fdd3ca188f"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/outer-range-02.json",
+      "size": 10486,
+      "sha256": "7721de70acfe7961ef005ca02e6477af134784b3687d928869419ebb8b9176ae"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/outer-range-02-days.csv",
+      "size": 3607,
+      "sha256": "65a3a77209b830cba2719c1c6372ddca7a87d8c9b955fe7b8c404eefaf99b912"
+    },
+    "day-series-repair-provenance": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/outer-range-02.json",
+      "size": 2445,
+      "sha256": "5d9cfab0670ad8099219ed213aef68d6ca179a8a017c9d9d84d5497877e9bbcc"
+    }
+  },
+  "coverage_sha256": "6cff0c2756ee22ca159fb1bc513634bc9674e00220b4b9b2089fae30febc4e0f",
+  "published_files": {
+    "docs/itemized/outer-range-02-sample-cache-audit.md": "adb49697fadba155308675a2038ed82e5ec514021564894f78903ee064605f9c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/outer-range-02-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "d0874eac6ace1c7eca8f2101a21896f70e4bbfd5d82c62c63105352adc8e187f",
+    "docs/itemized/figures/outer-range-02-cumulative-detail-btiha-itemized-by-bytes.svg": "613ad5a59256b9e3d23274aeeb2758e148f5110a1a83de401ab63f3f469674d8",
+    "docs/itemized/figures/outer-range-02-downloads-by-week-outer-range-02-week.svg": "70c2d688edc3937f09ef554d329df4b176174bbc5ea37499cb510e4e2c8b8ee4",
+    "docs/itemized/figures/outer-range-02-downloads-by-day-day.svg": "f7e08c11ef0cd3da8f7e1375071ec9ad75654b096fed2ab159b8af0dbdc13e24",
+    "docs/itemized/figures/outer-range-02-carto.png": "3b3892338ff69acf1e7af03effd8b89a1c34d21aad0379ac0df2e92e9b8b3034",
+    "docs/itemized/figures/outer-range-02-carto-4k.webp": "ef522fb536e572cba68c36ddd4d2730d2149dab97643099ffeb92dfc086c0824",
+    "docs/itemized/figures/outer-range-02-data-ge-1080p.webp": "04f3e6fada42c90f1a61a9b75ae317ac67f0d3223a1fb5170e465da4da989b7e",
+    "docs/itemized/figures/outer-range-02-data-ge-1080p-4k.webp": "ed06a978b6fd180cd91864fc57c9858c779c41614e3da91383bd98b5524d5bf9",
+    "docs/itemized/figures/outer-range-02-data-lt-1080p.webp": "bd6c824addeecd9fb6c728a44eb4039f3a819a00325ae90eb8f13346fb6a73f1",
+    "docs/itemized/figures/outer-range-02-data-lt-1080p-4k.webp": "3b9e97b1a0e75511134f92e62c7e3f308f2e3da121f8bf964581288fc1f6f55e"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "outer-range-02",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/outer-range-02-days.csv",
+        "sha256": "65a3a77209b830cba2719c1c6372ddca7a87d8c9b955fe7b8c404eefaf99b912",
+        "size": 3607
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-week-outer-range-02-week.svg",
+        "sha256": "44363ab1e8c03548cdeb14793c6eb21984d222c13b760a2a3070b86645aa13cc",
+        "size": 1025,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-week-outer-range-02-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-day-day.svg",
+        "sha256": "f6cf14f3249dca8b9c5eae4a584d5c92f242fdf1f7fbd74266d1e9fdd3ca188f",
+        "size": 2384,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/outer-range-02-cumulative-btiha.geojson.gz",
+        "sha256": "f045600da9af9c4c26e61ef2972624c7502b83a64c6145a2817bf5c9cb260a8d",
+        "size": 26847906
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/outer-range-02-cumulative-btiha-media-objects.json",
+        "sha256": "f5896f464e9112c893f96b99640c567d5c8f5c9760b906cd9c4c2401b633aa04",
+        "size": 771170
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 38,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Istanbul",
+          "Budapest",
+          "Incheon"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          81.0,
+          50.0,
+          40.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "Lelystad",
+          "London",
+          "Amsterdam",
+          "Istanbul",
+          "Budapest",
+          "Incheon"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          83.0,
+          50.0,
+          30.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}

@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Outer Range |
 | Collection key | `outer-range-02` |
 | imdb_id | [tt11685912](https://www.imdb.com/title/tt11685912/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Outer Range](https://en.wikipedia.org/wiki/Outer_Range) |
 | Sample dates | 2024-05-16-to-2024-08-28 |
-| Sample days | 105 (2024–2024) |
+| Sample days | 105 |
 | BTIH count | 353 |
 | Unique BTIH count | 326 |
 | Downloaders total | 20,918,406 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:11:05Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/outer-range-02.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2024-07-15 12:00`, resumed `2024-07-16 00:00` — missing 11 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Outer Range collection size histogram](figures/outer-range-02-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![outer-range-02 downloads by week](figures/outer-range-02-downloads-by-week-outer-range-02-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/outer-range-02-downloads-by-week-outer-range-02-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/outer-range-02-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/outer-range-02-data-ge-1080p.webp)](figures/outer-range-02-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/outer-range-02-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/outer-range-02-data-lt-1080p.webp)](figures/outer-range-02-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
