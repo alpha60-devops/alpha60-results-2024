@@ -13,10 +13,10 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- |
 | Media object | Dune 2024: Part Two |
 | Collection key | `dune-2024` |
-| imdb_id | [tt0087182](https://www.imdb.com/title/tt0087182/) |
-| wikipedia_url | UNAVAILABLE |
+| imdb_id | [tt15239678](https://www.imdb.com/title/tt15239678/) |
+| wikipedia_url | [Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two) |
 | Sample dates | 2024-04-06-to-2024-10-04 |
-| Sample days | 182 (2024–2024) |
+| Sample days | 182 |
 | BTIH count | 704 |
 | Unique BTIH count | 626 |
 | Downloaders total | 97,510,251 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:26:58Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/dune-2024.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Dune 2024: Part Two collection size histogram](figures/dune-2024-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ None detected.
 
 ### Downloads by week cumulative (normalized start)
 
-![dune-2024 downloads by week](figures/dune-2024-downloads-by-week-dune-2024-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/dune-2024-downloads-by-week-dune-2024-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ None detected.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ None detected.
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/dune-2024-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/dune-2024-data-ge-1080p.webp)](figures/dune-2024-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/dune-2024-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/dune-2024-data-lt-1080p.webp)](figures/dune-2024-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

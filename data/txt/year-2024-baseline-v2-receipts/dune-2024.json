@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "dune-2024",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:43:21.975444+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt15239678",
+    "external_imdb": "tt15239678",
+    "wikidata_id": "Q109228991",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dune:_Part_Two"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/dune-2024-cumulative.json",
+      "size": 15706,
+      "sha256": "e51b3a6572100cc20cfb95fdd59e0e687b7e1a985f400796c643604386605fde"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/dune-2024-week.json",
+      "size": 6997302,
+      "sha256": "94d38e58ea68f11bf65b1103f1b737019993a54fffc5c0c073cf60b768166e1d"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/dune-2024-cumulative-ip-swarm.json",
+      "size": 44243,
+      "sha256": "4445d4ced4f5a692364b461b0be5b388d40811939c3a73742a93a735d26b9366"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/dune-2024-cumulative-btiha-media-objects.json",
+      "size": 1322834,
+      "sha256": "e413c9d98cbe5673a62334b769271dadcf85fd6b560c75d404b35b056e18f813"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/dune-2024-cumulative-aggregate.geojson.gz",
+      "size": 1501937,
+      "sha256": "cb694d5785cbdf521819fb708c3f3c6d5cec8950fa205a4919bd547792be6af1"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/dune-2024-cumulative-btiha.geojson.gz",
+      "size": 88664854,
+      "sha256": "b4cdec4068501cad68cb7b5c8f67de3c21efcfd3dacb2670fa62b4560a1982c0"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/dune-2024-downloads-by-week-dune-2024-week.svg",
+      "size": 32312,
+      "sha256": "c1b72fd7734ca100062dd1cfcfcb61be3b72bc890f460ec902ad5a3075da5aae"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/dune-2024-downloads-by-day-day.svg",
+      "size": 28342,
+      "sha256": "3288139f55f540260577da0517814b9a6f8b659815dba78a901cb8997331efa7"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/dune-2024.json",
+      "size": 11515,
+      "sha256": "f980a9982cfdde5aabd149e19af1e79064808ede8569a5420426bc3230ebbe45"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/dune-2024-days.csv",
+      "size": 6554,
+      "sha256": "0a34792a167ce94f3ee5c2b2fd187a97bab0f0ef7f0d20ed1b0c23e2e3331c26"
+    }
+  },
+  "coverage_sha256": "fd7bd763fc0f7b009fb5a10cab8b2c78819c5e867a1444513b28271a8f5d0c82",
+  "published_files": {
+    "docs/itemized/dune-2024-sample-cache-audit.md": "d5187b6f0523f6a5f096f4a2fb38e5942851388b7001347f1ea2821d4a071d70",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/dune-2024-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "42fdedce9f706cb82d393a19eda13b60a60d94d296dd56b99d063421dcb2e573",
+    "docs/itemized/figures/dune-2024-cumulative-detail-btiha-itemized-by-bytes.svg": "527061ebc51b58e133cddce8b8b7b9ef74f0a79d54073c9aa04ab58a58c36d43",
+    "docs/itemized/figures/dune-2024-downloads-by-week-dune-2024-week.svg": "c1b72fd7734ca100062dd1cfcfcb61be3b72bc890f460ec902ad5a3075da5aae",
+    "docs/itemized/figures/dune-2024-downloads-by-day-day.svg": "3288139f55f540260577da0517814b9a6f8b659815dba78a901cb8997331efa7",
+    "docs/itemized/figures/dune-2024-carto.png": "76b0e1cef77026a6b366daf9c3f404acdf3ab02bcd130f6f47b437b9b2056c5a",
+    "docs/itemized/figures/dune-2024-carto-4k.webp": "93677e69a07d8e8f056aee13ad079e7d2bbfc113575db83a3b2badec48735411",
+    "docs/itemized/figures/dune-2024-data-ge-1080p.webp": "e874941e3ccd521130854eb388d274dddc31bad3a963d1773094cc68b591f1ae",
+    "docs/itemized/figures/dune-2024-data-ge-1080p-4k.webp": "34402cbf999ee4f66c0258dd438a6c1fb55fa18b83e7a18a8abd4927b745ac85",
+    "docs/itemized/figures/dune-2024-data-lt-1080p.webp": "c9d395633fba7b6de1d97f0ad01f5b6240139ff9cdda3d2648179ea6baa4fa15",
+    "docs/itemized/figures/dune-2024-data-lt-1080p-4k.webp": "5cc905a63b25bd9b39b080eaa75f7e5b77b800e46a4dc2bfaaf6a094011d78d5"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "dune-2024",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/dune-2024-days.csv",
+        "sha256": "0a34792a167ce94f3ee5c2b2fd187a97bab0f0ef7f0d20ed1b0c23e2e3331c26",
+        "size": 6554
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/dune-2024-downloads-by-week-dune-2024-week.svg",
+        "sha256": "c1b72fd7734ca100062dd1cfcfcb61be3b72bc890f460ec902ad5a3075da5aae",
+        "size": 32312,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/dune-2024-downloads-by-day-day.svg",
+        "sha256": "3288139f55f540260577da0517814b9a6f8b659815dba78a901cb8997331efa7",
+        "size": 28342,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/dune-2024-cumulative-btiha.geojson.gz",
+        "sha256": "b4cdec4068501cad68cb7b5c8f67de3c21efcfd3dacb2670fa62b4560a1982c0",
+        "size": 88664854
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/dune-2024-cumulative-btiha-media-objects.json",
+        "sha256": "e413c9d98cbe5673a62334b769271dadcf85fd6b560c75d404b35b056e18f813",
+        "size": 1322834
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 53,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Shanghai",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          49.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Yekaterinburg",
+          "Budapest",
+          "Novosibirsk"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          68.0,
+          48.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
