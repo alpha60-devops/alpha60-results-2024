@@ -9,12 +9,13 @@
     "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
     "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
     "results_initial": "ab6dd43348b3419f221511abf878cf42a71b8f33",
-    "day_series": "c767c240e94acc2207612f45b2b8c81576018332"
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "day_series_repairs": "1f978c1773be713a489c1a018b5df18d70a48540"
   },
   "counts": {
     "objects": 69,
     "unique_objects": 69,
-    "day_series_csv": 59
+    "day_series_csv": 62
   },
   "objects": {
     "3-body-problem-01": {
@@ -2792,6 +2793,16 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/outer-range-02.json",
           "size": 10486,
           "sha256": "7721de70acfe7961ef005ca02e6477af134784b3687d928869419ebb8b9176ae"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/outer-range-02-days.csv",
+          "size": 3607,
+          "sha256": "65a3a77209b830cba2719c1c6372ddca7a87d8c9b955fe7b8c404eefaf99b912"
+        },
+        "day-series-repair-provenance": {
+          "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/outer-range-02.json",
+          "size": 2445,
+          "sha256": "5d9cfab0670ad8099219ed213aef68d6ca179a8a017c9d9d84d5497877e9bbcc"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:11:05Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/outer-range-02.xz`\n- Hour directories: 2488\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (11 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-07-15 12:00`, resumed `2024-07-16 00:00` \u2014 missing 11 hour(s)\n",
@@ -3230,6 +3241,16 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/shogun-2024-110.json",
           "size": 9727,
           "sha256": "de7fe767b063ec2e10e9b6d5ff13c93b1286dda19c3878e8840425db7b1d4b01"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/shogun-2024-110-days.csv",
+          "size": 3731,
+          "sha256": "f301895fc9d1affa36a0a5fe120c0cf9b06260f2b7dd5e3239eaff675a2b0e52"
+        },
+        "day-series-repair-provenance": {
+          "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/shogun-2024-110.json",
+          "size": 2812,
+          "sha256": "52346c81729cc8936ad1d1ec82e156c6883aefdba02dd21f2c5abe1702d20c49"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:37:55Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/shogun-2024-110.xz`\n- Hour directories: 2527\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 0 (0 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\nNone detected.\n",
@@ -3663,6 +3684,16 @@
           "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/tokyo-vice-209.json",
           "size": 11057,
           "sha256": "00c59d369c5f7e9eafdb99e74b297ba259fdfc14e276d66aac14efdc9acc7589"
+        },
+        "day-series-csv": {
+          "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/tokyo-vice-209-days.csv",
+          "size": 3582,
+          "sha256": "6387ff74dba3cd0ac8d5a3dd026c3c458d9e04b45f4c27376e1047a4f18894dc"
+        },
+        "day-series-repair-provenance": {
+          "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/tokyo-vice-209.json",
+          "size": 2445,
+          "sha256": "9ebbebc5c2cce41cb9c396160e98bcd6879b948425857c1d00f6a464102cc8d2"
         }
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:53:11Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/tokyo-vice-209.xz`\n- Hour directories: 2519\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 1 (1 missing hours)\n- Missing days: 0\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` \u2014 missing 1 hour(s)\n",
@@ -3830,6 +3861,208 @@
       },
       "coverage_report": "# Coverage\n\n- Generated: 2026-08-28T21:58:09Z\n- Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/wild-robot.xz`\n- Hour directories: 4400\n- Zero-length sample files: 0\n- Other unparsable sample files: 0\n- Hourly discontinuities: 3 (136 missing hours)\n- Missing days: 5\n\n## Sample archive discontinuities\n\n- hourly gap: last `2024-12-26 08:03`, resumed `2024-12-30 00:03` \u2014 missing 87 hour(s)\n- hourly gap: last `2025-01-07 23:03`, resumed `2025-01-10 00:03` \u2014 missing 48 hour(s)\n- hourly gap: last `2025-03-30 01:03`, resumed `2025-03-30 03:03` \u2014 missing 1 hour(s)\n- missing day: `2024-12-27`\n- missing day: `2024-12-28`\n- missing day: `2024-12-29`\n- missing day: `2025-01-08`\n- missing day: `2025-01-09`\n",
       "coverage_sha256": "7c55e127fcf18bbfa295451682214311ca4ba72e5ca0adef34cca09df61ba073"
+    }
+  },
+  "authorized_day_summary_repairs": {
+    "outer-range-02": {
+      "authorization": {
+        "scope": "read-only streaming of per-torrent day records",
+        "raw_records_materialized": false,
+        "archive_mutated": false,
+        "excluded_member_classes": [
+          "hour",
+          "week",
+          "cumulative"
+        ]
+      },
+      "generator": {
+        "script": {
+          "path": "/home/bkoz/src/alpha60/scripts/stream-day-summary-csv.py",
+          "size": 25541,
+          "sha256": "6d74c81a2c1690e93cbcc4b665787c00897d11093669bc906426a51a57b89f27"
+        },
+        "repository": "/home/bkoz/src/alpha60",
+        "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+        "tracked_changes": false
+      },
+      "archive": {
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/outer-range-02.cache/cache.20240828.tar.xz",
+        "size": 958952664,
+        "sha256": "9d0ab8ec289fbd2155b6da2191c74e0f304b4e20ed629ba0aa5f79803a514ae8"
+      },
+      "stream": {
+        "archive_members_seen": 882892,
+        "non_day_file_members_skipped": 847420,
+        "per_torrent_day_members_streamed": 35471,
+        "per_torrent_day_member_set_sha256": "fcc03c9890984af4da833b49d2c7d7d5346ba717eeb68dc0ab0fe427a96ca742"
+      },
+      "series_validation": {
+        "days": 105,
+        "first_index": 1,
+        "last_index": 105,
+        "first_date": "2024-05-16",
+        "last_date": "2024-08-28",
+        "contiguous": true
+      },
+      "legacy_downloader_series_proof": {
+        "status": "pass",
+        "method": "independent-min-max-normalized-polyline-comparison",
+        "points": 105,
+        "tolerance": 0.02,
+        "maximum_x_error": 0.0046153846153629274,
+        "maximum_y_error": 0.0004846706461876238,
+        "legacy_svg": {
+          "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/outer-range-02-downloads-by-day-day.svg",
+          "size": 2384,
+          "sha256": "f6cf14f3249dca8b9c5eae4a584d5c92f242fdf1f7fbd74266d1e9fdd3ca188f"
+        }
+      },
+      "day_series_csv": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/outer-range-02-days.csv",
+        "size": 3607,
+        "sha256": "65a3a77209b830cba2719c1c6372ddca7a87d8c9b955fe7b8c404eefaf99b912"
+      },
+      "provenance": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/outer-range-02.json",
+        "size": 2445,
+        "sha256": "5d9cfab0670ad8099219ed213aef68d6ca179a8a017c9d9d84d5497877e9bbcc"
+      }
+    },
+    "shogun-2024-110": {
+      "authorization": {
+        "scope": "read-only streaming of per-torrent day records",
+        "raw_records_materialized": false,
+        "archive_mutated": false,
+        "excluded_member_classes": [
+          "hour",
+          "week",
+          "cumulative"
+        ]
+      },
+      "generator": {
+        "script": {
+          "path": "/home/bkoz/src/alpha60/scripts/stream-day-summary-csv.py",
+          "size": 25541,
+          "sha256": "6d74c81a2c1690e93cbcc4b665787c00897d11093669bc906426a51a57b89f27"
+        },
+        "repository": "/home/bkoz/src/alpha60",
+        "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+        "tracked_changes": false
+      },
+      "archive": {
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/shogun-2024-110.cache/cache.20240806.tar.xz",
+        "size": 1802096668,
+        "sha256": "923c7b218148d750b39e03242364b6c788b77b856f1de9add48011593c011dc8"
+      },
+      "stream": {
+        "archive_members_seen": 593628,
+        "non_day_file_members_skipped": 569925,
+        "per_torrent_day_members_streamed": 23702,
+        "per_torrent_day_member_set_sha256": "2355db7403961f6d152f13a20fb3f758edb9ce377c2c8467d0b7d7b532c24753"
+      },
+      "series_validation": {
+        "days": 106,
+        "first_index": 1,
+        "last_index": 106,
+        "first_date": "2024-04-23",
+        "last_date": "2024-08-06",
+        "contiguous": true
+      },
+      "legacy_downloader_series_proof": {
+        "status": "pass",
+        "method": "independent-min-max-normalized-polyline-comparison",
+        "points": 106,
+        "tolerance": 0.02,
+        "maximum_x_error": 0.004761904761835467,
+        "maximum_y_error": 0.0004927572149426851,
+        "legacy_svg": {
+          "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-110-downloads-by-day-day.svg",
+          "size": 2395,
+          "sha256": "6846278903d4a7f3be318615cf981be93babfd536ecc35980664dcfeb96baabb"
+        }
+      },
+      "day_series_csv": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/shogun-2024-110-days.csv",
+        "size": 3731,
+        "sha256": "f301895fc9d1affa36a0a5fe120c0cf9b06260f2b7dd5e3239eaff675a2b0e52"
+      },
+      "provenance": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/shogun-2024-110.json",
+        "size": 2812,
+        "sha256": "52346c81729cc8936ad1d1ec82e156c6883aefdba02dd21f2c5abe1702d20c49"
+      },
+      "aggregate_summary_oracle_proof": {
+        "status": "pass",
+        "role": "independent-validation-only",
+        "directory": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/shogun-2024-110.cache/tmp",
+        "summary_files": 106,
+        "all_seven_columns_exact": true,
+        "summary_set_sha256": "e18c370e338e9e9a4925afa38e1b2ba37d165c0bffed12d11a6d879e4120d0c7"
+      }
+    },
+    "tokyo-vice-209": {
+      "authorization": {
+        "scope": "read-only streaming of per-torrent day records",
+        "raw_records_materialized": false,
+        "archive_mutated": false,
+        "excluded_member_classes": [
+          "hour",
+          "week",
+          "cumulative"
+        ]
+      },
+      "generator": {
+        "script": {
+          "path": "/home/bkoz/src/alpha60/scripts/stream-day-summary-csv.py",
+          "size": 25541,
+          "sha256": "6d74c81a2c1690e93cbcc4b665787c00897d11093669bc906426a51a57b89f27"
+        },
+        "repository": "/home/bkoz/src/alpha60",
+        "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+        "tracked_changes": false
+      },
+      "archive": {
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/tokyo-vice-209.cache/cache.20240711.tar.xz",
+        "size": 607189528,
+        "sha256": "9aeef784a8d341a624f00524c33c56234d3bfe799fc70607abcdd0927ca2f22d"
+      },
+      "stream": {
+        "archive_members_seen": 509161,
+        "non_day_file_members_skipped": 488796,
+        "per_torrent_day_members_streamed": 20364,
+        "per_torrent_day_member_set_sha256": "12e05e98b17ceda60b2a45021039de040125e78b34542b2edf77750be0d3b7f5"
+      },
+      "series_validation": {
+        "days": 105,
+        "first_index": 1,
+        "last_index": 105,
+        "first_date": "2024-03-29",
+        "last_date": "2024-07-11",
+        "contiguous": true
+      },
+      "legacy_downloader_series_proof": {
+        "status": "pass",
+        "method": "independent-min-max-normalized-polyline-comparison",
+        "points": 105,
+        "tolerance": 0.02,
+        "maximum_x_error": 0.0046153846153629274,
+        "maximum_y_error": 0.0004930563125640219,
+        "legacy_svg": {
+          "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/tokyo-vice-209-downloads-by-day-day.svg",
+          "size": 2382,
+          "sha256": "a6e4efd6123b7dfb1cbeac39d98459adcaea4a225bf315f8f631b6ffba4b2b6c"
+        }
+      },
+      "day_series_csv": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/tokyo-vice-209-days.csv",
+        "size": 3582,
+        "sha256": "6387ff74dba3cd0ac8d5a3dd026c3c458d9e04b45f4c27376e1047a4f18894dc"
+      },
+      "provenance": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/tokyo-vice-209.json",
+        "size": 2445,
+        "sha256": "9ebbebc5c2cce41cb9c396160e98bcd6879b948425857c1d00f6a464102cc8d2"
+      }
     }
   }
 }
