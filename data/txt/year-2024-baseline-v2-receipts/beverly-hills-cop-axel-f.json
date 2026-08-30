@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "beverly-hills-cop-axel-f",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:33:40.111409+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt3083016",
+    "external_imdb": "tt3083016",
+    "wikidata_id": "Q113650759",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beverly_Hills_Cop:_Axel_F"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/beverly-hills-cop-axel-f-cumulative.json",
+      "size": 15759,
+      "sha256": "13f694e0c03600ca27e6585762be18aaf84a1fa85cb6d56ae4cfd68ee8bb3df3"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/beverly-hills-cop-axel-f-week.json",
+      "size": 1250282,
+      "sha256": "1e6c67a4aba4755d0b8ed7a97cb05ae885aba6da49ca86ca97a194627e6da064"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/beverly-hills-cop-axel-f-cumulative-ip-swarm.json",
+      "size": 42866,
+      "sha256": "880b650a7f370280dd2806941e3418710d3c2491510b20fdc2e0ebef92acd1e1"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/beverly-hills-cop-axel-f-cumulative-btiha-media-objects.json",
+      "size": 463486,
+      "sha256": "d608db320214662996ea91efc0f77873aae053f454ad93d518620f6ba7fc2a64"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/beverly-hills-cop-axel-f-cumulative-aggregate.geojson.gz",
+      "size": 1100768,
+      "sha256": "558696e7cbae22950f6686a637d05a4f76f0d02da5a7a85b269abee24d8a91dc"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/beverly-hills-cop-axel-f-cumulative-btiha.geojson.gz",
+      "size": 19254868,
+      "sha256": "f58137fba5f650d6c5daafc6f927e461912de48434e86c62686623085d63b295"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-week-beverly-hills-cop-axel-f-week.svg",
+      "size": 1108,
+      "sha256": "f7ae4083e226061e40bc2f271201389c736146735e114356d27aa8bff070ba83"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-day-day.svg",
+      "size": 2418,
+      "sha256": "589ddeb3a302a90a050dbe5e6fe2b86691903f41273daec3d64bbf8177510111"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/beverly-hills-cop-axel-f.json",
+      "size": 9407,
+      "sha256": "65f6ed898f3a1d8e65675ca4735e16393766f99216076961bbfa9e7760ae86e8"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/beverly-hills-cop-axel-f-days.csv",
+      "size": 3693,
+      "sha256": "aa3ea52ad9867fc5f83e285c47b9382eb492cdfa79315093e22bdd26f08f0ab8"
+    }
+  },
+  "coverage_sha256": "d341f8e1373fd0cb0cb713ee5638edc65116902faef923e28da1d624c1632cd3",
+  "published_files": {
+    "docs/itemized/beverly-hills-cop-axel-f-sample-cache-audit.md": "10f28427eaf7ddc1388690b2bd53a5318abe52b76c4e925af39d326a93a6b23a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/beverly-hills-cop-axel-f-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "69212cb1473f65fc39d8487dc0baff14e89cb9dfc6e600f1b0343f3aa0e65228",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-cumulative-detail-btiha-itemized-by-bytes.svg": "16fa7df5f6672a3b5bbb2a865dd97b0bfc7d6b4501e64389fbe46f9f037b8a54",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-week-beverly-hills-cop-axel-f-week.svg": "b72918dcc052e8b5ca85b65210a05bd22bb5dc596541275559ba8bcc75832ef2",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-day-day.svg": "03a6f2b2145563d152c885be01b9f74eff37bae00bb53e7cf59b8e895901a898",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-carto.png": "89d26c608a0e3abfd9b19fc9f34cb6ea65057a0ceedb139458b369cfc448dcad",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-carto-4k.webp": "9b393a57c067b91dfe4a65fcb7a84790a187347b2b644107262ee4443fd79da1",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-data-ge-1080p.webp": "bd06ea22096f019dfe5694a986c5e3ed7fe5d7f58c51e43de524fbe375e57727",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-data-ge-1080p-4k.webp": "e3d3470d73c4b2aab333dd08181e8f405f1fe5d2dd042f9d20d001c8979bac3f",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-data-lt-1080p.webp": "2e9fb664077010f9e12905792112738c98866cc79c4e0e41796815b440ea4300",
+    "docs/itemized/figures/beverly-hills-cop-axel-f-data-lt-1080p-4k.webp": "c14e43bf00c58fab429d4788100d46ffc58794b94ee1d523935f9ed955b25c35"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "beverly-hills-cop-axel-f",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/beverly-hills-cop-axel-f-days.csv",
+        "sha256": "aa3ea52ad9867fc5f83e285c47b9382eb492cdfa79315093e22bdd26f08f0ab8",
+        "size": 3693
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-week-beverly-hills-cop-axel-f-week.svg",
+        "sha256": "f7ae4083e226061e40bc2f271201389c736146735e114356d27aa8bff070ba83",
+        "size": 1108,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-week-beverly-hills-cop-axel-f-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-day-day.svg",
+        "sha256": "589ddeb3a302a90a050dbe5e6fe2b86691903f41273daec3d64bbf8177510111",
+        "size": 2418,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/beverly-hills-cop-axel-f-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/beverly-hills-cop-axel-f-cumulative-btiha.geojson.gz",
+        "sha256": "f58137fba5f650d6c5daafc6f927e461912de48434e86c62686623085d63b295",
+        "size": 19254868
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/beverly-hills-cop-axel-f-cumulative-btiha-media-objects.json",
+        "sha256": "d608db320214662996ea91efc0f77873aae053f454ad93d518620f6ba7fc2a64",
+        "size": 463486
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 22,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Shanghai",
+          "Incheon"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          87.0,
+          49.0,
+          46.0,
+          30.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Yekaterinburg",
+          "Novosibirsk"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          73.0,
+          45.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
