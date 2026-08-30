@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Monarch: Legacy of Monsters |
 | Collection key | `monarch-legacy-of-monsters-110` |
 | imdb_id | [tt17220216](https://www.imdb.com/title/tt17220216/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Monarch: Legacy of Monsters](https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters) |
 | Sample dates | 2024-01-12-to-2024-06-06 |
-| Sample days | 147 (2024–2024) |
+| Sample days | 147 |
 | BTIH count | 204 |
 | Unique BTIH count | 186 |
 | Downloaders total | 17,401,369 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T20:58:42Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-110.xz`
@@ -40,7 +40,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-04-20 06:06`, resumed `2024-04-21 00:06` — missing 17 hour(s)
 - hourly gap: last `2024-04-21 00:06`, resumed `2024-04-22 00:06` — missing 23 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Monarch: Legacy of Monsters collection size histogram](figures/monarch-legacy-of-monsters-110-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -48,7 +48,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![monarch-legacy-of-monsters-110 downloads by week](figures/monarch-legacy-of-monsters-110-downloads-by-week-monarch-legacy-of-monsters-110-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/monarch-legacy-of-monsters-110-downloads-by-week-monarch-legacy-of-monsters-110-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -56,7 +69,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -70,8 +83,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/monarch-legacy-of-monsters-110-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/monarch-legacy-of-monsters-110-data-ge-1080p.webp)](figures/monarch-legacy-of-monsters-110-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/monarch-legacy-of-monsters-110-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/monarch-legacy-of-monsters-110-data-lt-1080p.webp)](figures/monarch-legacy-of-monsters-110-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
