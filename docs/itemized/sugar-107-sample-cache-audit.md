@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Sugar |
 | Collection key | `sugar-107` |
 | imdb_id | [tt16418808](https://www.imdb.com/title/tt16418808/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Sugar (2024 TV series)](https://en.wikipedia.org/wiki/Sugar_(2024_TV_series)) |
 | Sample dates | 2024-05-10-to-2024-08-22 |
-| Sample days | 105 (2024–2024) |
+| Sample days | 105 |
 | BTIH count | 210 |
 | Unique BTIH count | 192 |
 | Downloaders total | 14,701,207 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:48:34Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/sugar-107.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Sugar collection size histogram](figures/sugar-107-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ None detected.
 
 ### Downloads by week cumulative (normalized start)
 
-![sugar-107 downloads by week](figures/sugar-107-downloads-by-week-sugar-107-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/sugar-107-downloads-by-week-sugar-107-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ None detected.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ None detected.
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/sugar-107-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/sugar-107-data-ge-1080p.webp)](figures/sugar-107-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/sugar-107-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/sugar-107-data-lt-1080p.webp)](figures/sugar-107-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

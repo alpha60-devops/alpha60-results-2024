@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "sugar-107",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:38:32.668724+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt16418808",
+    "external_imdb": "tt16418808",
+    "wikidata_id": "Q113696648",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sugar_(2024_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/sugar-107-cumulative.json",
+      "size": 15694,
+      "sha256": "6d2179df444177d3c7304740dbccfcba45cbc24064e2d9743bc134c499f8d2d2"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/sugar-107-week.json",
+      "size": 1267660,
+      "sha256": "9bb434aab27f1869b0856604f3995c3bc876dd42449e10e6a34068f775120173"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/sugar-107-cumulative-ip-swarm.json",
+      "size": 42046,
+      "sha256": "a23b197e25f7ee31dd83cd74f17768f1fa4d59b3ec8771150f68162df33b13eb"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/sugar-107-cumulative-btiha-media-objects.json",
+      "size": 586710,
+      "sha256": "2ab6446386d7a055c4dbd2d302d574a3a4fa8147be7ca37745b2071b417c4506"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/sugar-107-cumulative-aggregate.geojson.gz",
+      "size": 981293,
+      "sha256": "bb54b116f9b1df439925c8c6a715b685b2009e54fa9fb0341814ff6dadcdd9a3"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/sugar-107-cumulative-btiha.geojson.gz",
+      "size": 18429156,
+      "sha256": "d4baa563365c3c0f78bd20b8cebb2affd4f84d1ff8e583ae10962515c8ae3c7b"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/sugar-107-downloads-by-week-sugar-107-week.svg",
+      "size": 986,
+      "sha256": "09558d1b118591133adcafef4a150ad072a4a4d23608a8844b2388002c8b7cb6"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/sugar-107-downloads-by-day-day.svg",
+      "size": 2348,
+      "sha256": "36606774bc70cdad90ea794a52042628468bbe55183d480398b6fd0522cad315"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/sugar-107.json",
+      "size": 12940,
+      "sha256": "47f4fde0f9df6e0214371055cdbd885c4ebfe28533ac087eb00158b81d886a8f"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/sugar-107-days.csv",
+      "size": 3619,
+      "sha256": "d5bfd25c9999906b6e5b7459bf8caaff46e81e7c7a7384b35e5a98f675cf80c5"
+    }
+  },
+  "coverage_sha256": "caa7e4c54a298c936548abc656d0923aae4094a0f7ad10f604ed050597956a15",
+  "published_files": {
+    "docs/itemized/sugar-107-sample-cache-audit.md": "733997f14ab24a39a51c717610bcf314074ad734661897ffb85f25887e6255a7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/sugar-107-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "7646384d0f4b13d3a6b27bc85757d904cbd1c1b8757858483096f07a5fcf06d4",
+    "docs/itemized/figures/sugar-107-cumulative-detail-btiha-itemized-by-bytes.svg": "0a3838c268f10159cb6f2332829830d8bd4ead906746a19230dce6cf8c68c948",
+    "docs/itemized/figures/sugar-107-downloads-by-week-sugar-107-week.svg": "4fad60e5893546420fb8d995e190af3db69d42fd80027e7a66364bf49fa0eb52",
+    "docs/itemized/figures/sugar-107-downloads-by-day-day.svg": "6a47bef88ebfc6963b28f5bd47e5b56d71a7367978ca5424e4981d19030ce8f5",
+    "docs/itemized/figures/sugar-107-carto.png": "8af4079083acd55e0bf9847ac0e2dcf73358cd3f22ddd3ade5760776bb1d50c1",
+    "docs/itemized/figures/sugar-107-carto-4k.webp": "b216428a09341c2a436441fc3a92c4fee444479c75ac7e0ece2354b898d4240a",
+    "docs/itemized/figures/sugar-107-data-ge-1080p.webp": "cef556675e67c7d5973a58b6607607dfab7da22f57ab60a5ca71db78a6e165a8",
+    "docs/itemized/figures/sugar-107-data-ge-1080p-4k.webp": "ea61bbc45e945bd26a16d7394b0aa5f148e6de318def42eb87cb44a380aaadbc",
+    "docs/itemized/figures/sugar-107-data-lt-1080p.webp": "08bf2d755a6be3d76842ccd7718cc74a0d7e956f34ad05306b9301758aca8b00",
+    "docs/itemized/figures/sugar-107-data-lt-1080p-4k.webp": "accead0d530951970335a3b72a0aa35c1b4f7757a0b9b2f33409773352867e01"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "sugar-107",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/sugar-107-days.csv",
+        "sha256": "d5bfd25c9999906b6e5b7459bf8caaff46e81e7c7a7384b35e5a98f675cf80c5",
+        "size": 3619
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/sugar-107-downloads-by-week-sugar-107-week.svg",
+        "sha256": "09558d1b118591133adcafef4a150ad072a4a4d23608a8844b2388002c8b7cb6",
+        "size": 986,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/sugar-107-downloads-by-week-sugar-107-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/sugar-107-downloads-by-day-day.svg",
+        "sha256": "36606774bc70cdad90ea794a52042628468bbe55183d480398b6fd0522cad315",
+        "size": 2348,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/sugar-107-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/sugar-107-cumulative-btiha.geojson.gz",
+        "sha256": "d4baa563365c3c0f78bd20b8cebb2affd4f84d1ff8e583ae10962515c8ae3c7b",
+        "size": 18429156
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/sugar-107-cumulative-btiha-media-objects.json",
+        "sha256": "2ab6446386d7a055c4dbd2d302d574a3a4fa8147be7ca37745b2071b417c4506",
+        "size": 586710
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 38,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Ashburn",
+          "Amsterdam",
+          "Istanbul",
+          "Shanghai",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          79.0,
+          49.0,
+          31.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Ashburn",
+          "Amsterdam",
+          "Istanbul",
+          "Budapest",
+          "Incheon"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          78.0,
+          49.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
