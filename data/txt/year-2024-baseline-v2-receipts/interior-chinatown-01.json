@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "interior-chinatown-01",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:07:16.490020+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt13354972",
+    "external_imdb": "tt13354972",
+    "wikidata_id": "Q124032079",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Interior_Chinatown_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/interior-chinatown-01-cumulative.json",
+      "size": 15722,
+      "sha256": "23d85321ba03cff0d269ae9fe946aa65d885b281e8bbeaf77c367d5d7fe7acc4"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/interior-chinatown-01-week.json",
+      "size": 6018442,
+      "sha256": "b8941452822723af3a30c89026336812547489ae2f0ecd3c8459ae262270b176"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/interior-chinatown-01-cumulative-ip-swarm.json",
+      "size": 42699,
+      "sha256": "58dd7588229f3e0b16791e69cc24121fdf8756c2a76f7a470023dc5230903cf5"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/interior-chinatown-01-cumulative-btiha-media-objects.json",
+      "size": 988496,
+      "sha256": "791039f1a970cda80b6ba1af0313704a72900c72e4eeab1b6379a767b312fb63"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/interior-chinatown-01-cumulative-aggregate.geojson.gz",
+      "size": 1249978,
+      "sha256": "e4242136378b72ef1ce012295a4abe957732e2371f7ebf961ab7494b114851c2"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/interior-chinatown-01-cumulative-btiha.geojson.gz",
+      "size": 54531536,
+      "sha256": "54972bfa0f98e97c2fea0bae6ae78abbe5f906748a20b46e8b60e6628e19cfca"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/interior-chinatown-01-downloads-by-week-interior-chinatown-01-week.svg",
+      "size": 32200,
+      "sha256": "b2b759c6bde76e6b66a32a9607c1ac6d9599b53631892977cdf3aa4239f7d5ca"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/interior-chinatown-01-downloads-by-day-day.svg",
+      "size": 27623,
+      "sha256": "a6e2c75670811085acc393fbe80ab07c6043417d7157ca3a9c5eb9b9285a0dd8"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/interior-chinatown-01.json",
+      "size": 9792,
+      "sha256": "f3f0d2caa7a89c601b3497304aab920038095203ea4a38463c4689479262ec0a"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/interior-chinatown-01-days.csv",
+      "size": 6343,
+      "sha256": "ce866375e374b1600d8982bd5fc50ba4e2dfcbd980a690a178a250f55fd39408"
+    }
+  },
+  "coverage_sha256": "fdc7a0877cc1b977ee918e498e0b61cc9177b2c6b212c6ffdddc2c9608093c47",
+  "published_files": {
+    "docs/itemized/interior-chinatown-01-sample-cache-audit.md": "8e69445b4ae33f9137e7e23a0c716e48feaee15c3be75953ad0db338924b7450",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/interior-chinatown-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "ac1173e82d258995de9a3a94b33b16d4a8377c95cac7e55cb48131e288dd33a3",
+    "docs/itemized/figures/interior-chinatown-01-cumulative-detail-btiha-itemized-by-bytes.svg": "ba4559ef2f8cbadd9571c93dc8a710937257d14960f244bb9db7ac2e0fbe94b5",
+    "docs/itemized/figures/interior-chinatown-01-downloads-by-week-interior-chinatown-01-week.svg": "b2b759c6bde76e6b66a32a9607c1ac6d9599b53631892977cdf3aa4239f7d5ca",
+    "docs/itemized/figures/interior-chinatown-01-downloads-by-day-day.svg": "a6e2c75670811085acc393fbe80ab07c6043417d7157ca3a9c5eb9b9285a0dd8",
+    "docs/itemized/figures/interior-chinatown-01-carto.png": "7aff28879b8b55bd9a2490b6975fc39dd78401b70b1f0d9427d8cb81ba390de6",
+    "docs/itemized/figures/interior-chinatown-01-carto-4k.webp": "4fd926987a13ae7de8b89ebf152a4da6e045afac7ca63ebe76104171ed13297f",
+    "docs/itemized/figures/interior-chinatown-01-data-ge-1080p.webp": "f0d942f74f53d1dfe286f32c862fe11c23173ef6526836f4c099866eeaa476d8",
+    "docs/itemized/figures/interior-chinatown-01-data-ge-1080p-4k.webp": "5c141b1867808c631931919b62732abaeddf936bae6ffc48af3a40b6d48a8f2a",
+    "docs/itemized/figures/interior-chinatown-01-data-lt-1080p.webp": "dc15e14d0cf3746cb8f4c6d28a5419d1666d745767848836148ba4d6302c6f8a",
+    "docs/itemized/figures/interior-chinatown-01-data-lt-1080p-4k.webp": "06a0e52d7412d72211636509cbefa5596fe790552bb8bcb6fd2edeed513787aa"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "interior-chinatown-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/interior-chinatown-01-days.csv",
+        "sha256": "ce866375e374b1600d8982bd5fc50ba4e2dfcbd980a690a178a250f55fd39408",
+        "size": 6343
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/interior-chinatown-01-downloads-by-week-interior-chinatown-01-week.svg",
+        "sha256": "b2b759c6bde76e6b66a32a9607c1ac6d9599b53631892977cdf3aa4239f7d5ca",
+        "size": 32200,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/interior-chinatown-01-downloads-by-day-day.svg",
+        "sha256": "a6e2c75670811085acc393fbe80ab07c6043417d7157ca3a9c5eb9b9285a0dd8",
+        "size": 27623,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/interior-chinatown-01-cumulative-btiha.geojson.gz",
+        "sha256": "54972bfa0f98e97c2fea0bae6ae78abbe5f906748a20b46e8b60e6628e19cfca",
+        "size": 54531536
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/interior-chinatown-01-cumulative-btiha-media-objects.json",
+        "sha256": "791039f1a970cda80b6ba1af0313704a72900c72e4eeab1b6379a767b312fb63",
+        "size": 988496
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 33,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          86.0,
+          73.0,
+          52.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "Ankara",
+          "London",
+          "Budapest",
+          "Amsterdam",
+          "Lelystad",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          86.0,
+          74.0,
+          52.0,
+          31.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
