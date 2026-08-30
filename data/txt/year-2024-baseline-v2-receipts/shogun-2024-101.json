@@ -1,0 +1,241 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "shogun-2024-101",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:31:55.404467+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt2788316",
+    "external_imdb": "tt2788316",
+    "wikidata_id": "Q56276181",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-101-cumulative.json",
+      "size": 15711,
+      "sha256": "8551a931de98fd1bf79946b95b2b560a671c8910ae763476ae1a52ae13d1af4e"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-101-week.json",
+      "size": 1883453,
+      "sha256": "fcd0069995c8635c36f0b8e250d0da91f2578094c881d548eacb6e29f4ddeff9"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-101-cumulative-ip-swarm.json",
+      "size": 42538,
+      "sha256": "f222d8eebdb1b01b5f30c53a4e2dc93b1d2a1a77a0c6e02856264b7b423e1f4f"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-101-cumulative-btiha-media-objects.json",
+      "size": 482726,
+      "sha256": "8173f3f89d8ab5ca1e65169569ef020c3ca37cae18bd84fe2733806e98f82ba9"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/shogun-2024-101-cumulative-aggregate.geojson.gz",
+      "size": 1193088,
+      "sha256": "142afac6b6fe12975e65341c85582a53588b7d72363689136458a905cdc2b9c0"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/shogun-2024-101-cumulative-btiha.geojson.gz",
+      "size": 28140452,
+      "sha256": "184c01599cbcae02dece37f9b62c2afbccd4c84ef10c6940805e361787a8b906"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-101-downloads-by-week-shogun-2024-101-week.svg",
+      "size": 23598,
+      "sha256": "59637422660c2cd0bbcb4be4c8a4c6bc452f8a51b0973ef10e82329af9b9f53e"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-101-downloads-by-day-day.svg",
+      "size": 23054,
+      "sha256": "e618292d5b841bb139706e995d99fe8db087c2b71ac5b13f645ce636838d48dc"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/shogun-2024-101.json",
+      "size": 9737,
+      "sha256": "8e6f697394490558e9fe2705971b9b8eb21e75a54e362726697c08452f9d7ca2"
+    }
+  },
+  "coverage_sha256": "55ab36fd967578ed9299fa47e1d4661771cc1001e627369719322318c4d4c15b",
+  "published_files": {
+    "docs/itemized/shogun-2024-101-sample-cache-audit.md": "7f1efe01693d0a3020c3ec62c7dd72af00dcbf30774ea9c3ecff3b463a4ca60c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/shogun-2024-101-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "b6cc9088035e18630989acb16936090a674b68794b925ccfc578a28cf68bdd77",
+    "docs/itemized/figures/shogun-2024-101-cumulative-detail-btiha-itemized-by-bytes.svg": "756db726359c317fe63649ffde328bbf6ffc45431f6f41b2fc93785a368590c4",
+    "docs/itemized/figures/shogun-2024-101-downloads-by-week-shogun-2024-101-week.svg": "59637422660c2cd0bbcb4be4c8a4c6bc452f8a51b0973ef10e82329af9b9f53e",
+    "docs/itemized/figures/shogun-2024-101-downloads-by-day-day.svg": "e618292d5b841bb139706e995d99fe8db087c2b71ac5b13f645ce636838d48dc",
+    "docs/itemized/figures/shogun-2024-101-carto.png": "f4206c7141cf8bdd3540fed9ab1ee75d121d05908fb0a1ba92c11bf72ae89241",
+    "docs/itemized/figures/shogun-2024-101-carto-4k.webp": "415a0ae46a55ea3d77cb558a082aaff182f29fb21f8a1c37e3a128e8bfd1cf0b",
+    "docs/itemized/figures/shogun-2024-101-data-ge-1080p.webp": "df6b09132c4e6605494e884cb5662f48e99155d08b0fba8d9bcfd87b8f7118a9",
+    "docs/itemized/figures/shogun-2024-101-data-ge-1080p-4k.webp": "6835c99699ce2112f89b232c93e454a134e6a1166976183b5d14b33aff1e2d11",
+    "docs/itemized/figures/shogun-2024-101-data-lt-1080p.webp": "a5898c45e2245e3c29f29b00c0d0f819aa06ced983df4eb70cdff0962b38dcb0",
+    "docs/itemized/figures/shogun-2024-101-data-lt-1080p-4k.webp": "3ec71eb6e0b37ba380ae04d8859969fe447a16ba87d8023d0fd747dbc73c0eb0"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "shogun-2024-101",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-101-downloads-by-week-shogun-2024-101-week.svg",
+        "sha256": "59637422660c2cd0bbcb4be4c8a4c6bc452f8a51b0973ef10e82329af9b9f53e",
+        "size": 23598,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/shogun-2024-101-downloads-by-day-day.svg",
+        "sha256": "e618292d5b841bb139706e995d99fe8db087c2b71ac5b13f645ce636838d48dc",
+        "size": 23054,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/shogun-2024-101-cumulative-btiha.geojson.gz",
+        "sha256": "184c01599cbcae02dece37f9b62c2afbccd4c84ef10c6940805e361787a8b906",
+        "size": 28140452
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/shogun-2024-101-cumulative-btiha-media-objects.json",
+        "sha256": "8173f3f89d8ab5ca1e65169569ef020c3ca37cae18bd84fe2733806e98f82ba9",
+        "size": 482726
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 37,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Shanghai",
+          "Budapest",
+          "Ashburn"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          80.0,
+          54.0,
+          47.0,
+          33.0,
+          30.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Madrid",
+          "Sofia"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          73.0,
+          47.0,
+          41.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
