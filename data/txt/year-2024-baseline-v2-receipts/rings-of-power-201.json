@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "rings-of-power-201",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:29:13.937494+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt7631058",
+    "external_imdb": "tt7631058",
+    "wikidata_id": "Q59149852",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/rings-of-power-201-cumulative.json",
+      "size": 15748,
+      "sha256": "55b677f488650bc0b82c0cb31adb8f0ff1f8ac1b268f2e7369b80f82382b975d"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/rings-of-power-201-week.json",
+      "size": 4179754,
+      "sha256": "d59157687acd13a89cd6318d3c310e053887d4be621c28079970563434ca5288"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/rings-of-power-201-cumulative-ip-swarm.json",
+      "size": 43633,
+      "sha256": "7ff44718beb8a84261747aa7b9a03d8ccc4153777e9d1b8cef29dd4c56f77b6e"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/rings-of-power-201-cumulative-btiha-media-objects.json",
+      "size": 572140,
+      "sha256": "c14e613f11720735be5bef46611c89d1f7936975858276de675cc0041adeb61a"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/rings-of-power-201-cumulative-aggregate.geojson.gz",
+      "size": 1319384,
+      "sha256": "27b4f7dfaef84f6a0c950f1e4f5d171999f9b8c1f61fee8df386b7c7ac266714"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/rings-of-power-201-cumulative-btiha.geojson.gz",
+      "size": 49965256,
+      "sha256": "dc676bb8b2b0177c5df3d9c135a837f2034121cab1324f576049a207ae72cb14"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/rings-of-power-201-downloads-by-week-rings-of-power-201-week.svg",
+      "size": 1188,
+      "sha256": "d970f514569b0407919b5aac7d3b6a36f4d0abcc48faac5f328cf6fe415dfd16"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/rings-of-power-201-downloads-by-day-day.svg",
+      "size": 3559,
+      "sha256": "d0f9bbedb108ca5cda8c8b1f20e615aa29a25714967113f75eef88ac43762a7e"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/rings-of-power-201.json",
+      "size": 5682,
+      "sha256": "9b8eacc133c3c4a33477e29a238a696009663ce0b8a71bbe7a90067df998cf2c"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/rings-of-power-201-days.csv",
+      "size": 6439,
+      "sha256": "7ba751b99ca9878898980325b0196ae866831150df3ba39c149f1d2f650af873"
+    }
+  },
+  "coverage_sha256": "5bd457f00667341e602cad5ac6ab983b954c304c0acddb066cb7bbd9962a7133",
+  "published_files": {
+    "docs/itemized/rings-of-power-201-sample-cache-audit.md": "95e3d9e4d9403d88dff2aa75e46ef688c613151c82c0aa08b6237c894ec061c8",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/rings-of-power-201-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "7f7c33eb1b8baa72a4bfdc5d178dd44cbd94e5b6fc654adf66142bb4deeec731",
+    "docs/itemized/figures/rings-of-power-201-cumulative-detail-btiha-itemized-by-bytes.svg": "0ba0271358915bb91a9a105eba612aa56d11f72456ed3cd6f601c03e7af0a0f1",
+    "docs/itemized/figures/rings-of-power-201-downloads-by-week-rings-of-power-201-week.svg": "bfe13169d42c132228dd1887eba6a2bc352f6641286e2ee950d4b7e2eab2c819",
+    "docs/itemized/figures/rings-of-power-201-downloads-by-day-day.svg": "99ede6b555cd2bdfc1c6feb3598128744ff238a69612349af0854d2719f0f115",
+    "docs/itemized/figures/rings-of-power-201-carto.png": "75c1f758a3797123a09ed1608a9ce147c3a7978a8246e045abd5c45282b2f4d8",
+    "docs/itemized/figures/rings-of-power-201-carto-4k.webp": "1526ce60a4696f9bf5d5f287c6cfd930be4582ab0fa28ef8632211c4f5f4eed9",
+    "docs/itemized/figures/rings-of-power-201-data-ge-1080p.webp": "446d4b3dcf4726c2d113e1ec6c0092aa6ac72e039c85abcfc51c6adaae340e6c",
+    "docs/itemized/figures/rings-of-power-201-data-ge-1080p-4k.webp": "7b17c0426dac7e3a3357e15de41c85f419924c2907d10911437217b1a9d20f26",
+    "docs/itemized/figures/rings-of-power-201-data-lt-1080p.webp": "17bb2e323b06b7e6398f014a5cc9fb12e0cdfb3319ab85d4878901f739694e0c",
+    "docs/itemized/figures/rings-of-power-201-data-lt-1080p-4k.webp": "08c27c9e195e2c2d822661d52622058090a615886fb05f379f46f8fe91a04d15"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "rings-of-power-201",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/rings-of-power-201-days.csv",
+        "sha256": "7ba751b99ca9878898980325b0196ae866831150df3ba39c149f1d2f650af873",
+        "size": 6439
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/rings-of-power-201-downloads-by-week-rings-of-power-201-week.svg",
+        "sha256": "d970f514569b0407919b5aac7d3b6a36f4d0abcc48faac5f328cf6fe415dfd16",
+        "size": 1188,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/rings-of-power-201-downloads-by-week-rings-of-power-201-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/rings-of-power-201-downloads-by-day-day.svg",
+        "sha256": "d0f9bbedb108ca5cda8c8b1f20e615aa29a25714967113f75eef88ac43762a7e",
+        "size": 3559,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/rings-of-power-201-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/rings-of-power-201-cumulative-btiha.geojson.gz",
+        "sha256": "dc676bb8b2b0177c5df3d9c135a837f2034121cab1324f576049a207ae72cb14",
+        "size": 49965256
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/rings-of-power-201-cumulative-btiha-media-objects.json",
+        "sha256": "c14e613f11720735be5bef46611c89d1f7936975858276de675cc0041adeb61a",
+        "size": 572140
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 41,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Amsterdam",
+          "Ankara",
+          "Budapest",
+          "Lelystad"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          74.0,
+          69.0,
+          50.0,
+          39.0,
+          33.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          75.0,
+          70.0,
+          49.0,
+          35.0,
+          35.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}

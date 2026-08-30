@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Rings of Power |
 | Collection key | `rings-of-power-201` |
 | imdb_id | [tt7631058](https://www.imdb.com/title/tt7631058/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [The Lord of the Rings: The Rings of Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) |
 | Sample dates | 2024-08-29-to-2025-02-26 |
-| Sample days | 182 (2024–2025) |
+| Sample days | 182 |
 | BTIH count | 339 |
 | Unique BTIH count | 329 |
 | Downloaders total | 51,462,049 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:22:31Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/rings-of-power-201.xz`
@@ -41,7 +41,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2025-01-19 22:00`, resumed `2025-01-20 00:00` — missing 1 hour(s)
 - missing day: `2024-12-29`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Rings of Power collection size histogram](figures/rings-of-power-201-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -49,7 +49,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![rings-of-power-201 downloads by week](figures/rings-of-power-201-downloads-by-week-rings-of-power-201-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/rings-of-power-201-downloads-by-week-rings-of-power-201-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -57,7 +70,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -71,8 +84,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/rings-of-power-201-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/rings-of-power-201-data-ge-1080p.webp)](figures/rings-of-power-201-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/rings-of-power-201-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/rings-of-power-201-data-lt-1080p.webp)](figures/rings-of-power-201-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
