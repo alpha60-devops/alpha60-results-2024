@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Fallout |
 | Collection key | `fallout-2024-01` |
 | imdb_id | [tt12637874](https://www.imdb.com/title/tt12637874/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Fallout (American TV series)](https://en.wikipedia.org/wiki/Fallout_(American_TV_series)) |
 | Sample dates | 2024-04-11-to-2024-10-09 |
-| Sample days | 182 (2024–2024) |
+| Sample days | 182 |
 | BTIH count | 720 |
 | Unique BTIH count | 648 |
 | Downloaders total | 81,673,824 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:37:50Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/fallout-2024-01.xz`
@@ -38,7 +38,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Fallout collection size histogram](figures/fallout-2024-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -46,7 +46,20 @@ None detected.
 
 ### Downloads by week cumulative (normalized start)
 
-![fallout-2024-01 downloads by week](figures/fallout-2024-01-downloads-by-week-fallout-2024-01-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/fallout-2024-01-downloads-by-week-fallout-2024-01-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -54,7 +67,7 @@ None detected.
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -68,8 +81,8 @@ None detected.
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/fallout-2024-01-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/fallout-2024-01-data-ge-1080p.webp)](figures/fallout-2024-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/fallout-2024-01-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/fallout-2024-01-data-lt-1080p.webp)](figures/fallout-2024-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

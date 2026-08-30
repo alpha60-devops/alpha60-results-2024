@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "fallout-2024-01",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:49:46.234461+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt12637874",
+    "external_imdb": "tt12637874",
+    "wikidata_id": "Q113127312",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fallout_(American_TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fallout-2024-01-cumulative.json",
+      "size": 15782,
+      "sha256": "c4b7aba47d9728116cd5a904db668a1423f759e4eaab0642b1c02a8fd3751259"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fallout-2024-01-week.json",
+      "size": 7647953,
+      "sha256": "819db5ad53fb277ee5dee17d46d83d969a698ec9dca85ab140651ae7d2c58b76"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fallout-2024-01-cumulative-ip-swarm.json",
+      "size": 44234,
+      "sha256": "53ccd88e6e46ec944dd7017875f7595a078e9ef62c13b847f3b61d1a4c35c3d6"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/fallout-2024-01-cumulative-btiha-media-objects.json",
+      "size": 1660323,
+      "sha256": "4def7f3ded404b1329299699bbb50867ab8fb3a5a9492e34ad82be6963ce58e0"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fallout-2024-01-cumulative-aggregate.geojson.gz",
+      "size": 1445587,
+      "sha256": "f58116ce315263162081e343ac22c86528ef8fafcbe2380aacf43fbe50192392"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fallout-2024-01-cumulative-btiha.geojson.gz",
+      "size": 76327161,
+      "sha256": "90990024a56596132b5963aafc9b08fe0d6873f4c0eaa47251795cdba5a1ae74"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fallout-2024-01-downloads-by-week-fallout-2024-01-week.svg",
+      "size": 31878,
+      "sha256": "d0bea29c2819f7291a325adef50113950e192fec515571fccbfbe21cba5e3f9c"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fallout-2024-01-downloads-by-day-day.svg",
+      "size": 28400,
+      "sha256": "bdd31878eae8c60d7a705248d80ea4d00cc22017a3704da92e63d92ca33137c3"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/fallout-2024-01.json",
+      "size": 9458,
+      "sha256": "cbb86eb5c9d64f8322911fd7328509a5cef0cc8112faaeb8e45f5bc3f2585b10"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fallout-2024-01-days.csv",
+      "size": 6541,
+      "sha256": "8e5ae8c07d375bcf6e665ea5df7a088ecc09c1424978cd13345dc2540deb6c0a"
+    }
+  },
+  "coverage_sha256": "3995e47d355344d956b713c7524d7d3d125933bc351e77eada76f4c48fd51936",
+  "published_files": {
+    "docs/itemized/fallout-2024-01-sample-cache-audit.md": "4a989d6e60028e8c77afce27dba4cc9e537dbda19bfcaac8ab0aaacee9b2caad",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/fallout-2024-01-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "d34bbf94d458cebd1f5dc9c30e2b013331e6143f0609ab23e15b7e668370b8b4",
+    "docs/itemized/figures/fallout-2024-01-cumulative-detail-btiha-itemized-by-bytes.svg": "1e162c748af2a71a4518e9dd52ce03193c7c1c9fc18808ffcbde73fb10ee616c",
+    "docs/itemized/figures/fallout-2024-01-downloads-by-week-fallout-2024-01-week.svg": "d0bea29c2819f7291a325adef50113950e192fec515571fccbfbe21cba5e3f9c",
+    "docs/itemized/figures/fallout-2024-01-downloads-by-day-day.svg": "bdd31878eae8c60d7a705248d80ea4d00cc22017a3704da92e63d92ca33137c3",
+    "docs/itemized/figures/fallout-2024-01-carto.png": "7c066da6fafc6d8b82bf9b75f21b6c1047456b046f5fa345e825741596e3a2ed",
+    "docs/itemized/figures/fallout-2024-01-carto-4k.webp": "fd1f2aa6f03a3222974239eaae00e6c3806d45ac5d3df2b622607c51319aa8a5",
+    "docs/itemized/figures/fallout-2024-01-data-ge-1080p.webp": "85c6a3b7151426edb47d7011a1e1d64ce1a7834bfa44da30db7c54c4698716be",
+    "docs/itemized/figures/fallout-2024-01-data-ge-1080p-4k.webp": "de438a76edc25ca5bed02f561bfda6be8b6804c9d189b6691016b551d42d7b1e",
+    "docs/itemized/figures/fallout-2024-01-data-lt-1080p.webp": "f8c84031740beef6a13163f0dcf248e1e39027a88f6c422e1b150317500ed7cf",
+    "docs/itemized/figures/fallout-2024-01-data-lt-1080p-4k.webp": "39c0a044034882e1a4af9c69a0531cb2c489dcf707714be846e98da89b51297d"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "fallout-2024-01",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/fallout-2024-01-days.csv",
+        "sha256": "8e5ae8c07d375bcf6e665ea5df7a088ecc09c1424978cd13345dc2540deb6c0a",
+        "size": 6541
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fallout-2024-01-downloads-by-week-fallout-2024-01-week.svg",
+        "sha256": "d0bea29c2819f7291a325adef50113950e192fec515571fccbfbe21cba5e3f9c",
+        "size": 31878,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/fallout-2024-01-downloads-by-day-day.svg",
+        "sha256": "bdd31878eae8c60d7a705248d80ea4d00cc22017a3704da92e63d92ca33137c3",
+        "size": 28400,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/fallout-2024-01-cumulative-btiha.geojson.gz",
+        "sha256": "90990024a56596132b5963aafc9b08fe0d6873f4c0eaa47251795cdba5a1ae74",
+        "size": 76327161
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/fallout-2024-01-cumulative-btiha-media-objects.json",
+        "sha256": "4def7f3ded404b1329299699bbb50867ab8fb3a5a9492e34ad82be6963ce58e0",
+        "size": 1660323
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 41,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          73.0,
+          49.0,
+          36.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          70.0,
+          48.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
