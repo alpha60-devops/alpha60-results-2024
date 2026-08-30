@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Emilia Perez |
 | Collection key | `emilia-perez` |
 | imdb_id | [tt20221436](https://www.imdb.com/title/tt20221436/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Emilia Pérez](https://en.wikipedia.org/wiki/Emilia_P%C3%A9rez) |
 | Sample dates | 2024-11-13-to-2025-05-13 |
-| Sample days | 182 (2024–2025) |
+| Sample days | 182 |
 | BTIH count | 158 |
 | Unique BTIH count | 142 |
 | Downloaders total | 21,319,655 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T17:32:13Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/emilia-perez.xz`
@@ -42,7 +42,7 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2025-01-30`
 - missing day: `2025-01-31`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Emilia Perez collection size histogram](figures/emilia-perez-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -50,7 +50,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![emilia-perez downloads by week](figures/emilia-perez-downloads-by-week-emilia-perez-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/emilia-perez-downloads-by-week-emilia-perez-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -58,7 +71,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -72,8 +85,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/emilia-perez-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/emilia-perez-data-ge-1080p.webp)](figures/emilia-perez-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/emilia-perez-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/emilia-perez-data-lt-1080p.webp)](figures/emilia-perez-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "emilia-perez",
+  "status": "passed",
+  "generated_at": "2026-08-30T00:42:52.010752+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt20221436",
+    "external_imdb": "tt20221436",
+    "wikidata_id": "Q123928072",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emilia_P%C3%A9rez"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/emilia-perez-cumulative.json",
+      "size": 15596,
+      "sha256": "f1f8c5ee7b7ce062c71951011e4ca793fa51ddc8d35c0f2420e9086c2c2926ea"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/emilia-perez-week.json",
+      "size": 1368637,
+      "sha256": "8889806f7d6bb5a1f5c23c303032162b91341e3d7a81972a4790ccb261ecf1ea"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/emilia-perez-cumulative-ip-swarm.json",
+      "size": 42107,
+      "sha256": "3698ab47b0e0af7298bfe50d8225ca1f8bdd58dae9b215517458844c2dca215d"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/emilia-perez-cumulative-btiha-media-objects.json",
+      "size": 381296,
+      "sha256": "6a39bdca0889bdad80beb38d2a81587beeced9f97bc021b688a507563ea132aa"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/emilia-perez-cumulative-aggregate.geojson.gz",
+      "size": 1103970,
+      "sha256": "5a441a569e6f2505e6fc0062e9ba8e6f261e7ef5d92c7fa43d2e2bb3743cd7cb"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/emilia-perez-cumulative-btiha.geojson.gz",
+      "size": 21443430,
+      "sha256": "c4e329120045ec8198dff7250cb29e621bc488b99587c41eb4c88107dc2355f3"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/emilia-perez-downloads-by-week-emilia-perez-week.svg",
+      "size": 32446,
+      "sha256": "f1fb9368c74812d78036aed21bc2430f0e880c1b9fec1eae6e8a64b68bf5f57f"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/emilia-perez-downloads-by-day-day.svg",
+      "size": 28091,
+      "sha256": "50cd125698d150a51c37b9397626fb8a9b8fd25844e8fe118dd5263525a68830"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/emilia-perez.json",
+      "size": 8433,
+      "sha256": "0d93a628f7a4642523e37eb6aa43b9db4260fd7b8bea703d027af1ba85d86ec7"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/emilia-perez-days.csv",
+      "size": 6198,
+      "sha256": "a945bfecd7aad76144402c4a5b9e9c8627edfc9b5e20b09226497d51b7522183"
+    }
+  },
+  "coverage_sha256": "b309602ae5a34d633ea37b7bc1ebdb44ff8713d96efb1cf891e1163b1653c9dd",
+  "published_files": {
+    "docs/itemized/emilia-perez-sample-cache-audit.md": "e9851e82e6e332f4b48f4ef72cdd3b16b77e070492b0db0b42fab573f5ae636c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/emilia-perez-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "d4445439e4f7981b212bb1689b4d1540fdcf580dccadc561aa9fe5c6d1d4e9f5",
+    "docs/itemized/figures/emilia-perez-cumulative-detail-btiha-itemized-by-bytes.svg": "7eb27289e164af75dbfaa48f297346e8842984b0d060a690a95237efef3d8ae0",
+    "docs/itemized/figures/emilia-perez-downloads-by-week-emilia-perez-week.svg": "f1fb9368c74812d78036aed21bc2430f0e880c1b9fec1eae6e8a64b68bf5f57f",
+    "docs/itemized/figures/emilia-perez-downloads-by-day-day.svg": "50cd125698d150a51c37b9397626fb8a9b8fd25844e8fe118dd5263525a68830",
+    "docs/itemized/figures/emilia-perez-carto.png": "3676aba91579fb8d3a4ce72e07c53992e8b1fbbc5759df5683f0b772d3b674e9",
+    "docs/itemized/figures/emilia-perez-carto-4k.webp": "f7e9c6a605e9d3a570595ace4da000168bb4e52097e2da3104442350649b11b3",
+    "docs/itemized/figures/emilia-perez-data-ge-1080p.webp": "3dd4e88ca8b32b7f67c938dd0d86ab8707ba69b84107314b79bc29f0ebeef367",
+    "docs/itemized/figures/emilia-perez-data-ge-1080p-4k.webp": "f3d526d3053fd619e1b8fe7738c6fbf64a80f46ca7e22577afe355005e3a3398",
+    "docs/itemized/figures/emilia-perez-data-lt-1080p.webp": "fc71cc59453ff1b21d97c28f5a8270392ef352f730bf341a8f88c97eb57a2afb",
+    "docs/itemized/figures/emilia-perez-data-lt-1080p-4k.webp": "a9c91e90c11bc077ba0dd677a7d1bf9f8edc0d261576dd6e6db326e314909e56"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "emilia-perez",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/emilia-perez-days.csv",
+        "sha256": "a945bfecd7aad76144402c4a5b9e9c8627edfc9b5e20b09226497d51b7522183",
+        "size": 6198
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/emilia-perez-downloads-by-week-emilia-perez-week.svg",
+        "sha256": "f1fb9368c74812d78036aed21bc2430f0e880c1b9fec1eae6e8a64b68bf5f57f",
+        "size": 32446,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/emilia-perez-downloads-by-day-day.svg",
+        "sha256": "50cd125698d150a51c37b9397626fb8a9b8fd25844e8fe118dd5263525a68830",
+        "size": 28091,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/emilia-perez-cumulative-btiha.geojson.gz",
+        "sha256": "c4e329120045ec8198dff7250cb29e621bc488b99587c41eb4c88107dc2355f3",
+        "size": 21443430
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/emilia-perez-cumulative-btiha-media-objects.json",
+        "sha256": "6a39bdca0889bdad80beb38d2a81587beeced9f97bc021b688a507563ea132aa",
+        "size": 381296
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 28,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Lelystad",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          80.0,
+          72.0,
+          52.0,
+          34.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Lelystad",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          79.0,
+          72.0,
+          52.0,
+          32.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
