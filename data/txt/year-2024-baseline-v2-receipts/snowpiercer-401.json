@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "snowpiercer-401",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:34:20.114838+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt6156584",
+    "external_imdb": "tt6156584",
+    "wikidata_id": "Q60691083",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Snowpiercer_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/snowpiercer-401-cumulative.json",
+      "size": 15692,
+      "sha256": "4461f750088ed2503867daf637c9520256341f7be675bb1fcbbcd4deddba5b20"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/snowpiercer-401-week.json",
+      "size": 943742,
+      "sha256": "a7109d14528ff25c6582e74fbc4f4827a84273f0a90de9fa4699f774dbf74363"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/snowpiercer-401-cumulative-ip-swarm.json",
+      "size": 41319,
+      "sha256": "c7129d82b61edffb21a7d214cb6e972ff831045b519bb53b38674285529a7aab"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/snowpiercer-401-cumulative-btiha-media-objects.json",
+      "size": 218250,
+      "sha256": "b29acaa5d3606e498e7c568cc9c13941749f91782875ccc5a2bf9d163c8b1596"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/snowpiercer-401-cumulative-aggregate.geojson.gz",
+      "size": 896106,
+      "sha256": "bfe0f7c22adf2e659515ee08c76588aa12770e9ad435a80162bad50128015886"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/snowpiercer-401-cumulative-btiha.geojson.gz",
+      "size": 12395052,
+      "sha256": "73cc3287869cdd2eadb40a39f34f0c64981a581cbcc426ea4a5f90e9529afcb1"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/snowpiercer-401-downloads-by-week-snowpiercer-401-week.svg",
+      "size": 1035,
+      "sha256": "3a36164ce7893e322b3b36c61be85c81faf95445e3a67d504d43d2d6d1e24e9c"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/snowpiercer-401-downloads-by-day-day.svg",
+      "size": 2374,
+      "sha256": "b3acee31bdc44eb5c23f338e34102af73a38545f0aee9e73e948eeb22c0bfbba"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/snowpiercer-401.json",
+      "size": 16073,
+      "sha256": "c870df109116088595db0e3c0e6953ce9cc7992240d989fe043b286c5c91f70e"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/snowpiercer-401-days.csv",
+      "size": 3586,
+      "sha256": "1ac9b995b67c75b67d91c33cbab41db0b336992d290ae25c5250ea5160595c12"
+    }
+  },
+  "coverage_sha256": "0cde0b76d06a5b212d4b7cab2b4ff670eb917e48552becde1bfa282425efc1af",
+  "published_files": {
+    "docs/itemized/snowpiercer-401-sample-cache-audit.md": "176635c8e3707343401020633c8f279466c3ea25eb5f06a65b313abdeeada2c0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/snowpiercer-401-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "a491e02afb2170d04ffe5885b9a796f872af13dc19b8ce7bc9859fe73313c2e5",
+    "docs/itemized/figures/snowpiercer-401-cumulative-detail-btiha-itemized-by-bytes.svg": "45b378247198ce3a0e785e1a0fb72a46cec0331f3ae21f0b29d516eb2a27b18c",
+    "docs/itemized/figures/snowpiercer-401-downloads-by-week-snowpiercer-401-week.svg": "be0c691fa250b59a16dafbf11d046f88caf12fa107f1e239eb422cedda9be68c",
+    "docs/itemized/figures/snowpiercer-401-downloads-by-day-day.svg": "3e805812eb4c3ee0986383f6641238ecb0069f8b311c24f374401a3c059b41f9",
+    "docs/itemized/figures/snowpiercer-401-carto.png": "69c4e71072ec43019fe4fec26038971eaea7a12a644e99442bb5ab633f44c435",
+    "docs/itemized/figures/snowpiercer-401-carto-4k.webp": "209c38eb1dbcde29695cc8656f2d99700b9ee41e5d6d8d13ac6e192b530d7e18",
+    "docs/itemized/figures/snowpiercer-401-data-ge-1080p.webp": "eaee4362d43b949998aa1f0b9fff603e782f810a34966020d7c9a77ee579365e",
+    "docs/itemized/figures/snowpiercer-401-data-ge-1080p-4k.webp": "bd9a9b51e149771fd33e880f07278128d5f4cbfa6501cce0c944d168c097e0e3",
+    "docs/itemized/figures/snowpiercer-401-data-lt-1080p.webp": "150bf132245f81dcc222f6c06d4199a0f59b9b8ffccf034145b2957792b78896",
+    "docs/itemized/figures/snowpiercer-401-data-lt-1080p-4k.webp": "a05a7915ae5efa636c448644a172dd77b1ccc71e5f5e77ea3122ca4e258a15ea"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "snowpiercer-401",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/snowpiercer-401-days.csv",
+        "sha256": "1ac9b995b67c75b67d91c33cbab41db0b336992d290ae25c5250ea5160595c12",
+        "size": 3586
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/snowpiercer-401-downloads-by-week-snowpiercer-401-week.svg",
+        "sha256": "3a36164ce7893e322b3b36c61be85c81faf95445e3a67d504d43d2d6d1e24e9c",
+        "size": 1035,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/snowpiercer-401-downloads-by-week-snowpiercer-401-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/snowpiercer-401-downloads-by-day-day.svg",
+        "sha256": "b3acee31bdc44eb5c23f338e34102af73a38545f0aee9e73e948eeb22c0bfbba",
+        "size": 2374,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/snowpiercer-401-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/snowpiercer-401-cumulative-btiha.geojson.gz",
+        "sha256": "73cc3287869cdd2eadb40a39f34f0c64981a581cbcc426ea4a5f90e9529afcb1",
+        "size": 12395052
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/snowpiercer-401-cumulative-btiha-media-objects.json",
+        "sha256": "b29acaa5d3606e498e7c568cc9c13941749f91782875ccc5a2bf9d163c8b1596",
+        "size": 218250
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 34,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          87.0,
+          49.0,
+          38.0,
+          38.0,
+          32.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          88.0,
+          49.0,
+          33.0,
+          32.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
