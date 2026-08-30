@@ -16,7 +16,7 @@ description: "Cache coverage and visualization audit for one media object."
 | imdb_id | [tt14452776](https://www.imdb.com/title/tt14452776/) |
 | wikipedia_url | [The Bear (TV series)](https://en.wikipedia.org/wiki/The_Bear_(TV_series)) |
 | Sample dates | 2024-06-27-to-2025-01-01 |
-| Sample days | 189 (2024–2025) |
+| Sample days | 189 |
 | BTIH count | 490 |
 | Unique BTIH count | 446 |
 | Downloaders total | 46,702,449 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-25T22:08:21Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/bear-03.xz`
@@ -40,7 +40,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-12-28 22:00`, resumed `2024-12-30 22:00` — missing 47 hour(s)
 - missing day: `2024-12-29`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![The Bear collection size histogram](figures/bear-03-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -48,7 +48,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![bear-03 downloads by week](figures/bear-03-downloads-by-week-bear-03-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/bear-03-downloads-by-week-bear-03-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -56,7 +69,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
