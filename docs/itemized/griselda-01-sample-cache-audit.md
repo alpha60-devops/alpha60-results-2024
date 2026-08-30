@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Griselda |
 | Collection key | `griselda-01` |
 | imdb_id | [tt15837600](https://www.imdb.com/title/tt15837600/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Griselda (miniseries)](https://en.wikipedia.org/wiki/Griselda_(miniseries)) |
 | Sample dates | 2024-01-25-to-2024-05-08 |
-| Sample days | 105 (2024–2024) |
+| Sample days | 105 |
 | BTIH count | 201 |
 | Unique BTIH count | 181 |
 | Downloaders total | 12,460,144 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T18:37:51Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/griselda-01.xz`
@@ -39,7 +39,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-02-16 19:06`, resumed `2024-02-17 08:45` — missing 12 hour(s)
 - hourly gap: last `2024-03-31 01:00`, resumed `2024-03-31 03:00` — missing 1 hour(s)
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Griselda collection size histogram](figures/griselda-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -47,7 +47,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![griselda-01 downloads by week](figures/griselda-01-downloads-by-week-griselda-01-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/griselda-01-downloads-by-week-griselda-01-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -55,7 +68,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -69,8 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/griselda-01-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/griselda-01-data-ge-1080p.webp)](figures/griselda-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/griselda-01-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/griselda-01-data-lt-1080p.webp)](figures/griselda-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
