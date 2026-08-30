@@ -1,0 +1,251 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "house-of-the-dragon-207",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:02:14.992044+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt11198330",
+    "external_imdb": "tt11198330",
+    "wikidata_id": "Q72930269",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-207-cumulative.json",
+      "size": 15790,
+      "sha256": "8a9880e34cbfbd95c661d66b0d5f8f14053d924926f904554dc8a7a770ce60f4"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-207-week.json",
+      "size": 5049491,
+      "sha256": "6ecc671d40334f4666d9a99bac84ca6810b918b4ff003d02d7a5bd052d7f8fdd"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-207-cumulative-ip-swarm.json",
+      "size": 43852,
+      "sha256": "1f8d36ade8f0a022a5237dcec9812be06144fc21dca97d9a90693bda7f4ea7af"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-207-cumulative-btiha-media-objects.json",
+      "size": 1085589,
+      "sha256": "e275b79d7794fcf78bfdeffe9f7869257e27662aa6538bfc57daeeb62c624ed6"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/house-of-the-dragon-207-cumulative-aggregate.geojson.gz",
+      "size": 1363241,
+      "sha256": "9b008a220c919fbb01ab8d47d05e1ad2b156368e96bdcbab4b1b2a3acbda278e"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/house-of-the-dragon-207-cumulative-btiha.geojson.gz",
+      "size": 55620933,
+      "sha256": "683fa0f3d579cebabe571ed9779f2e99fb9c13f206d945d8e316a5ce9aade22d"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-207-downloads-by-week-house-of-the-dragon-207-week.svg",
+      "size": 33203,
+      "sha256": "7603e1b399eedb20de64daa6a288368d7b7c1f50f69b31f296eb1c8c1498ce2e"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-207-downloads-by-day-day.svg",
+      "size": 28343,
+      "sha256": "92ab2b5bd361da73bc156376f4fd4bd18e71610c9bd173c36d340dedd9826683"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/house-of-the-dragon-207.json",
+      "size": 23940,
+      "sha256": "9574837a6540d44974cc95bb28607192dd4229c959d5438bbebd349c3bdb5bf8"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/house-of-the-dragon-207-days.csv",
+      "size": 6460,
+      "sha256": "84833f9cebaf6b48f02f532f7456cf4285d6e6d8e94aef4d122868d4980902c5"
+    }
+  },
+  "coverage_sha256": "082654b39053686cd3aa6fa545410f9120633f5669e311639e3c7164e517cc57",
+  "published_files": {
+    "docs/itemized/house-of-the-dragon-207-sample-cache-audit.md": "8032306bcd4601364b486eba3b41e3034a35022d9bef5ebd51bfad0db88f2bfd",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/house-of-the-dragon-207-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "fa29ffe99bedca2af72fd40b135fc1ee22c44577142466430de519620f0f9487",
+    "docs/itemized/figures/house-of-the-dragon-207-cumulative-detail-btiha-itemized-by-bytes.svg": "70a12c01dab2633e46a4931016e8cfd641680d35f3f70b10a669f8a1cddc6305",
+    "docs/itemized/figures/house-of-the-dragon-207-downloads-by-week-house-of-the-dragon-207-week.svg": "7603e1b399eedb20de64daa6a288368d7b7c1f50f69b31f296eb1c8c1498ce2e",
+    "docs/itemized/figures/house-of-the-dragon-207-downloads-by-day-day.svg": "92ab2b5bd361da73bc156376f4fd4bd18e71610c9bd173c36d340dedd9826683",
+    "docs/itemized/figures/house-of-the-dragon-207-carto.png": "11ab9e7186d63666048af8f61afa433083b463fc040f2f01746f3370eefa341e",
+    "docs/itemized/figures/house-of-the-dragon-207-carto-4k.webp": "167a65225ed146314d8d62fbf2d46bf9a18e20e41116cd00ced88200d83b7cd4",
+    "docs/itemized/figures/house-of-the-dragon-207-data-ge-1080p.webp": "6c346e2466efae92424a815718f29ba4bde416f168b73ac46eb9f300e92070f2",
+    "docs/itemized/figures/house-of-the-dragon-207-data-ge-1080p-4k.webp": "eb966ed2bacf95fafbdd8c874dcf11c3d61f5bae448c20492dd8b5479b4743d0",
+    "docs/itemized/figures/house-of-the-dragon-207-data-lt-1080p.webp": "d5cb07aba1b3e3718f3a23a63c441888a1bb39a3eb038787303cd0b76c5e0f9a",
+    "docs/itemized/figures/house-of-the-dragon-207-data-lt-1080p-4k.webp": "71aa43e2f5d993b22fb053e8d15d29fcb6deea7531ed33a396f15edf85d54304"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "house-of-the-dragon-207",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/house-of-the-dragon-207-days.csv",
+        "sha256": "84833f9cebaf6b48f02f532f7456cf4285d6e6d8e94aef4d122868d4980902c5",
+        "size": 6460
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-207-downloads-by-week-house-of-the-dragon-207-week.svg",
+        "sha256": "7603e1b399eedb20de64daa6a288368d7b7c1f50f69b31f296eb1c8c1498ce2e",
+        "size": 33203,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/house-of-the-dragon-207-downloads-by-day-day.svg",
+        "sha256": "92ab2b5bd361da73bc156376f4fd4bd18e71610c9bd173c36d340dedd9826683",
+        "size": 28343,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/house-of-the-dragon-207-cumulative-btiha.geojson.gz",
+        "sha256": "683fa0f3d579cebabe571ed9779f2e99fb9c13f206d945d8e316a5ce9aade22d",
+        "size": 55620933
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/house-of-the-dragon-207-cumulative-btiha-media-objects.json",
+        "sha256": "e275b79d7794fcf78bfdeffe9f7869257e27662aa6538bfc57daeeb62c624ed6",
+        "size": 1085589
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 49,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Leipzig"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          71.0,
+          58.0,
+          49.0,
+          45.0,
+          35.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Budapest",
+          "Lelystad",
+          "Amsterdam",
+          "Ankara"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          67.0,
+          56.0,
+          48.0,
+          35.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
