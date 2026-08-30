@@ -1,0 +1,259 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "tokyo-vice-209",
+  "status": "passed",
+  "generated_at": "2026-08-30T03:00:24.037954+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt2887954",
+    "external_imdb": "tt2887954",
+    "wikidata_id": "Q85809934",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tokyo_Vice_(TV_series)"
+  },
+  "source_revisions": {
+    "alpha60": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "day_series_repairs": "1f978c1773be713a489c1a018b5df18d70a48540",
+    "results_initial": "1f978c1773be713a489c1a018b5df18d70a48540"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/tokyo-vice-209-cumulative.json",
+      "size": 15695,
+      "sha256": "87ebd3b4e41d18f9f040ae4de3f699b893adee509ea6e4a182ada8f5e5439744"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/tokyo-vice-209-week.json",
+      "size": 1252252,
+      "sha256": "1078269e4832abb8fda67f90ae16c78ef09f3d89152d23abd5b05ec87f6e192e"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/tokyo-vice-209-cumulative-ip-swarm.json",
+      "size": 41178,
+      "sha256": "446ecfaba02b5ed96642890090c784083a7faa615f7f8b63e94958be083f76ba"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/tokyo-vice-209-cumulative-btiha-media-objects.json",
+      "size": 533209,
+      "sha256": "a25ec6dd7c8e9f70fa60b700652b5876fa40b4760224e40380b3523c6bef1e53"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/tokyo-vice-209-cumulative-aggregate.geojson.gz",
+      "size": 949193,
+      "sha256": "c6eb34ec897c429bad6f551f96b7f7d11fc5e859f2bc239cde7408f6fc69c691"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/tokyo-vice-209-cumulative-btiha.geojson.gz",
+      "size": 17191005,
+      "sha256": "b728164bc2d1363e1e06f055fe40f83fc9b718f21b50e6df8e2ed697f54d86a1"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/tokyo-vice-209-downloads-by-week-tokyo-vice-209-week.svg",
+      "size": 1026,
+      "sha256": "a803bbb071361d2e63adb3c49817e88736dfe8799f0bfd465a84049a42a3a6af"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/tokyo-vice-209-downloads-by-day-day.svg",
+      "size": 2382,
+      "sha256": "a6e4efd6123b7dfb1cbeac39d98459adcaea4a225bf315f8f631b6ffba4b2b6c"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/tokyo-vice-209.json",
+      "size": 11057,
+      "sha256": "00c59d369c5f7e9eafdb99e74b297ba259fdfc14e276d66aac14efdc9acc7589"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/tokyo-vice-209-days.csv",
+      "size": 3582,
+      "sha256": "6387ff74dba3cd0ac8d5a3dd026c3c458d9e04b45f4c27376e1047a4f18894dc"
+    },
+    "day-series-repair-provenance": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/txt/year-2024-day-summary-repairs/tokyo-vice-209.json",
+      "size": 2445,
+      "sha256": "9ebbebc5c2cce41cb9c396160e98bcd6879b948425857c1d00f6a464102cc8d2"
+    }
+  },
+  "coverage_sha256": "0596f7002176162b357577095bec114d7a00be9af9465bd2c53f0cbe2d992e65",
+  "published_files": {
+    "docs/itemized/tokyo-vice-209-sample-cache-audit.md": "fafa14c9e444c81363238b735497944203ea827ce043d91846f33f5629909323",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/tokyo-vice-209-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "17b7d6c1530b60e9339d4a171d12e41085aaa033390cfe8cca61c0f8c5f1c568",
+    "docs/itemized/figures/tokyo-vice-209-cumulative-detail-btiha-itemized-by-bytes.svg": "715ee22ab08dd24abd0bb49d2b22617026b77d7d7c6b593ac3f3db9f1e0be112",
+    "docs/itemized/figures/tokyo-vice-209-downloads-by-week-tokyo-vice-209-week.svg": "e254bbc5238b8dcc41f07e00b7625290d50c0d1f59e293f42eb07c7344187cc6",
+    "docs/itemized/figures/tokyo-vice-209-downloads-by-day-day.svg": "4d3dcc58aa6ba2ff57255d04b97f08d14e3e62eb566a151dd541b59c899ccd2c",
+    "docs/itemized/figures/tokyo-vice-209-carto.png": "1ffb824e5f0a04b62925d64f100b1d8a5ba232ddae4a2c2205e27811cd9ae2d2",
+    "docs/itemized/figures/tokyo-vice-209-carto-4k.webp": "a623a1494a1a9253d6b6b6908c28f8ca91f3bd7a3738df2eac0d173c9fd9180d",
+    "docs/itemized/figures/tokyo-vice-209-data-ge-1080p.webp": "49830d744f37cc25ffbc01c1ef92a31a5ac4493ac554231f9ee2a4c90434905e",
+    "docs/itemized/figures/tokyo-vice-209-data-ge-1080p-4k.webp": "5336de4225f359cb5cd5deb74785e4f6c6dcecbd32438c1fa0103cf231186f0d",
+    "docs/itemized/figures/tokyo-vice-209-data-lt-1080p.webp": "3b97c6986e6aca5c658e93b19355923d9e228351987de625d7b5cc638de80e2d",
+    "docs/itemized/figures/tokyo-vice-209-data-lt-1080p-4k.webp": "2d1838ff1900376acca475226889d28167cf0c3b948540c5bb6c624fcb547dbc"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "tokyo-vice-209",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2fbc3a4c3b33fd2c33e52f0996e0b807e9d1ef02",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/csv/day-ubtiha-repair/tokyo-vice-209-days.csv",
+        "sha256": "6387ff74dba3cd0ac8d5a3dd026c3c458d9e04b45f4c27376e1047a4f18894dc",
+        "size": 3582
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/tokyo-vice-209-downloads-by-week-tokyo-vice-209-week.svg",
+        "sha256": "a803bbb071361d2e63adb3c49817e88736dfe8799f0bfd465a84049a42a3a6af",
+        "size": 1026,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/tokyo-vice-209-downloads-by-week-tokyo-vice-209-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/tokyo-vice-209-downloads-by-day-day.svg",
+        "sha256": "a6e4efd6123b7dfb1cbeac39d98459adcaea4a225bf315f8f631b6ffba4b2b6c",
+        "size": 2382,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/tokyo-vice-209-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/tokyo-vice-209-cumulative-btiha.geojson.gz",
+        "sha256": "b728164bc2d1363e1e06f055fe40f83fc9b718f21b50e6df8e2ed697f54d86a1",
+        "size": 17191005
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/tokyo-vice-209-cumulative-btiha-media-objects.json",
+        "sha256": "a25ec6dd7c8e9f70fa60b700652b5876fa40b4760224e40380b3523c6bef1e53",
+        "size": 533209
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 28,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          71.0,
+          50.0,
+          37.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "Budapest",
+          "Yekaterinburg"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          69.0,
+          50.0,
+          34.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
