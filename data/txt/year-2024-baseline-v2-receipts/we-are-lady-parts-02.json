@@ -1,0 +1,241 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "we-are-lady-parts-02",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:41:00.422627+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt10846104",
+    "external_imdb": "tt10846104",
+    "wikidata_id": "Q106912754",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/We_Are_Lady_Parts"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/we-are-lady-parts-02-cumulative.json",
+      "size": 15635,
+      "sha256": "3ee3e1c313056eba090607a601c17ab38d63232bc2c3f937c3efb188cbebb69d"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/we-are-lady-parts-02-week.json",
+      "size": 317031,
+      "sha256": "0273a21994788109ff95c1c9532326b9472270e235b36573fcb0031c8abeb21a"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/we-are-lady-parts-02-cumulative-ip-swarm.json",
+      "size": 39616,
+      "sha256": "2192985d690bb0d821a58530756cccaaef38b1095a37ddab50c8e8d7c2784cb9"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/we-are-lady-parts-02-cumulative-btiha-media-objects.json",
+      "size": 171245,
+      "sha256": "7acd4260a117df09a5fd08224b0bc0bee7bfcc2c8417dcd38b57cdc83d9dce21"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/we-are-lady-parts-02-cumulative-aggregate.geojson.gz",
+      "size": 539632,
+      "sha256": "b04bfeae47806f8d061df70e3613f958620148d41a957b52f03c2d288627dce1"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/we-are-lady-parts-02-cumulative-btiha.geojson.gz",
+      "size": 2862115,
+      "sha256": "d3c7c20d183c87cd8dd1d5fefc98a40c255dc5d69df30c52f7c36fecf405547f"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/we-are-lady-parts-02-downloads-by-week-we-are-lady-parts-02-week.svg",
+      "size": 18754,
+      "sha256": "df82473a21a73342d3d6b0e4d20185b93c97cc8c0038e9c32a51e9005a058245"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/we-are-lady-parts-02-downloads-by-day-day.svg",
+      "size": 22481,
+      "sha256": "db45a309c87d3d4c8400472f1b57f3fcd71a90f829d75726933476de53655c73"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/we-are-lady-parts-02.json",
+      "size": 5471,
+      "sha256": "5c06fb1600d6f61899f6142c5c2c96d124a93d4c862885b58dc18a0aa489a1cc"
+    }
+  },
+  "coverage_sha256": "6b097bf4db0f6c073d489f0cd9b1381aa9eca6b86381e195323a210d1a3977a6",
+  "published_files": {
+    "docs/itemized/we-are-lady-parts-02-sample-cache-audit.md": "887e7eb748be2d0243abddd327aec3fc3dd68ddd689492f3cfdc58816e21fae6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/we-are-lady-parts-02-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "a38c7e27ce2776976ef7e580ac8bf781b3533ea77672a60b3af65600c79dfc38",
+    "docs/itemized/figures/we-are-lady-parts-02-cumulative-detail-btiha-itemized-by-bytes.svg": "25c930c3cf84b6b2bd1635bbc0c1e761d8ce57f25a5e973270bfcd910e65d4cd",
+    "docs/itemized/figures/we-are-lady-parts-02-downloads-by-week-we-are-lady-parts-02-week.svg": "df82473a21a73342d3d6b0e4d20185b93c97cc8c0038e9c32a51e9005a058245",
+    "docs/itemized/figures/we-are-lady-parts-02-downloads-by-day-day.svg": "db45a309c87d3d4c8400472f1b57f3fcd71a90f829d75726933476de53655c73",
+    "docs/itemized/figures/we-are-lady-parts-02-carto.png": "ca7f3d69c2477b54237cfe982b609877165fd43aff818ba8e70ce9e19f849253",
+    "docs/itemized/figures/we-are-lady-parts-02-carto-4k.webp": "5bfffb11f91160dd893146d11b6599c0d2b6d5d2f43b575973a6db1b8ad44324",
+    "docs/itemized/figures/we-are-lady-parts-02-data-ge-1080p.webp": "40153b2b25d3b3577829a099b6a6422a2400f9f1d291813c4516856d589a8eb8",
+    "docs/itemized/figures/we-are-lady-parts-02-data-ge-1080p-4k.webp": "3351a12b2e6ae9f4940c43cb2af6e1bca753f7c9449105904279d09ed8b34622",
+    "docs/itemized/figures/we-are-lady-parts-02-data-lt-1080p.webp": "6e67c765418d3ec81f884ff690aca715927c1cb6d98258823e7c7cc3b2d63374",
+    "docs/itemized/figures/we-are-lady-parts-02-data-lt-1080p-4k.webp": "bf897a50b8cd25da01ed0451fd7d4d15f325cf5fbc562e8345fe50f79fc83f82"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "we-are-lady-parts-02",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/we-are-lady-parts-02-downloads-by-week-we-are-lady-parts-02-week.svg",
+        "sha256": "df82473a21a73342d3d6b0e4d20185b93c97cc8c0038e9c32a51e9005a058245",
+        "size": 18754,
+        "disposition": "preserved"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/we-are-lady-parts-02-downloads-by-day-day.svg",
+        "sha256": "db45a309c87d3d4c8400472f1b57f3fcd71a90f829d75726933476de53655c73",
+        "size": 22481,
+        "disposition": "preserved"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/we-are-lady-parts-02-cumulative-btiha.geojson.gz",
+        "sha256": "d3c7c20d183c87cd8dd1d5fefc98a40c255dc5d69df30c52f7c36fecf405547f",
+        "size": 2862115
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/we-are-lady-parts-02-cumulative-btiha-media-objects.json",
+        "sha256": "7acd4260a117df09a5fd08224b0bc0bee7bfcc2c8417dcd38b57cdc83d9dce21",
+        "size": 171245
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 13,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Ashburn",
+          "Saint Petersburg",
+          "Lelystad",
+          "London",
+          "Amsterdam",
+          "Istanbul",
+          "Frankfurt am Main",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          81.0,
+          58.0,
+          51.0,
+          41.0,
+          39.0,
+          34.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "Lelystad",
+          "London",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai",
+          "Incheon"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          86.0,
+          50.0,
+          39.0,
+          33.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}

@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | We Are Lady Parts |
 | Collection key | `we-are-lady-parts-02` |
 | imdb_id | [tt10846104](https://www.imdb.com/title/tt10846104/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [We Are Lady Parts](https://en.wikipedia.org/wiki/We_Are_Lady_Parts) |
 | Sample dates | 2024-05-30-to-2024-08-07 |
-| Sample days | 70 (2024–2024) |
+| Sample days | 70 |
 | BTIH count | 78 |
 | Unique BTIH count | 68 |
 | Downloaders total | 2,047,288 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T21:57:24Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/we-are-lady-parts-02.xz`
@@ -39,7 +39,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-07-18 23:03`, resumed `2024-07-20 00:03` — missing 24 hour(s)
 - missing day: `2024-07-19`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![We Are Lady Parts collection size histogram](figures/we-are-lady-parts-02-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -47,7 +47,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![we-are-lady-parts-02 downloads by week](figures/we-are-lady-parts-02-downloads-by-week-we-are-lady-parts-02-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/we-are-lady-parts-02-downloads-by-week-we-are-lady-parts-02-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -55,7 +68,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -69,8 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/we-are-lady-parts-02-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/we-are-lady-parts-02-data-ge-1080p.webp)](figures/we-are-lady-parts-02-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/we-are-lady-parts-02-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/we-are-lady-parts-02-data-lt-1080p.webp)](figures/we-are-lady-parts-02-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
