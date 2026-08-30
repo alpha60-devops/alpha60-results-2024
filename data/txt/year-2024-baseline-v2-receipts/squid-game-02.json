@@ -1,0 +1,253 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2024",
+  "media_object": "squid-game-02",
+  "status": "passed",
+  "generated_at": "2026-08-30T01:41:56.061486+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "imdb_id": "tt10919420",
+    "external_imdb": "tt10919420",
+    "wikidata_id": "Q106582931",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Squid_Game"
+  },
+  "source_revisions": {
+    "alpha60": "e97f114ca0d91c497f72679417517743ab6534c4",
+    "izzi": "511694e0aeaf422082c0195b07df6248c0de91d3",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "metadata": "81f6ead79746acb355c94616986c6502b3ee628d",
+    "day_series": "c767c240e94acc2207612f45b2b8c81576018332",
+    "results_initial": "41e79f02e1fe017f99ccc5b9562d6051c350d531"
+  },
+  "immutable_inputs": {
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/squid-game-02-cumulative.json",
+      "size": 15700,
+      "sha256": "fa799d47d421940fac01c2072028d0e953320890e43b894efe8c2adad7d61385"
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/squid-game-02-week.json",
+      "size": 6511725,
+      "sha256": "161116eb603681fc05530c0e17001ee1a5f2fb1479fb179697c25cb9dd9d8279"
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/squid-game-02-cumulative-ip-swarm.json",
+      "size": 44056,
+      "sha256": "f7489d503038b7e2b9bc6b6ffad13e71b5af5dcac9517a84f226ee2bb4c859b5"
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/json/squid-game-02-cumulative-btiha-media-objects.json",
+      "size": 1318627,
+      "sha256": "37852df70f2d9bc1ccc50e7b197d2009f2cf449564ad54913f5445e196f67594"
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/squid-game-02-cumulative-aggregate.geojson.gz",
+      "size": 1433924,
+      "sha256": "675c75e137ecbdfde13affb759496907c3e1fb9b2c889bf59317feb24ea290ec"
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/squid-game-02-cumulative-btiha.geojson.gz",
+      "size": 69337648,
+      "sha256": "3ac76162e2005f99c8bf063e9dd57410fb5433c70aef3ec4ccbc15af27e81dee"
+    },
+    "week-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/squid-game-02-downloads-by-week-squid-game-02-week.svg",
+      "size": 1147,
+      "sha256": "4209721078367dfe4217cefa7cab362a05f2b1f3223271dbb1245a3156c1dae6"
+    },
+    "day-graph-svg": {
+      "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/squid-game-02-downloads-by-day-day.svg",
+      "size": 3602,
+      "sha256": "8178cc3b68676929e3129d2c3dfb50eaa5f32ac7ba3dc2ab6832b9a230d682f4"
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/squid-game-02.json",
+      "size": 7287,
+      "sha256": "7ce2061325cb7b24912834393430328723242c7413f58dd0a4a6788e70ef0c15"
+    },
+    "day-series-csv": {
+      "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/squid-game-02-days.csv",
+      "size": 6520,
+      "sha256": "db34be5f5f77a95fb98dc684ac0fc67252c001379b74245d7c4b0e9d79a8845d"
+    }
+  },
+  "coverage_sha256": "8aca0379fa87695ae97816581786792748cf5bc6e153bfcdf6808ea8062c3eb1",
+  "published_files": {
+    "docs/itemized/squid-game-02-sample-cache-audit.md": "272b78432611e64673505988e2688e82b82deb27d89e95288c4fe428db87e949",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/squid-game-02-cumulative-detail.2024-btiha-itemized-by-bytes.csv": "d4a04bddf2cdace7409d9bf60ee87f57a5a621888daf8a6b91b26b9f14f699e9",
+    "docs/itemized/figures/squid-game-02-cumulative-detail-btiha-itemized-by-bytes.svg": "dd1457115be35e00a157c9a32739a85cdedc6f199db1e85c33ff3f66f89dcba7",
+    "docs/itemized/figures/squid-game-02-downloads-by-week-squid-game-02-week.svg": "3efc315c6139dab8b67c35401db71e46b4017456c01fe43d5c514c302087b843",
+    "docs/itemized/figures/squid-game-02-downloads-by-day-day.svg": "80abc1ef703f846cb56e8eec5cacc67ba8b18510e60e99c24023e915733d482a",
+    "docs/itemized/figures/squid-game-02-carto.png": "e2bde4f538bde6511e48313a78615071a217afba50ba71ea467384e928bb55ac",
+    "docs/itemized/figures/squid-game-02-carto-4k.webp": "9362b94b3cd180e428a75ee1784b22b76b9618163eefee276476dc0edb76325d",
+    "docs/itemized/figures/squid-game-02-data-ge-1080p.webp": "659555b26ccae3b872382dd7264c57b6a14c99c7d5cfe9017d0dc82de437b10d",
+    "docs/itemized/figures/squid-game-02-data-ge-1080p-4k.webp": "914a1fba84e1b9a2030facb01dfe86b4d937b3c5f21e9b426afbcb651b47e917",
+    "docs/itemized/figures/squid-game-02-data-lt-1080p.webp": "99248e1a2a531ae1db8d06032f2fd1a87643470a2f237d8bdbdbb7dc7c9a6dd7",
+    "docs/itemized/figures/squid-game-02-data-lt-1080p-4k.webp": "e7c4659e2dcf248c03cd36379f99249281173b801e7743bb1cfd5be0c821f2d1"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "squid-game-02",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "e97f114ca0d91c497f72679417517743ab6534c4",
+      "dirty": false,
+      "untracked": false
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "511694e0aeaf422082c0195b07df6248c0de91d3",
+      "dirty": false,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2024/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "a592eadc1e372dec5a9f2a681061edeb2095e2c8bb116f50c0431b88897a823d",
+      "size": 36848624
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "day-summary-csv": {
+        "path": "/home/bkoz/src/alpha60-results/data.v1/csv/day-ubtiha/squid-game-02-days.csv",
+        "sha256": "db34be5f5f77a95fb98dc684ac0fc67252c001379b74245d7c4b0e9d79a8845d",
+        "size": 6520
+      },
+      "existing-week-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/squid-game-02-downloads-by-week-squid-game-02-week.svg",
+        "sha256": "4209721078367dfe4217cefa7cab362a05f2b1f3223271dbb1245a3156c1dae6",
+        "size": 1147,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/squid-game-02-downloads-by-week-squid-game-02-week.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "existing-day-graph": {
+        "path": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/squid-game-02-downloads-by-day-day.svg",
+        "sha256": "8178cc3b68676929e3129d2c3dfb50eaa5f32ac7ba3dc2ab6832b9a230d682f4",
+        "size": 3602,
+        "disposition": "regenerated-invalid-presentation",
+        "validation_error": "/home/bkoz/src/alpha60-results-2024/docs/itemized/figures/squid-game-02-downloads-by-day-day.svg: axes-lines does not contain both axes with exact titles"
+      },
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/geojson.cumulative/squid-game-02-cumulative-btiha.geojson.gz",
+        "sha256": "3ac76162e2005f99c8bf063e9dd57410fb5433c70aef3ec4ccbc15af27e81dee",
+        "size": 69337648
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2024/data/json/squid-game-02-cumulative-btiha-media-objects.json",
+        "sha256": "37852df70f2d9bc1ccc50e7b197d2009f2cf449564ad54913f5445e196f67594",
+        "size": 1318627
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 57,
+        "x_tick_marks": 5,
+        "x_tick_labels": 5,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Shanghai",
+          "Amsterdam",
+          "Budapest",
+          "Ashburn"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          77.0,
+          73.0,
+          52.0,
+          36.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Yekaterinburg",
+          "Novosibirsk"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          69.0,
+          65.0,
+          50.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      }
+    }
+  },
+  "human_review": null
+}
