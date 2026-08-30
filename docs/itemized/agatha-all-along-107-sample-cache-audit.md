@@ -14,9 +14,9 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Agatha All Along |
 | Collection key | `agatha-all-along-107` |
 | imdb_id | [tt15571732](https://www.imdb.com/title/tt15571732/) |
-| wikipedia_url | UNAVAILABLE |
+| wikipedia_url | [Agatha All Along](https://en.wikipedia.org/wiki/Agatha_All_Along) |
 | Sample dates | 2024-10-24-to-2025-03-05 |
-| Sample days | 133 (2024–2025) |
+| Sample days | 133 |
 | BTIH count | 363 |
 | Unique BTIH count | 330 |
 | Downloaders total | 36,491,034 |
@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-28T16:35:04Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/agatha-all-along-107.xz`
@@ -50,7 +50,7 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2025-02-21`
 - missing day: `2025-03-07`
 
-## 3. Collection size histogram
+## 3. Media objects file size histogram
 
 ![Agatha All Along collection size histogram](figures/agatha-all-along-107-cumulative-detail-btiha-itemized-by-bytes.svg)
 
@@ -58,7 +58,20 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Downloads by week cumulative (normalized start)
 
-![agatha-all-along-107 downloads by week](figures/agatha-all-along-107-downloads-by-week-agatha-all-along-107-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/agatha-all-along-107-downloads-by-week-agatha-all-along-107-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
@@ -66,7 +79,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## 5. Visualization pass — maps
 
-### Continental downloader slices
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
@@ -80,8 +93,8 @@ description: "Cache coverage and visualization audit for one media object."
 
 **Cumulative >= 1080p**
 
-![Cumulative >= 1080p](figures/agatha-all-along-107-data-ge-1080p.webp)
+[![Cumulative >= 1080p](figures/agatha-all-along-107-data-ge-1080p.webp)](figures/agatha-all-along-107-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
 **Cumulative < 1080p**
 
-![Cumulative < 1080p](figures/agatha-all-along-107-data-lt-1080p.webp)
+[![Cumulative < 1080p](figures/agatha-all-along-107-data-lt-1080p.webp)](figures/agatha-all-along-107-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
