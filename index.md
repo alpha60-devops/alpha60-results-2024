@@ -108,9 +108,9 @@ These are results from sampling peer swarms associated with *media objects* bein
 - Weekly (title-week.json)
 - GeoJSON (title-cumulative.geojson)
 - [Media Object Metadata](https://github.com/alpha60-devops/alpha60-btiha/tree/main/metadata) (title.json)
-- [2026 JSON API](docs/data-json.2026.md)
+- [Data API](docs/data-api.2026.md)
 
-### [Source](https://github.com/alpha60-devops/alpha60-results/tree/main/data)
+### [Source](https://github.com/alpha60-devops/alpha60-results-2024/tree/main/data)
 
 <!-- - [analysis notebook](/notebooks/analysis_2026h1.ipynb) -->
 
