@@ -22,8 +22,8 @@ These are results from sampling peer swarms associated with *media objects* bein
 <div style="height: 50px;"></div>
 
 
-## Results, Commentary
-- Media Objects
+## 2024 Results
+- 69 Media Objects
   - [3-body-problem-01](docs/itemized/3-body-problem-01-sample-cache-audit.md)
   - [acolyte-101](docs/itemized/acolyte-101-sample-cache-audit.md)
   - [acolyte-107](docs/itemized/acolyte-107-sample-cache-audit.md)
