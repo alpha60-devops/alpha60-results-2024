@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-28T20:53:56Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/masters-of-the-air-101.xz`
@@ -39,11 +39,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 08:44` — missing 12 hour(s)
 - hourly gap: last `2024-03-31 01:06`, resumed `2024-03-31 03:06` — missing 1 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Masters of the Air collection size histogram](figures/masters-of-the-air-101-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -66,24 +66,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![masters-of-the-air-101 downloads by day](figures/masters-of-the-air-101-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/geojson.cumulative/masters-of-the-air-101-cumulative-aggregate.geojson.gz" data-map-title="Masters of the Air — masters-of-the-air-101" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Masters of the Air (masters-of-the-air-101) cumulative data map in new window" title="Opens interactive map for Masters of the Air (masters-of-the-air-101) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.59 | 19.49 | 23.39 | 50.55 | 1.57 | 0.64 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Masters of the Air cumulative map](figures/masters-of-the-air-101-carto.png)](figures/masters-of-the-air-101-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/masters-of-the-air-101-data-ge-1080p.webp)](figures/masters-of-the-air-101-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/masters-of-the-air-101-data-lt-1080p.webp)](figures/masters-of-the-air-101-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

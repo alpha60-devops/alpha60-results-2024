@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-28T21:04:50Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/mr-and-mrs-smith-2024-01.xz`
@@ -39,11 +39,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-02-16 19:03`, resumed `2024-02-17 05:51` — missing 9 hour(s)
 - hourly gap: last `2024-03-31 01:03`, resumed `2024-03-31 03:03` — missing 1 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Mr. & Mrs. Smith collection size histogram](figures/mr-and-mrs-smith-2024-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -66,24 +66,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![mr-and-mrs-smith-2024-01 downloads by day](figures/mr-and-mrs-smith-2024-01-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/geojson.cumulative/mr-and-mrs-smith-2024-01-cumulative-aggregate.geojson.gz" data-map-title="Mr. &amp; Mrs. Smith — mr-and-mrs-smith-2024-01" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Mr. &amp; Mrs. Smith (mr-and-mrs-smith-2024-01) cumulative data map in new window" title="Opens interactive map for Mr. &amp; Mrs. Smith (mr-and-mrs-smith-2024-01) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.94 | 19.19 | 22.86 | 51.01 | 1.05 | 0.61 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Mr. & Mrs. Smith cumulative map](figures/mr-and-mrs-smith-2024-01-carto.png)](figures/mr-and-mrs-smith-2024-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/mr-and-mrs-smith-2024-01-data-ge-1080p.webp)](figures/mr-and-mrs-smith-2024-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/mr-and-mrs-smith-2024-01-data-lt-1080p.webp)](figures/mr-and-mrs-smith-2024-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

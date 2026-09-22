@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-28T17:08:24Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/bad-monkey-109.xz`
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Bad Monkey 109 collection size histogram](figures/bad-monkey-109-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ None detected.
 
 ![bad-monkey-109 downloads by day](figures/bad-monkey-109-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/geojson.cumulative/bad-monkey-109-cumulative-aggregate.geojson.gz" data-map-title="Bad Monkey 109 — bad-monkey-109" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Bad Monkey 109 (bad-monkey-109) cumulative data map in new window" title="Opens interactive map for Bad Monkey 109 (bad-monkey-109) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.05 | 16.55 | 25.07 | 53.90 | 0.98 | 0.52 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Bad Monkey 109 cumulative map](figures/bad-monkey-109-carto.png)](figures/bad-monkey-109-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/bad-monkey-109-data-ge-1080p.webp)](figures/bad-monkey-109-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/bad-monkey-109-data-lt-1080p.webp)](figures/bad-monkey-109-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

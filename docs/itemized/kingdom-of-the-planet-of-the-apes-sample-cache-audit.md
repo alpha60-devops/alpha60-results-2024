@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-28T20:35:34Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/kingdom-of-the-planet-of-the-apes.xz`
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2024-10-27 22:00`, resumed `2024-10-28 00:00` — missing 1 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Kingdom of the Planet of the Apes collection size histogram](figures/kingdom-of-the-planet-of-the-apes-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![kingdom-of-the-planet-of-the-apes downloads by day](figures/kingdom-of-the-planet-of-the-apes-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/geojson.cumulative/kingdom-of-the-planet-of-the-apes-cumulative-aggregate.geojson.gz" data-map-title="The Kingdom of the Planet of the Apes — kingdom-of-the-planet-of-the-apes" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Kingdom of the Planet of the Apes (kingdom-of-the-planet-of-the-apes) cumulative data map in new window" title="Opens interactive map for The Kingdom of the Planet of the Apes (kingdom-of-the-planet-of-the-apes) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 2.93 | 14.60 | 28.59 | 49.33 | 0.99 | 0.60 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Kingdom of the Planet of the Apes cumulative map](figures/kingdom-of-the-planet-of-the-apes-carto.png)](figures/kingdom-of-the-planet-of-the-apes-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/kingdom-of-the-planet-of-the-apes-data-ge-1080p.webp)](figures/kingdom-of-the-planet-of-the-apes-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/kingdom-of-the-planet-of-the-apes-data-lt-1080p.webp)](figures/kingdom-of-the-planet-of-the-apes-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

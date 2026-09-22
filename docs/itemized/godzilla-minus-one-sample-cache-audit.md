@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-28T17:53:50Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/godzilla-minus-one.xz`
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2024-07-10 05:03`, resumed `2024-07-11 00:03` — missing 18 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Gojira -1.0 collection size histogram](figures/godzilla-minus-one-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![godzilla-minus-one downloads by day](figures/godzilla-minus-one-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/geojson.cumulative/godzilla-minus-one-cumulative-aggregate.geojson.gz" data-map-title="Gojira -1.0 — godzilla-minus-one" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Gojira -1.0 (godzilla-minus-one) cumulative data map in new window" title="Opens interactive map for Gojira -1.0 (godzilla-minus-one) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.38 | 17.25 | 26.75 | 50.09 | 0.99 | 0.70 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Gojira -1.0 cumulative map](figures/godzilla-minus-one-carto.png)](figures/godzilla-minus-one-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/godzilla-minus-one-data-ge-1080p.webp)](figures/godzilla-minus-one-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/godzilla-minus-one-data-lt-1080p.webp)](figures/godzilla-minus-one-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

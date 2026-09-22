@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-28T21:07:58Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/only-murders-in-the-building-409.xz`
@@ -39,11 +39,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2024-12-30 20:03`, resumed `2024-12-30 22:03` — missing 1 hour(s)
 - hourly gap: last `2025-01-11 22:03`, resumed `2025-01-12 01:03` — missing 2 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Only Murders In the Building collection size histogram](figures/only-murders-in-the-building-409-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -66,24 +66,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![only-murders-in-the-building-409 downloads by day](figures/only-murders-in-the-building-409-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2024/refs/heads/main/data/geojson.cumulative/only-murders-in-the-building-409-cumulative-aggregate.geojson.gz" data-map-title="Only Murders In the Building — only-murders-in-the-building-409" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Only Murders In the Building (only-murders-in-the-building-409) cumulative data map in new window" title="Opens interactive map for Only Murders In the Building (only-murders-in-the-building-409) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 0.91 | 16.47 | 25.73 | 52.80 | 0.90 | 0.51 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Only Murders In the Building cumulative map](figures/only-murders-in-the-building-409-carto.png)](figures/only-murders-in-the-building-409-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/only-murders-in-the-building-409-data-ge-1080p.webp)](figures/only-murders-in-the-building-409-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/only-murders-in-the-building-409-data-lt-1080p.webp)](figures/only-murders-in-the-building-409-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
